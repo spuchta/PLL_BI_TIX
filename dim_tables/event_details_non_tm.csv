@@ -1,0 +1,14 @@
+event_name,market,event_date,event_time,season_name,plan,total_events,plan_abv
+PL1,07. Chicago,7/11/2025,20:00:00,25.07 Chicago,N,1,E
+PL2,07. Chicago,7/12/2025,20:00:00,25.07 Chicago,N,1,E
+PLL0719A,08. Fairfield,7/19/2025,15:00:00,25.08 Fairfield,N,1,E
+PLL0718,08. Fairfield,7/18/2025,18:30:00,25.08 Fairfield,N,1,E
+WK,08. Fairfield,7/18/2025,11:59:00,25.08 Fairfield,Y,3,FS
+PLL0719B,08. Fairfield,7/19/2025,20:00:00,25.08 Fairfield,N,1,E
+PLL1,10. Denver,8/1/2025,18:00:00,25.10 Denver,N,1,E
+PLL2,10. Denver,8/2/2025,11:00:00,25.10 Denver,N,1,E
+PLL3,10. Denver,8/2/2025,18:00:00,25.10 Denver,N,1,E
+PLLWP,10. Denver,8/1/2025,11:59:00,25.10 Denver,Y,3,FS
+PLL25,13. Subaru Park,9/1/2025,16:00:00,25.13 Subaru Park,N,1,E
+25PLL,14. Championship,9/14/2025,12:30:00,25.14 NY Championship Suites,N,1,E
+PLUS,10. Denver,8/1/2025,23:00:00,25.10 Denver Upgrade,N,1,EXP

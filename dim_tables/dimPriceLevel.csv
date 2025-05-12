@@ -65,15 +65,15 @@
 01. Albany,250530,25AHP,3,A,Price Level 1,60,$199.00 ,39,12,6,13,8,18,21,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL1.png
 01. Albany,250530,25AHP,3,C,Price Level 3,96,$75.00 ,87,38,10,12,27,48,39,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL3.png
 01. Albany,250530,25AHP,3,D,Price Level 4,270,$65.00 ,194,65,16,34,79,81,113,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL4.png
-01. Albany,250530,25AHP,3,E,Price Level 5,312,$55.00 ,231,87,22,37,85,109,122,
-01. Albany,250530,25AHP,3,F,Price Level 6,210,$45.00 ,155,20,11,37,87,31,124,
-01. Albany,250530,25AHP,3,G,Price Level 7,2529,$35.00 ,1250,132,71,314,733,203,1047,
-01. Albany,250530,25AHP,3,H,Price Level 8,2164,$20.00 ,855,98,53,70,634,151,704,
+01. Albany,250530,25AHP,3,E,Price Level 5,312,$55.00 ,231,87,22,37,85,109,122,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL5.png
+01. Albany,250530,25AHP,3,F,Price Level 6,210,$45.00 ,155,20,11,37,87,31,124,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL6.png
+01. Albany,250530,25AHP,3,G,Price Level 7,2529,$35.00 ,1250,132,71,314,733,203,1047,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL7.png
+01. Albany,250530,25AHP,3,H,Price Level 8,2164,$20.00 ,855,98,53,70,634,151,704,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL8.png
 01. Albany,250530,25AHP,3,I,Price Level 9 (GA Lawn),2000,$15.00 ,0,0,0,0,0,0,0,
 01. Albany,250530,25AHP,3,J,Price Level 13 (CLUB),50,$150.00 ,34,0,0,34,0,0,34,
-01. Albany,250530,25AHP,3,K,Price Level 10 (114-117),376,$35.00 ,195,49,26,60,60,75,120,
-01. Albany,250530,25AHP,3,L,Price Level 11 (Supporters),113,$25.00 ,25,6,3,16,0,9,16,
-01. Albany,250530,25AHP,3,M,Price Level 12 (Supporters) Back half,171,$25.00 ,45,0,13,32,0,13,32,
+01. Albany,250530,25AHP,3,K,Price Level 10 (114-117),376,$35.00 ,195,49,26,60,60,75,120,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL11.png
+01. Albany,250530,25AHP,3,L,Price Level 11 (Supporters),113,$25.00 ,25,6,3,16,0,9,16,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL12.png
+01. Albany,250530,25AHP,3,M,Price Level 12 (Supporters) Back half,171,$25.00 ,45,0,13,32,0,13,32,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL13.png
 01. Albany,250530,25AHP,3,N,,,$0.00 ,0,0,0,0,0,0,0,
 01. Albany,250530,25AHP,3,O,,,$286.00 ,0,0,0,0,0,0,0,
 01. Albany,250530,25AHP,3,P,,,$250.00 ,0,0,0,0,0,0,0,
@@ -81,15 +81,15 @@
 01. Albany,250531A,25AHP,3,A,Price Level 1,60,$125.00 ,35,12,6,10,7,18,17,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL1.png
 01. Albany,250531A,25AHP,3,C,Price Level 3,96,$60.00 ,76,38,10,14,14,48,28,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL3.png
 01. Albany,250531A,25AHP,3,D,Price Level 4,270,$50.00 ,147,65,16,30,36,81,66,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL4.png
-01. Albany,250531A,25AHP,3,E,Price Level 5,312,$35.00 ,180,87,22,18,53,109,71,
-01. Albany,250531A,25AHP,3,F,Price Level 6,210,$30.00 ,94,20,11,16,47,31,63,
-01. Albany,250531A,25AHP,3,G,Price Level 7,2529,$25.00 ,1017,132,71,163,651,203,814,
-01. Albany,250531A,25AHP,3,H,Price Level 8,2164,$15.00 ,453,98,53,60,242,151,302,
+01. Albany,250531A,25AHP,3,E,Price Level 5,312,$35.00 ,180,87,22,18,53,109,71,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL5.png
+01. Albany,250531A,25AHP,3,F,Price Level 6,210,$30.00 ,94,20,11,16,47,31,63,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL6.png
+01. Albany,250531A,25AHP,3,G,Price Level 7,2529,$25.00 ,1017,132,71,163,651,203,814,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL7.png
+01. Albany,250531A,25AHP,3,H,Price Level 8,2164,$15.00 ,453,98,53,60,242,151,302,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL8.png
 01. Albany,250531A,25AHP,3,I,Price Level 9 (GA Lawn),2000,$10.00 ,100,0,0,50,50,0,100,
 01. Albany,250531A,25AHP,3,J,Price Level 13 (CLUB),50,$125.00 ,34,0,0,34,0,0,34,
-01. Albany,250531A,25AHP,3,K,Price Level 10 (114-117),376,$25.00 ,195,49,26,60,60,75,120,
-01. Albany,250531A,25AHP,3,L,Price Level 11 (Supporters),113,$25.00 ,40,6,3,31,0,9,31,
-01. Albany,250531A,25AHP,3,M,Price Level 12 (Supporters) Back half,171,$25.00 ,60,0,13,47,0,13,47,
+01. Albany,250531A,25AHP,3,K,Price Level 10 (114-117),376,$25.00 ,195,49,26,60,60,75,120,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL11.png
+01. Albany,250531A,25AHP,3,L,Price Level 11 (Supporters),113,$25.00 ,40,6,3,31,0,9,31,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL12.png
+01. Albany,250531A,25AHP,3,M,Price Level 12 (Supporters) Back half,171,$25.00 ,60,0,13,47,0,13,47,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL13.png
 01. Albany,250531A,25AHP,3,N,,,$0.00 ,0,0,0,0,0,0,0,
 01. Albany,250531A,25AHP,3,O,,,$286.00 ,0,0,0,0,0,0,0,
 01. Albany,250531A,25AHP,3,P,,,$250.00 ,0,0,0,0,0,0,0,
@@ -97,15 +97,15 @@
 01. Albany,250531E,25AHP,3,A,Price Level 1,60,$199.00 ,43,12,6,15,10,18,25,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL1.png
 01. Albany,250531E,25AHP,3,C,Price Level 3,96,$70.00 ,86,38,10,19,19,48,38,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL3.png
 01. Albany,250531E,25AHP,3,D,Price Level 4,270,$60.00 ,213,65,16,66,66,81,132,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL4.png
-01. Albany,250531E,25AHP,3,E,Price Level 5,312,$50.00 ,251,87,22,71,71,109,142,
-01. Albany,250531E,25AHP,3,F,Price Level 6,210,$45.00 ,155,20,11,62,62,31,124,
-01. Albany,250531E,25AHP,3,G,Price Level 7,2529,$35.00 ,1831,132,71,651,977,203,1628,
-01. Albany,250531E,25AHP,3,H,Price Level 8,2164,$20.00 ,1157,98,53,201,805,151,1006,
+01. Albany,250531E,25AHP,3,E,Price Level 5,312,$50.00 ,251,87,22,71,71,109,142,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL5.png
+01. Albany,250531E,25AHP,3,F,Price Level 6,210,$45.00 ,155,20,11,62,62,31,124,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL6.png
+01. Albany,250531E,25AHP,3,G,Price Level 7,2529,$35.00 ,1831,132,71,651,977,203,1628,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL7.png
+01. Albany,250531E,25AHP,3,H,Price Level 8,2164,$20.00 ,1157,98,53,201,805,151,1006,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL8.png
 01. Albany,250531E,25AHP,3,I,Price Level 9 (GA Lawn),2000,$15.00 ,0,0,0,0,0,0,0,
 01. Albany,250531E,25AHP,3,J,Price Level 13 (CLUB),50,$125.00 ,34,0,0,34,0,0,34,
-01. Albany,250531E,25AHP,3,K,Price Level 10 (114-117),376,$30.00 ,195,49,26,60,60,75,120,
-01. Albany,250531E,25AHP,3,L,Price Level 11 (Supporters),113,$25.00 ,25,6,3,16,0,9,16,
-01. Albany,250531E,25AHP,3,M,Price Level 12 (Supporters) Back half,171,$25.00 ,45,0,13,32,0,13,32,
+01. Albany,250531E,25AHP,3,K,Price Level 10 (114-117),376,$30.00 ,195,49,26,60,60,75,120,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL11.png
+01. Albany,250531E,25AHP,3,L,Price Level 11 (Supporters),113,$25.00 ,25,6,3,16,0,9,16,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL12.png
+01. Albany,250531E,25AHP,3,M,Price Level 12 (Supporters) Back half,171,$25.00 ,45,0,13,32,0,13,32,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Albany/AlbanyPL13.png
 01. Albany,250531E,25AHP,3,N,,,$0.00 ,0,0,0,0,0,0,0,
 01. Albany,250531E,25AHP,3,O,,,$286.00 ,0,0,0,0,0,0,0,
 01. Albany,250531E,25AHP,3,P,,,$250.00 ,0,0,0,0,0,0,0,

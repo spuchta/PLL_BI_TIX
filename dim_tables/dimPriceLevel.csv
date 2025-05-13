@@ -110,42 +110,42 @@
 01. Albany,250531E,25AHP,3,O,,,$286.00 ,0,0,0,0,0,0,0,
 01. Albany,250531E,25AHP,3,P,,,$250.00 ,0,0,0,0,0,0,0,
 01. Albany,250531E,25AHP,3,Q,,,$200.00 ,0,0,0,0,0,0,0,
-02. Charlotte,250606,25CHP,3,A,Price Level 1,60,$199.00 ,39,17,7,9,6,24,15,
-02. Charlotte,250606,25CHP,3,C,Price Level 3,180,$75.00 ,156,69,30,23,34,99,57,
-02. Charlotte,250606,25CHP,3,D,Price Level 4,1120,$65.00 ,744,125,54,226,339,179,565,
-02. Charlotte,250606,25CHP,3,E,Price Level 5,730,$49.00 ,592,123,53,166,250,176,416,
-02. Charlotte,250606,25CHP,3,F,Price Level 6,2920,$35.00 ,1607,204,88,329,986,292,1315,
-02. Charlotte,250606,25CHP,3,G,Price Level 7,1934,$28.00 ,839,55,24,190,570,79,760,
-02. Charlotte,250606,25CHP,3,H,Price Level 8,2031,$20.00 ,101,0,0,15,86,0,101,
+02. Charlotte,250606,25CHP,3,A,Price Level 1,60,$199.00 ,39,17,7,9,6,24,15,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL1.png
+02. Charlotte,250606,25CHP,3,C,Price Level 3,180,$75.00 ,156,69,30,23,34,99,57,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL3.png
+02. Charlotte,250606,25CHP,3,D,Price Level 4,1120,$65.00 ,744,125,54,226,339,179,565,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL4.png
+02. Charlotte,250606,25CHP,3,E,Price Level 5,730,$49.00 ,592,123,53,166,250,176,416,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL5.png
+02. Charlotte,250606,25CHP,3,F,Price Level 6,2920,$35.00 ,1607,204,88,329,986,292,1315,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL6.png
+02. Charlotte,250606,25CHP,3,G,Price Level 7,1934,$28.00 ,839,55,24,190,570,79,760,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL7.png
+02. Charlotte,250606,25CHP,3,H,Price Level 8,2031,$20.00 ,101,0,0,15,86,0,101,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL8.png
 02. Charlotte,250606,25CHP,3,I,Suites,0,$0.00 ,0,0,0,0,0,0,0,
 02. Charlotte,250606,25CHP,3,J,,,,0,0,0,0,0,0,0,
 02. Charlotte,250606,25CHP,3,K,Club/Premium,50,$150.00 ,14,0,0,14,0,0,14,
-02. Charlotte,250606,25CHP,3,L,Supporters - 125 Front,160,$28.00 ,83,22,10,51,0,32,51,
-02. Charlotte,250606,25CHP,3,M,Supporters - 125 Back,140,$20.00 ,131,25,11,95,0,36,95,
-02. Charlotte,250607A,25CHP,3,A,Price Level 1,60,$125.00 ,31,17,7,5,2,24,7,
-02. Charlotte,250607A,25CHP,3,C,Price Level 3,180,$65.00 ,115,69,30,8,8,99,16,
-02. Charlotte,250607A,25CHP,3,D,Price Level 4,1120,$50.00 ,321,125,54,71,71,179,142,
-02. Charlotte,250607A,25CHP,3,E,Price Level 5,730,$35.00 ,314,123,53,69,69,176,138,
-02. Charlotte,250607A,25CHP,3,F,Price Level 6,2920,$28.00 ,817,204,88,210,315,292,525,
-02. Charlotte,250607A,25CHP,3,G,Price Level 7,1934,$20.00 ,459,55,24,190,190,79,380,
-02. Charlotte,250607A,25CHP,3,H,Price Level 8,2031,$15.00 ,0,0,0,0,0,0,0,
+02. Charlotte,250606,25CHP,3,L,Supporters - 125 Front,160,$28.00 ,83,22,10,51,0,32,51,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL12.png
+02. Charlotte,250606,25CHP,3,M,Supporters - 125 Back,140,$20.00 ,131,25,11,95,0,36,95,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL13.png
+02. Charlotte,250607A,25CHP,3,A,Price Level 1,60,$125.00 ,31,17,7,5,2,24,7,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL1.png
+02. Charlotte,250607A,25CHP,3,C,Price Level 3,180,$65.00 ,115,69,30,8,8,99,16,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL3.png
+02. Charlotte,250607A,25CHP,3,D,Price Level 4,1120,$50.00 ,321,125,54,71,71,179,142,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL4.png
+02. Charlotte,250607A,25CHP,3,E,Price Level 5,730,$35.00 ,314,123,53,69,69,176,138,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL5.png
+02. Charlotte,250607A,25CHP,3,F,Price Level 6,2920,$28.00 ,817,204,88,210,315,292,525,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL6.png
+02. Charlotte,250607A,25CHP,3,G,Price Level 7,1934,$20.00 ,459,55,24,190,190,79,380,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL7.png
+02. Charlotte,250607A,25CHP,3,H,Price Level 8,2031,$15.00 ,0,0,0,0,0,0,0,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL8.png
 02. Charlotte,250607A,25CHP,3,I,Suites,0,$0.00 ,0,0,0,0,0,0,0,
 02. Charlotte,250607A,25CHP,3,J,,,,0,0,0,0,0,0,0,
 02. Charlotte,250607A,25CHP,3,K,Club/Premium,50,$125.00 ,14,0,0,14,0,0,14,
-02. Charlotte,250607A,25CHP,3,L,Supporters - 125 Front,160,$20.00 ,70,22,10,38,0,32,38,
-02. Charlotte,250607A,25CHP,3,M,Supporters - 125 Back,140,$15.00 ,110,25,11,74,0,36,74,
-02. Charlotte,250607E,25CHP,3,A,Price Level 1,60,$199.00 ,46,17,7,13,9,24,22,
-02. Charlotte,250607E,25CHP,3,C,Price Level 3,180,$70.00 ,164,69,30,26,39,99,65,
-02. Charlotte,250607E,25CHP,3,D,Price Level 4,1120,$60.00 ,837,125,54,263,395,179,658,
-02. Charlotte,250607E,25CHP,3,E,Price Level 5,730,$45.00 ,592,123,53,166,250,176,416,
-02. Charlotte,250607E,25CHP,3,F,Price Level 6,2920,$35.00 ,2000,204,88,427,1281,292,1708,
-02. Charlotte,250607E,25CHP,3,G,Price Level 7,1934,$28.00 ,1028,55,24,237,712,79,949,
-02. Charlotte,250607E,25CHP,3,H,Price Level 8,2031,$20.00 ,0,0,0,0,0,0,0,
+02. Charlotte,250607A,25CHP,3,L,Supporters - 125 Front,160,$20.00 ,70,22,10,38,0,32,38,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL12.png
+02. Charlotte,250607A,25CHP,3,M,Supporters - 125 Back,140,$15.00 ,110,25,11,74,0,36,74,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL13.png
+02. Charlotte,250607E,25CHP,3,A,Price Level 1,60,$199.00 ,46,17,7,13,9,24,22,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL1.png
+02. Charlotte,250607E,25CHP,3,C,Price Level 3,180,$70.00 ,164,69,30,26,39,99,65,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL3.png
+02. Charlotte,250607E,25CHP,3,D,Price Level 4,1120,$60.00 ,837,125,54,263,395,179,658,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL4.png
+02. Charlotte,250607E,25CHP,3,E,Price Level 5,730,$45.00 ,592,123,53,166,250,176,416,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL5.png
+02. Charlotte,250607E,25CHP,3,F,Price Level 6,2920,$35.00 ,2000,204,88,427,1281,292,1708,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL6.png
+02. Charlotte,250607E,25CHP,3,G,Price Level 7,1934,$28.00 ,1028,55,24,237,712,79,949,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL7.png
+02. Charlotte,250607E,25CHP,3,H,Price Level 8,2031,$20.00 ,0,0,0,0,0,0,0,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL8.png
 02. Charlotte,250607E,25CHP,3,I,Suites,0,$0.00 ,0,0,0,0,0,0,0,
 02. Charlotte,250607E,25CHP,3,J,,,,0,0,0,0,0,0,0,
 02. Charlotte,250607E,25CHP,3,K,Club/Premium,50,$125.00 ,14,0,0,14,0,0,14,
-02. Charlotte,250607E,25CHP,3,L,Supporters - 125 Front,160,$28.00 ,96,22,10,64,0,32,64,
-02. Charlotte,250607E,25CHP,3,M,Supporters - 125 Back,140,$20.00 ,131,25,11,95,0,36,95,
+02. Charlotte,250607E,25CHP,3,L,Supporters - 125 Front,160,$28.00 ,96,22,10,64,0,32,64,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL12.png
+02. Charlotte,250607E,25CHP,3,M,Supporters - 125 Back,140,$20.00 ,131,25,11,95,0,36,95,https://raw.githubusercontent.com/spuchta/PLL_BI_TIX/refs/heads/main/seat-maps/Charlotte/CharlottePL13.png
 03. Philadelphia,250613,25PHP,3,A,Price Level 1,60,$199.00 ,45,10,8,22,5,18,27,
 03. Philadelphia,250613,25PHP,3,B,Price Level 2,2000,$65.00 ,444,99,72,96,177,171,273,
 03. Philadelphia,250613,25PHP,3,C,Price Level 3,2554,$50.00 ,644,49,40,194,361,89,555,

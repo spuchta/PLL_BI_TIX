@@ -1,4 +1,4 @@
-﻿ticket_type,ticket_type_name,ticket_type_desc,inet_ticket_type_name,inet_ticket_type_desc,active,protected,host_ticket_type,host_qual_id,host_qual_name,ticket_type_category,class_id,sort_seq,upd_user,upd_datetime,comp_ind,comp_code,default_host_offer_id,default_host_seat_mask,orig_lbd_ticket_type,fantm_message_code,ms_seq_id
+ticket_type,ticket_type_name,ticket_type_desc,inet_ticket_type_name,inet_ticket_type_desc,active,protected,host_ticket_type,host_qual_id,host_qual_name,ticket_type_category,class_id,sort_seq,upd_user,upd_datetime,comp_ind,comp_code,default_host_offer_id,default_host_seat_mask,orig_lbd_ticket_type,fantm_message_code,ms_seq_id
 _0,,,,,N,N,K-TYPE,74,_X7_,,,927,tm46,7/2/2007 14:37:43:355,N,,0,_0,,,1
 _00,,,,,N,N,K-TYPE,101,_X70,,,954,tm46,7/2/2007 14:37:43:355,N,,0,_00,,,2
 _01,Group Marketing 10%,Group Marketing 10%,Group Marketing 10%,Group Marketing 10%,Y,N,K-TYPE,102,_X71,GRP,,955,SPUCHTA,1/29/2025 17:07:12:934894,N,,0,_01,,,3
@@ -567,10 +567,10 @@ _F8,Fevo Early Bird Non-Internal,Fevo Early Bird Non-Internal,Fevo Early Bird No
 _F9,Fevo $20 Ticket,Fevo $20 Ticket,Fevo $20 Ticket,Fevo $20 Ticket,Y,N,G-TYPE,73,_DU9,GRP,,519,SPUCHTA,2/14/2025 17:40:06:536576,N,,0,_F9,,,566
 _FA,Fevo Early Bird 2 Group,Fevo Early Bird 2 Group,Fevo Early Bird 2 Group,Fevo Early Bird 2 Group,Y,N,G-TYPE,38,_DUA,GRP,,484,SPUCHTA,3/20/2025 10:55:13:889154,N,,0,_FA,,,567
 _FB,Fevo Early Bird Group,Fevo Early Bird Group,Fevo Early Bird Group,Fevo Early Bird Group,Y,N,G-TYPE,39,_DUB,GRP,,485,SPUCHTA,3/3/2025 13:32:56:92527,N,,0,_FB,,,568
-_FC,Fevo Tax 20% Discount,Fevo Tax 20% Discount,Fevo Tax 20% Discount,Fevo Tax 20% Discount,Y,N,G-TYPE,40,_DUC,GRP,,486,KMYERS,5/9/2022 10:58:58:746241,N,,0,_FC,,,569
-_FD,Fevo Tax 30% Discount,Fevo Tax 30% Discount,Fevo Tax 30% Discount,Fevo Tax 30% Discount,Y,N,G-TYPE,41,_DUD,GRP,,487,KMYERS,5/9/2022 10:58:58:77396,N,,0,_FD,,,570
-_FE,Fevo Tax 40% Discount,Fevo Tax 40% Discount,Fevo Tax 40% Discount,Fevo Tax 40% Discount,Y,N,G-TYPE,42,_DUE,GRP,,488,KMYERS,5/9/2022 10:58:58:793938,N,,0,_FE,,,571
-_FF,Fevo Tax 50% Discount,Fevo Tax 50% Discount,Fevo Tax 50% Discount,Fevo Tax 50% Discount,Y,N,G-TYPE,43,_DUF,GRP,,489,KMYERS,5/9/2022 10:58:58:814826,N,,0,_FF,,,572
+_FC,Fevo TRUE EB 2,Fevo TRUE EB 2,Fevo TRUE EB 2,Fevo TRUE EB 2,Y,N,G-TYPE,40,_DUC,GRP,,486,SPUCHTA,5/13/2025 08:11:31:322136,N,,0,_FC,,,569
+_FD,Fevo Tax 30% Discount,Fevo Tax 30% Discount,Fevo Tax 30% Discount,Fevo Tax 30% Discount,N,N,G-TYPE,41,_DUD,GRP,,487,SPUCHTA,5/13/2025 08:11:31:379286,N,,0,_FD,,,570
+_FE,Fevo Tax 40% Discount,Fevo Tax 40% Discount,Fevo Tax 40% Discount,Fevo Tax 40% Discount,N,N,G-TYPE,42,_DUE,GRP,,488,SPUCHTA,5/13/2025 08:11:31:430635,N,,0,_FE,,,571
+_FF,Fevo Tax 50% Discount,Fevo Tax 50% Discount,Fevo Tax 50% Discount,Fevo Tax 50% Discount,N,N,G-TYPE,43,_DUF,GRP,,489,SPUCHTA,5/13/2025 08:11:31:467524,N,,0,_FF,,,572
 _FG,Fevo Tax ULAX Discount,Fevo Tax ULAX Discount,Fevo Tax ULAX Discount,Fevo Tax ULAX Discount,Y,N,G-TYPE,44,_DUG,GRP,,490,AKRALL,5/10/2022 07:19:58:511709,N,,0,_FG,,,573
 _FH,Fevo $15 Special Offer,Fevo $15 Special Offer,Fevo $15 Special Offer,Fevo $15 Special Offer,Y,N,G-TYPE,45,_DUH,GRP,,491,KMYERS,5/10/2022 10:24:16:601187,N,,0,_FH,,,574
 _FI,Fevo - 30% Prem to Standard,Fevo - 30% Prem to Standard,Fevo - 30% Prem to Standard,Fevo - 30% Prem to Standard,Y,N,G-TYPE,46,_DUI,GRP,,492,KMYERS,5/24/2022 13:24:00:412903,N,,0,_FI,,,575

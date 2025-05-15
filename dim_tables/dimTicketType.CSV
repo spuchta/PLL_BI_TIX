@@ -499,7 +499,7 @@ _DE,Child 3,Child 3,Child 3,Child 3,Y,N,ADULT,42,_DUE,FP,,414,KMYERS,8/21/2024 0
 _DF,,,,,N,N,ADULT,43,_DUF,,,415,tm46,7/2/2007 14:37:43:245,N,,0,_DF,,,498
 _DG,,,,,N,N,ADULT,44,_DUG,,,416,tm46,7/2/2007 14:37:43:245,N,,0,_DG,,,499
 _DH,,,,,N,N,ADULT,45,_DUH,,,417,tm46,7/2/2007 14:37:43:245,N,,0,_DH,,,500
-_DI,,,,,N,N,ADULT,46,_DUI,,,418,TM61,2/6/2020 11:31:48:415,N,,0,_DI,,,501
+_DI,Deposit: Group Program,Deposit: Group Program,Deposit: Group Program,Deposit: Group Program,Y,N,ADULT,46,_DUI,GRP,,418,SPUCHTA,5/15/2025 14:31:49:274354,N,,0,_DI,,,501
 _DJ,Deposit: Club Program (Group),Deposit: Club Program (Group),Deposit: Club Program (Group),Deposit: Club Program (Group),Y,N,ADULT,47,_DUJ,GRP,,419,SPUCHTA,4/3/2025 13:10:20:161522,N,,0,_DJ,,,502
 _DK,Deposit: Comm Program (Group),Deposit: Comm Program (Group),Deposit: Comm Program (Group),Deposit: Comm Program (Group),Y,N,ADULT,48,_DUK,GRP,,420,SPUCHTA,4/3/2025 13:10:20:17647,N,,0,_DK,,,503
 _DL,Deposit: BD Tickets (Non-Int),Deposit: BD Tickets (Non-Int),Deposit: BD Tickets (Non-Int),Deposit: BD Tickets (Non-Int),Y,N,ADULT,49,_DUL,FP,,421,SPUCHTA,4/3/2025 13:10:20:190864,N,,0,_DL,,,504

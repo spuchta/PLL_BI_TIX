@@ -1,8 +1,8 @@
-﻿event_name,section_name,row_name,seat_num,last_seat,num_seats,acct_id,owner_name,zip,add_datetime,price_code,promo_code,paid,printed,mobile,group_flag,consignment,comp,comp_name,purchase_price,block_purchase_price,full_price,block_full_price,percent_paid,paid_amount,acct_rep_id,acct_rep_full_name,ticket_status,assoc_acct_id,inet_purchase_price,acct_type_desc,ticket_type,ticket_type_category,add_usr,ledger_code,plan_event_name,seat_holder_name,retail_ticket_type,retail_qualifiers,retail_price_level,sub_plan_event_name,privacy_restrict,privacy_opt_out
+event_name,section_name,row_name,seat_num,last_seat,num_seats,acct_id,owner_name,zip,add_datetime,price_code,promo_code,paid,printed,mobile,group_flag,consignment,comp,comp_name,purchase_price,block_purchase_price,full_price,block_full_price,percent_paid,paid_amount,acct_rep_id,acct_rep_full_name,ticket_status,assoc_acct_id,inet_purchase_price,acct_type_desc,ticket_type,ticket_type_category,add_usr,ledger_code,plan_event_name,seat_holder_name,retail_ticket_type,retail_qualifiers,retail_price_level,sub_plan_event_name,privacy_restrict,privacy_opt_out
 D250530,GA1,GA1,1,15,15,1265223,518 Fuse,,4/4/2025,ADJ,,Y,0,N,N,N,N,Not Comp,11.67,175.05,11.67,175.05,100,175.05,-4,Default Account Rep,Active,,,Personal,Deposit: Club Program (Group),Group,SPUCHTA,GEN,D25ALB,,,,,,,
 D250531A,GA1,GA1,1,15,15,1265223,518 Fuse,,4/4/2025,ADJ,,Y,0,N,N,N,N,Not Comp,11.67,175.05,11.67,175.05,100,175.05,-4,Default Account Rep,Active,,,Personal,Deposit: Club Program (Group),Group,SPUCHTA,GEN,D25ALB,,,,,,,
 D250531E,GA1,GA1,1,15,15,1265223,518 Fuse,,4/4/2025,ADJ,,Y,0,N,N,N,N,Not Comp,11.66,174.9,11.66,174.9,100,174.9,-4,Default Account Rep,Active,,,Personal,Deposit: Club Program (Group),Group,SPUCHTA,GEN,D25ALB,,,,,,,
-D250613,GA1,GA1,1,33,33,927731,"DeLong, Alex",,5/15/2025,ADI,,N,0,N,N,N,N,Not Comp,20,660,20,660,0,0,745538,August Van Dalsum,Active,,,Premier Partner,Deposit: Group Program,Group,SPUCHTA,GEN,,,,,,,,
+D250613,GA1,GA1,1,33,33,927731,"DeLong, Alex",,5/15/2025,ADI,,Y,0,N,N,N,N,Not Comp,20,660,20,660,100,660,745538,August Van Dalsum,Active,,,Premier Partner,Deposit: Group Program,Group,SPUCHTA,GEN,,,,,,,,
 D250627,GA1,GA1,1,45,45,1265427,GWB,,4/4/2025,ADK,,Y,0,N,N,N,N,Not Comp,12.5,562.5,12.5,562.5,100,562.5,-4,Default Account Rep,Active,,,Group,Deposit: Comm Program (Group),Group,SPUCHTA,GEN,D25SD,,,,,,,
 D250628,GA1,GA1,1,45,45,1265427,GWB,,4/4/2025,ADK,,Y,0,N,N,N,N,Not Comp,12.5,562.5,12.5,562.5,100,562.5,-4,Default Account Rep,Active,,,Group,Deposit: Comm Program (Group),Group,SPUCHTA,GEN,D25SD,,,,,,,
 25APLUS,GA1,GA1,1,4,4,592396,"Jones, Frederick",12186,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,200,50,200,100,200,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Frederick Jones,,,,,,N
@@ -20,6 +20,8 @@ D250628,GA1,GA1,1,45,45,1265427,GWB,,4/4/2025,ADK,,Y,0,N,N,N,N,Not Comp,12.5,562
 25BSVIP,GA1,GA1,1,2,2,807469,"BOUTIN, KAMERON",01801,5/9/2025,AHY,,Y,0,N,N,N,N,Not Comp,175,350,175,350,100,350,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,KAMERON BOUTIN,,,,,,N
 25CHHC1,GA1,GA1,1,2,2,1262998,"Levitch, David",,3/25/2025,AHC,,Y,0,N,N,N,N,Not Comp,150,300,150,300,100,300,-4,Default Account Rep,Active,,,Personal,Group Sales Honorary Captain,Premium Experience,JRAMSEY,GEN,,,,,,,,
 25CHHC2,GA1,GA1,1,1,1,1267526,"Barker, Andrew",,4/16/2025,AHC,,Y,0,N,N,N,N,Not Comp,150,150,150,150,100,150,361659,Brady Douglas,Active,,,Personal,Group Sales Honorary Captain,Premium Experience,BDOUGLAS,GEN,,,,,,,,
+D250621,GA1,GA1,1,4,4,1293381,Jemicy School,,5/16/2025,ADH,,Y,0,N,N,N,N,Not Comp,500,2000,500,2000,100,2000,-4,Default Account Rep,Active,,,Personal,Deposit: Rabil Foundation,Group,SPUCHTA,GEN,D25BAL,,,,,,,
+D250622,GA1,GA1,1,4,4,1293381,Jemicy School,,5/16/2025,ADH,,Y,0,N,N,N,N,Not Comp,500,2000,500,2000,100,2000,-4,Default Account Rep,Active,,,Personal,Deposit: Rabil Foundation,Group,SPUCHTA,GEN,D25BAL,,,,,,,
 25CHMG1,GA1,GA1,1,4,4,1267526,"Barker, Andrew",,4/16/2025,AMGG,,Y,0,N,N,N,N,Not Comp,50,200,50,200,100,200,361659,Brady Douglas,Active,,,Personal,Group Sales Meet and Greet,Premium Experience,BDOUGLAS,GEN,,,,,,,,
 25AVIP,GA1,GA1,3,4,2,614032,"Pzynski, Jeff",06068,5/9/2025,AHY,,Y,0,N,N,N,N,Not Comp,175,350,175,350,100,350,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Jeff Pzynski,,,,,,N
 25CVIP,GA1,GA1,3,4,2,582702,"Ringenberg, Todd",27518,5/9/2025,AHY,,Y,0,N,N,N,N,Not Comp,175,350,175,350,100,350,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Todd Ringenberg,,,,,,N
@@ -39,6 +41,8 @@ D250628,GA1,GA1,1,45,45,1265427,GWB,,4/4/2025,ADK,,Y,0,N,N,N,N,Not Comp,12.5,562
 25SDVIP,GA1,GA1,5,6,2,822426,"Cuttrell, Carson",92591,5/9/2025,AHY,,P,0,N,N,N,N,Not Comp,175,350,175,350,23.71,83,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Carson Cuttrell,,,,,,N
 25BSPLUS,GA1,GA1,5,6,2,806896,"Lessard, Lianne",02780,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Lianne Lessard,,,,,,N
 25BSVIP,GA1,GA1,5,8,4,804480,"Felico, Christopher",10990,1/27/2025,A,,P,0,N,N,N,N,Not Comp,175,700,175,700,33.38,233.68,113,Kyle Perri,Active,,,Personal,Homecoming Pass VIP,Package,SPUCHTA,GEN,,,,,,,,N
+D25BAL,GA1,GA1,5,5,1,1293399,Odyssey School,,5/16/2025,ADH,,Y,0,N,N,N,N,Not Comp,1000,1000,1000,1000,100,1000,-4,Default Account Rep,Active,,,Personal,Deposit: Rabil Foundation,Group,SPUCHTA,GEN,D25BAL,,,,,,,
+D25BAL,GA1,GA1,6,6,1,1293415,The Lab School Baltimore,,5/16/2025,ADH,,Y,0,N,N,N,N,Not Comp,1000,1000,1000,1000,100,1000,-4,Default Account Rep,Active,,,Personal,Deposit: Rabil Foundation,Group,SPUCHTA,GEN,D25BAL,,,,,,,
 25APLUS,GA1,GA1,7,10,4,613208,"Ellwood, Jamie",12054,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,200,50,200,100,200,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Jamie Ellwood,,,,,,N
 25CVIP,GA1,GA1,7,8,2,379114,"Nicola, David",28226,2/10/2025,A,,Y,0,N,N,N,N,Not Comp,175,350,175,350,100,350,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP,Package,inet01,GEN,,David Nicola,,,,,,
 25BPLUS,GA1,GA1,7,10,4,146791,"Sample, William",017761396,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,200,50,200,100,200,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,William Sample,,,,,,
@@ -46,17 +50,21 @@ D250628,GA1,GA1,1,45,45,1265427,GWB,,4/4/2025,ADK,,Y,0,N,N,N,N,Not Comp,12.5,562
 25SDVIP,GA1,GA1,7,8,2,895623,"Noonan, Kevin",,5/9/2025,AHY,,P,0,N,N,N,N,Not Comp,175,350,175,350,71.43,250,876391,Shayna Slade,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Kevin Noonan,,,,,,
 25SLVIP,GA1,GA1,7,10,4,810789,"Bennion, Connor",84302,5/9/2025,AHY,,P,0,N,N,N,N,Not Comp,175,700,175,700,23.86,167,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Connor Bennion,,,,,,N
 25BSPLUS,GA1,GA1,7,10,4,805836,"riso, valerie",03054-2660,5/9/2025,AHZ,,P,0,N,N,N,N,Not Comp,50,200,50,200,33.5,67,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,valerie riso,,,,,,N
+D25BAL,GA1,GA1,7,7,1,1293407,National Dyslexia Tutoring Program,,5/16/2025,ADH,,Y,0,N,N,N,N,Not Comp,1000,1000,1000,1000,100,1000,-4,Default Account Rep,Active,,,Personal,Deposit: Rabil Foundation,Group,SPUCHTA,GEN,D25BAL,,,,,,,
 25PVIP,GA1,GA1,8,8,1,162999,"Fisher, Lauren",80227,5/9/2025,AHY,,Y,0,N,N,N,N,Not Comp,175,175,175,175,100,175,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Lauren Fisher,,,,,,
 25SDPLUS,GA1,GA1,8,11,4,836432,"LEIBOLD, STEVEN",91910,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,200,50,200,100,200,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,STEVEN LEIBOLD,,,,,,N
 25SLPLUS,GA1,GA1,8,9,2,765451,"Heath, Mike",84081,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Mike Heath,,,,,,
+D25BAL,GA1,GA1,8,8,1,1293423,The Lab School Washington,,5/16/2025,ADH,,Y,0,N,N,N,N,Not Comp,1000,1000,1000,1000,100,1000,-4,Default Account Rep,Active,,,Personal,Deposit: Rabil Foundation,Group,SPUCHTA,GEN,D25BAL,,,,,,,
 25AVIP,GA1,GA1,9,12,4,806179,"Hayes, Cherryl",10925,5/9/2025,AHY,,Y,0,N,N,N,N,Not Comp,175,700,175,700,100,700,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Cherryl Hayes,,,,,,N
 25CPLUS,GA1,GA1,9,12,4,347286,"Donahue, Kelly",,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,200,50,200,100,200,344630,Alex Waelder,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Kelly Donahue,,,,,,
 25CVIP,GA1,GA1,9,9,1,649460,"Sartorius, Louisa",28211,5/9/2025,AHY,,Y,0,N,N,N,N,Not Comp,175,175,175,175,100,175,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Louisa Sartorius,,,,,,
 25PPLUS,GA1,GA1,9,10,2,944478,"Widecan, Joseph",19064,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Joseph Widecan,,,,,,N
 25SDVIP,GA1,GA1,9,10,2,914496,"Wood, michael",V2A3R3,5/9/2025,AHY,,P,0,N,N,N,N,Not Comp,175,350,175,350,71.43,250,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,michael Wood,,,,,,N
 25BSVIP,GA1,GA1,9,12,4,887824,"Meincke, Katherine ",02645,5/9/2025,AHY,,Y,0,N,N,N,N,Not Comp,175,700,175,700,100,700,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Katherine Meincke,,,,,,N
+D25BAL,GA1,GA1,9,9,1,1293431,DeMatha,,5/16/2025,ADH,,Y,0,N,N,N,N,Not Comp,1000,1000,1000,1000,100,1000,-4,Default Account Rep,Active,,,Personal,Deposit: Rabil Foundation,Group,SPUCHTA,GEN,D25BAL,,,,,,,
 25CVIP,GA1,GA1,10,11,2,875789,"Petersen, Jeffrey",32962,5/9/2025,AHY,,Y,0,N,N,N,N,Not Comp,175,350,175,350,100,350,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Jeffrey Petersen,,,,,,N
 25SLPLUS,GA1,GA1,10,12,3,988834,"Hemphill, Shayla",98501,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,150,50,150,100,150,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Shayla Hemphill,,,,,,N
+D25BAL,GA1,GA1,10,10,1,1293449,Summit,,5/16/2025,ADH,,Y,0,N,N,N,N,Not Comp,1000,1000,1000,1000,100,1000,-4,Default Account Rep,Active,,,Personal,Deposit: Rabil Foundation,Group,SPUCHTA,GEN,D25BAL,,,,,,,
 25APLUS,GA1,GA1,11,11,1,167149,"Toner, Jason",13790,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,50,50,50,100,50,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Jason Toner,,,,,,
 25PPLUS,GA1,GA1,11,12,2,1213021,"Rodriguez, Nicholas ",48168,2/5/2025,A,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS,Package,OKAUFMAN,GEN,,,,,,,,N
 25BPLUS,GA1,GA1,11,14,4,1210151,"Costello, Kelly",85018,1/29/2025,A,,Y,0,N,N,N,N,Not Comp,50,200,50,200,100,200,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS,Package,inet01,GEN,,Kelly Costello,,,,,,N
@@ -136,6 +144,7 @@ D250531E,GA1,GA1,16,30,15,1265256,Orange Crush,,4/9/2025,ADK,,Y,0,N,N,N,N,Not Co
 25SDVIP,GA1,GA1,26,27,2,1231290,"Kaufmann, Lindsay",92262,5/9/2025,AHY,,P,0,N,N,N,N,Not Comp,175,350,175,350,71.43,250,888198,Oliver Kaufmann,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Lindsay Kaufmann,,,,,,
 25SLVIP,GA1,GA1,26,29,4,461319,"Harding, Niki",84123,5/9/2025,AHY,,P,0,N,N,N,N,Not Comp,175,700,175,700,71.43,500,-4,Default Account Rep,Active,,,Premier Partner,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Niki Harding,,,,,,N
 25BPLUS,GA1,GA1,27,30,4,261397,"O'Brien, Andrew",20816,2/7/2025,A,,Y,0,N,N,N,N,Not Comp,50,200,50,200,100,200,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS,Package,inet01,GEN,,Andrew O'Brien,,,,,,N
+25SDVIP,GA1,GA1,28,29,2,768928,"Edgerton, Joseph L",89138,5/16/2025,A,,Y,0,N,N,N,N,Not Comp,125,250,125,250,100,250,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP,Package,OKAUFMAN,GEN,,,,,,,,N
 25BSPLUS,GA1,GA1,28,31,4,1209983,"Sannicandro, Michelle",02061,1/29/2025,A,,Y,0,N,N,N,N,Not Comp,50,200,50,200,100,200,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS,Package,inet01,GEN,,Michelle Sannicandro,,,,,,N
 25APLUS,GA1,GA1,29,31,3,836392,"Izquierdo, Julio",07070,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,150,50,150,100,150,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Julio Izquierdo,,,,,,N
 25CPLUS,GA1,GA1,29,30,2,1191617,"Antonucci, Timothy",28090,1/29/2025,A,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS,Package,inet01,GEN,,Timothy Antonucci,,,,,,N
@@ -155,6 +164,7 @@ D250531E,GA1,GA1,31,45,15,1265264,TRUE Lacrosse,,4/4/2025,ADJ,,Y,0,N,N,N,N,Not C
 25SDVIP,GA1,GA1,33,34,2,903615,"Mansolino, Chelsea",92808,5/9/2025,AHY,,P,0,N,N,N,N,Not Comp,175,350,175,350,71.43,250,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Chelsea Mansolino,,,,,,N
 25SLPLUS,GA1,GA1,33,35,3,1001015,"Healy Moore, Kimberlee",14519,3/9/2025,A,,P,0,N,N,N,N,Not Comp,50,150,50,150,33.34,50.01,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS,Package,inet01,GEN,,Kimberlee Healy Moore,,,,,,
 25SLVIP,GA1,GA1,33,35,3,153864,"Bennett, Nina",84108,5/9/2025,AHY,,P,0,N,N,N,N,Not Comp,175,525,175,525,71.43,375,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP Renewal,HCP Renewal,SPUCHTA,GEN,,Nina Bennett,,,,,,N
+D250613,GA1,GA1,34,35,2,927731,"DeLong, Alex",,5/16/2025,ADI,,Y,0,N,N,N,N,Not Comp,20,40,20,40,100,40,745538,August Van Dalsum,Active,,,Premier Partner,Deposit: Group Program,Group,SPUCHTA,GEN,,,,,,,,
 25BSPLUS,GA1,GA1,34,37,4,501838,"Davis, Bruce",04428,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,200,50,200,100,200,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Bruce Davis,,,,,,N
 25BSVIP,GA1,GA1,34,36,3,877752,"Nation, Amy",32312,4/22/2025,A,,Y,0,N,N,N,N,Not Comp,175,525,175,525,100,525,-4,Default Account Rep,Active,,,Personal,Homecoming Pass VIP,Package,ABERG,GEN,,,,,,,,
 25APLUS,GA1,GA1,35,37,3,1210433,"Davis, Kelsey",14125,5/9/2025,AHW,,P,0,N,N,N,N,Not Comp,50,150,50,150,33.34,50.01,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS,Package,SPUCHTA,GEN,,Kelsey Davis,,,,,,N
@@ -400,6 +410,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 25SLPLUS,GA7,GA1,1,2,2,856672,"Clary, Justin",84009,1/31/2025,A,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS,Package,ADAHMS,GEN,,,,,,,,N
 25BPLUS,GA8,GA1,1,4,4,1268599,"Herdrich, Nicholas",53562,4/23/2025,A,,Y,0,N,N,N,N,Not Comp,50,200,50,200,100,200,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS,Package,GODUNAIY,GEN,,,,,,,,N
 25SLPLUS,GA8,GA1,1,4,4,925537,"Edman, Kim",,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,200,50,200,100,200,855163,Karina Villarreal,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Kim Edman,,,,,,
+25BPLUS,GA9,GA1,1,2,2,878858,"Herrington, Brandon",42101,5/16/2025,A,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS,Package,ABERG,GEN,,,,,,,,N
 25SLPLUS,GA9,GA1,1,1,1,623323,"Bain, Chris",84790,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,50,50,50,100,50,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Chris Bain,,,,,,N
 25SLPLUS,GA10,GA1,1,3,3,154046,"Barton, Kooper",84003,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,150,50,150,100,150,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Kooper Barton,,,,,,N
 25SLPLUS,GA11,GA1,1,2,2,510536,"Macbeth, Tamzen",83204,5/9/2025,AHZ,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Homecoming Pass PLUS Renewal,HCP Renewal,SPUCHTA,GEN,,Tamzen Macbeth,,,,,,
@@ -540,12 +551,14 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250614A,FLD2,A,9,10,2,1290014,"Burkholder, Collin",17557,5/7/2025,A*,,Y,0,N,N,N,N,Not Comp,144,288,144,288,100,288,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW010,,,,A-TYPE,,1,,,
 250614E,FLD2,A,9,12,4,345687,"Ambrosino, Pamela",08034,4/2/2025,AHR,,Y,0,N,N,N,N,Not Comp,158,632,158,632,100,632,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,OKAUFMAN,GEN,,,,,,,,N
 250613,FLD2,A,10,11,2,1263704,"Shaffer, Justin",17050,3/25/2025,A*,,Y,0,N,N,N,N,Not Comp,199,398,199,398,100,398,-4,Default Account Rep,Active,,,Personal,Adult,,ZIL074,,,,L-TYPE,,1,,,N
+250614A,FLD2,A,11,12,2,898728,"Lebron, Luis",08831,5/16/2025,AFB,,Y,0,N,N,N,N,Not Comp,113,226,113,226,100,226,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Luis Lebron,,,,,,
 250614E,FLD2,A,13,14,2,1291780,"Morello, Joe",08361,5/12/2025,A*,,Y,0,N,N,N,N,Not Comp,173,346,173,346,100,346,-4,Default Account Rep,Active,,,Personal,Adult,,ZIL405,,,,A-TYPE,,1,,,
 250613,FLD2,A,14,14,1,1230863,"Bahmer, Michael",08816,2/17/2025,A*,,Y,0,N,N,N,N,Not Comp,199,199,199,199,100,199,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW051,,,,L-TYPE,,1,,,
 250613,FLD2,A,15,15,1,1230873,ZZZ 10-29158/PHI,,2/17/2025,A*,,Y,0,N,N,N,N,Not Comp,199,199,199,199,100,199,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW051,,,,L-TYPE,,1,,,
 250614E,FLD2,A,15,16,2,940627,"Toman, Sherry",19720,4/7/2025,AIE,,N,0,N,N,N,N,Not Comp,150,300,150,300,0,0,-4,Default Account Rep,Active,,,Personal,Individual Ticket EB,Full Price,GODUNAIY,GEN,,,,,,,,
 250613,FLD2,A,16,21,6,1292458,"Alpaugh, Danielle",,5/14/2025,AGN,,Y,0,N,N,N,N,Not Comp,184,1104,184,1104,100,1104,349852,Andrew Pimentel,Active,,,Personal,Group Std,Group,APIMENTE,GEN,,,,,,,,
 250614E,FLD2,A,17,20,4,742151,"Lubold, Nicholas",19002,4/16/2025,A*,,Y,0,N,N,N,N,Not Comp,150,600,150,600,100,600,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW037,,,,L-TYPE,,1,,,
+250614E,FLD2,A,21,22,2,898728,"Lebron, Luis",08831,5/16/2025,AFB,,Y,0,N,N,N,N,Not Comp,135,270,135,270,100,270,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Luis Lebron,,,,,,
 250613,NA,1,1,6,6,191759,PLL Tickets - Elevate,,5/1/2025,DEV,,Y,0,N,Y,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Posted for Resale,,,Personal,Elevate,Full Price,SPUCHTA,GEN,,,,,,,,
 250614A,NA,1,1,8,8,191759,PLL Tickets - Elevate,,5/1/2025,DEV,,Y,0,N,Y,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Elevate,Full Price,SPUCHTA,GEN,,,,,,,,
 250614E,NA,1,1,10,10,191759,PLL Tickets - Elevate,,5/1/2025,DEV,,Y,0,N,Y,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Elevate,Full Price,SPUCHTA,GEN,,,,,,,,
@@ -975,6 +988,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250613,NG,2,1,7,7,1267757,"Fraher, Sarah",,4/17/2025,FGL,,Y,0,N,N,N,N,Not Comp,20,140,20,140,100,140,347929,Kelton Clarke,Active,,,Personal,Group Early Bird,Group,KCLARKE,GEN,,,,,,,,
 250613,NG,2,8,10,3,1267757,"Fraher, Sarah",,5/9/2025,FGL,,Y,0,N,N,N,N,Not Comp,20,60,20,60,100,60,347929,Kelton Clarke,Active,,,Personal,Group Early Bird,Group,KCLARKE,GEN,,,,,,,,
 250613,NG,3,1,7,7,1267757,"Fraher, Sarah",,4/17/2025,FGL,,Y,0,N,N,N,N,Not Comp,20,140,20,140,100,140,347929,Kelton Clarke,Active,,,Personal,Group Early Bird,Group,KCLARKE,GEN,,,,,,,,
+250613,NG,3,8,10,3,1267757,"Fraher, Sarah",,5/16/2025,FOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,347929,Kelton Clarke,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,,,,,,,
 250613,NG,7,3,4,2,1231134,"Griswold, Robert",19063,2/22/2025,F*,,Y,0,N,N,N,N,Not Comp,25,50,25,50,100,50,-4,Default Account Rep,Active,,,Personal,Adult,,ZIL051,,,,L-TYPE,,6,,,
 250614A,NG,7,3,3,1,741974,"Mohr, Jeffrey",19968,5/2/2025,F*,,Y,0,N,N,N,N,Not Comp,26,26,26,26,100,26,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW056,,,,A-TYPE,,6,,,N
 250614E,NG,7,3,4,2,1266273,"Herbert, Chloe",17339,4/9/2025,F*,,Y,0,N,N,N,N,Not Comp,25,50,25,50,100,50,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW233,,,,L-TYPE,,6,,,
@@ -1017,7 +1031,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250613,NG,11,5,10,6,1269894,"Friel, Patrick",,4/25/2025,FGN,,Y,0,N,N,N,N,Not Comp,23,138,23,138,100,138,-4,Default Account Rep,Active,,,Personal,Group Std,Group,GODUNAIY,GEN,,,,,,,,
 250613,NG,11,12,13,2,1292094,"Malcolm, Quinn",,5/13/2025,FGN,,Y,0,N,N,N,N,Not Comp,23,46,23,46,100,46,-4,Default Account Rep,Forwarded,1293063,,Personal,Group Std,Group,GODUNAIY,GEN,,,,,,,,
 250613,NG,11,14,15,2,1292094,"Malcolm, Quinn",,5/13/2025,FGN,,Y,0,N,N,N,N,Not Comp,23,46,23,46,100,46,-4,Default Account Rep,Forwarded,1293049,,Personal,Group Std,Group,GODUNAIY,GEN,,,,,,,,
-250613,NG,11,16,17,2,1292094,"Malcolm, Quinn",,5/13/2025,FGN,,Y,0,N,N,N,N,Not Comp,23,46,23,46,100,46,-4,Default Account Rep,Posted for Web Pick-up,,,Personal,Group Std,Group,GODUNAIY,GEN,,,,,,,,
+250613,NG,11,16,17,2,1292094,"Malcolm, Quinn",,5/13/2025,FGN,,Y,0,N,N,N,N,Not Comp,23,46,23,46,100,46,-4,Default Account Rep,Forwarded,1293476,,Personal,Group Std,Group,GODUNAIY,GEN,,,,,,,,
 250613,NG,11,18,33,16,1292094,"Malcolm, Quinn",,5/13/2025,FGN,,Y,0,N,N,N,N,Not Comp,23,368,23,368,100,368,-4,Default Account Rep,Active,,,Personal,Group Std,Group,GODUNAIY,GEN,,,,,,,,
 250613,NG,11,34,35,2,1292274,"Nierenberg, Matt",19083,5/13/2025,FFV,,Y,0,N,N,N,N,Not Comp,27,54,27,54,100,54,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Matt Nierenberg,,,,,,
 250613,NG,13,1,37,37,794001,"Logitix, Customer",92840,3/11/2025,FLPE,,Y,0,N,N,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Posted for Resale,,,Personal,Logitix Pre-Event,Full Price,AKRALL,GEN,,,,,,,,N
@@ -1165,6 +1179,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250614A,STE3,GA0,25,25,1,1268755,Champion Sponsor,,4/21/2025,JS0,,Y,0,N,N,N,N,Not Comp,214.18,214.18,80,80,100,214.18,-4,Default Account Rep,Active,,,Personal,Suite Std Pricing,Suites,SPUCHTA,GEN,,,,,,,,
 250614E,STE3,GA0,25,25,1,810283,Ticketmaster Sponsor,,4/21/2025,JS0,,Y,0,N,N,N,N,Not Comp,214.18,214.18,80,80,100,214.18,-4,Default Account Rep,Active,,,Personal,Suite Std Pricing,Suites,SPUCHTA,GEN,,,,,,,,
 250613,STE4,GA0,1,25,25,945598,"Krekstein, Rich",19422,4/17/2025,JS0,,Y,0,N,N,N,N,Not Comp,160,4000,60,1500,100,4000,-4,Default Account Rep,Active,,,Personal,Suite Std Pricing,Suites,SPUCHTA,GEN,,,,,,,,N
+250614E,STE4,GA0,1,25,25,1293464,"Tormenti, Matt",,5/16/2025,JS0,,Y,0,N,N,N,N,Not Comp,140,3500,80,2000,100,3500,372003,Audrey Brown,Active,,,Personal,Suite Std Pricing,Suites,SPUCHTA,GEN,,,,,,,,
 250621,1,1,3,5,3,1292842,"Mangiafico, Brian",,5/15/2025,G*,,Y,0,N,N,N,N,Not Comp,25,75,25,75,100,75,-4,Default Account Rep,Active,,,Personal,Adult,,ZIN364,,,,L-TYPE,DYN001,7,,,
 250621,1,5,1,5,5,191759,PLL Tickets - Elevate,,5/1/2025,GEV,,Y,0,N,Y,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Elevate,Full Price,SPUCHTA,GEN,,,,,,,,
 250622,1,5,1,5,5,191759,PLL Tickets - Elevate,,5/1/2025,GEV,,Y,0,N,Y,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Elevate,Full Price,SPUCHTA,GEN,,,,,,,,
@@ -1179,7 +1194,9 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250621,10,7,1,4,4,1270311,"Brand, William",22903,4/27/2025,F*,,Y,0,N,N,N,N,Not Comp,32.25,129,32.25,129,100,129,-4,Default Account Rep,Active,,,Personal,Adult,,ZIL580,,,,K-TYPE,KFM4EB,6,,,
 250621,10,7,5,8,4,1291567,"Lloyd, Jennifer",22554,5/12/2025,F*,,Y,0,N,N,N,N,Not Comp,32.25,129,32.25,129,100,129,-4,Default Account Rep,Active,,,Personal,Adult,,ZIN218,,,,K-TYPE,KFM4EB,6,,,
 250621,10,7,16,20,5,1017874,"Debone, Donald",46062,5/6/2025,FFB,,Y,0,N,N,N,N,Not Comp,36,180,36,180,100,180,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Donald Debone,,,,,,
+250621,10,8,1,4,4,635451,"mendenhall, Ali",50323,5/16/2025,F*,,Y,0,N,N,N,N,Not Comp,32.25,129,32.25,129,100,129,-4,Default Account Rep,Active,,,Personal,Adult,,ZIK563,,,,K-TYPE,KFM4EB,6,,,N
 250621,10,8,15,20,6,1017874,"Debone, Donald",46062,5/6/2025,FFB,,Y,0,N,N,N,N,Not Comp,36,216,36,216,100,216,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Donald Debone,,,,,,
+250621,10,9,1,3,3,635451,"mendenhall, Ali",50323,5/16/2025,F*,,Y,0,N,N,N,N,Not Comp,40,120,40,120,100,120,-4,Default Account Rep,Active,,,Personal,Adult,,ZIK563,,,,L-TYPE,DYN001,6,,,N
 250621,12,1,1,5,5,1215633,"Amrhein, Michael",21042,2/8/2025,GH2,,Y,0,N,N,N,N,Not Comp,25,125,25,125,100,125,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BHP,Michael Amrhein,,,,,,N
 250622,12,1,1,5,5,1215633,"Amrhein, Michael",21042,2/8/2025,GH2,,Y,0,N,N,N,N,Not Comp,25,125,25,125,100,125,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BHP,Michael Amrhein,,,,,,N
 250621,12,2,1,3,3,1059572,"Brown, Christopher",22301,5/8/2025,GH2,,Y,0,N,N,N,N,Not Comp,25,75,25,75,100,75,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BHP,Christopher Brown,,,,,,
@@ -1287,6 +1304,8 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250622,18,3,1,4,4,1268356,"Rupp, Brad",15108,4/19/2025,DH2,,Y,0,N,N,N,N,Not Comp,65,260,65,260,100,260,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BHP,Brad Rupp,,,,,,N
 250621,18,3,26,29,4,1243283,"Hall, KATHRYN",23453,3/21/2025,DH2,,Y,0,N,N,N,N,Not Comp,65,260,65,260,100,260,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BHP,KATHRYN Hall,,,,,,N
 250622,18,3,26,29,4,1243283,"Hall, KATHRYN",23453,3/21/2025,DH2,,Y,0,N,N,N,N,Not Comp,65,260,65,260,100,260,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BHP,KATHRYN Hall,,,,,,N
+250621,18,5,1,2,2,878858,"Herrington, Brandon",42101,5/16/2025,D,,Y,0,N,N,N,N,Not Comp,75,150,75,150,100,150,-4,Default Account Rep,Active,,,Personal,Adult,,ABERG,GEN,25BHP,,,,,,,N
+250622,18,5,1,2,2,878858,"Herrington, Brandon",42101,5/16/2025,D,,Y,0,N,N,N,N,Not Comp,75,150,75,150,100,150,-4,Default Account Rep,Active,,,Personal,Adult,,ABERG,GEN,25BHP,,,,,,,N
 250622,18,5,6,9,4,600703,"Smith, Demaurice",20817,4/30/2025,DGL,,Y,0,N,N,N,N,Not Comp,52,208,52,208,100,208,856211,Travis Tiger,Active,,,Personal,Group Early Bird,Group,TTIGER,GEN,,,,,,,,N
 250621,18,5,21,22,2,382914,"Taylor, Kelly",30188,1/29/2025,DH2,,Y,0,N,N,N,N,Not Comp,65,130,65,130,100,130,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BHP,Kelly Taylor,,,,,,
 250622,18,5,21,22,2,382914,"Taylor, Kelly",30188,1/29/2025,DH2,,Y,0,N,N,N,N,Not Comp,65,130,65,130,100,130,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BHP,Kelly Taylor,,,,,,
@@ -1322,6 +1341,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250621,18,13,13,14,2,1287507,"Caputo, Albert",22101,5/2/2025,E*,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW077,,,,L-TYPE,,5,,,
 250621,18,13,15,16,2,1292987,"Gallagher, Joe",20186,5/15/2025,E*,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Adult,,ZIN207,,,,L-TYPE,DYN001,5,,,
 250622,18,13,15,16,2,1271239,"Ryan, Gregory",22602,4/30/2025,E*,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW054,,,,L-TYPE,,5,,,N
+250621,18,13,20,23,4,1293324,"Wert, Leann",17370,5/16/2025,EFB,,Y,0,N,N,N,N,Not Comp,45,180,45,180,100,180,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Leann Wert,,,,,,
 250621,18,13,24,27,4,210946,"Bauer, Steve",20639,1/31/2025,E*,,Y,0,N,N,N,N,Not Comp,50,200,50,200,100,200,-4,Default Account Rep,Active,,,Personal,Adult,,ZIN494,,,,L-TYPE,,5,,,
 250622,18,13,24,25,2,1263765,"Ho, Sophia",21771,3/25/2025,E*,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Adult,,ZIL470,,,,L-TYPE,,5,,,
 250622,18,13,26,27,2,732478,"Flannelly, Alexander",21702,2/2/2025,E*,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Adult,,ZIL027,,,,L-TYPE,,5,,,
@@ -1391,9 +1411,11 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250622,2,4,6,10,5,191759,PLL Tickets - Elevate,,5/1/2025,GEV,,Y,0,N,Y,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Elevate,Full Price,SPUCHTA,GEN,,,,,,,,
 250621,2,7,20,20,1,919995,"Rhodes, Jason",19033,5/7/2025,G*,,Y,0,N,N,N,N,Not Comp,25,25,25,25,100,25,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW019,,,,L-TYPE,,7,,,
 250622,2,9,1,3,3,938389,"Breisch, Andrew",17517,4/14/2025,G*,,Y,0,N,N,N,N,Not Comp,25,75,25,75,100,75,-4,Default Account Rep,Active,,,Personal,Adult,,ZIL230,,,,L-TYPE,,7,,,
+250621,2,10,1,4,4,452851,"Williams, John",19938,5/16/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
 250622,2,10,1,4,4,1291631,"Hamidizadeh, Jonathan",21157,5/12/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
 250622,2,10,5,8,4,373398,"Zajicek, John",21014,5/12/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
 250622,2,10,9,12,4,940067,"Smith, Allen",21631,5/13/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
+250622,2,10,13,15,3,1293364,"Porter, Christopher",22025,5/16/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
 250621,2,11,1,4,4,1290482,"Warchol, Raquel",22307,5/9/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
 250622,2,11,1,4,4,753840,"Greenip, Jordan",20678,5/9/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
 250621,2,11,5,8,4,1290553,"Sanzone, Nicholas",20854,5/9/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
@@ -1894,7 +1916,6 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250628,103,L,1,3,3,941946,"McAdam, Pat",95765,4/4/2025,EHR,,Y,0,N,N,N,N,Not Comp,45,135,45,135,100,135,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,OKAUFMAN,GEN,25SDHP,,,,,,,N
 250627,103,L,4,7,4,991020,"Minan, John",92009,4/17/2025,E*,,Y,0,N,N,N,N,Not Comp,36,144,36,144,100,144,-4,Default Account Rep,Active,,,Personal,Adult,,ZIO467,,,,K-TYPE,KFM4EB,5,,,
 250628,103,L,4,5,2,1240555,"Le Compte, Adriana",92832,3/8/2025,E*,,Y,0,N,N,N,N,Not Comp,45,90,45,90,100,90,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW198,,,,L-TYPE,,5,,,
-250628,103,L,6,9,4,1013763,"Hallowell, Kari",,4/2/2025,E*,,Y,0,N,N,N,N,Not Comp,36,144,36,144,100,144,644054,Mel O'Hoppe,Active,,,Personal,Adult,,ZIO165,,,,K-TYPE,KFM4EB,5,,,
 250627,103,L,8,11,4,1268854,"Amidon, Tucker",,4/21/2025,E*,,Y,0,N,N,N,N,Not Comp,36,144,36,144,100,144,-4,Default Account Rep,Active,,,Personal,Adult,,ZIN010,,,,K-TYPE,KFM4EB,5,,,
 250627,103,L,12,12,1,182060,"Amidon, Tucker",92886,4/21/2025,E*,,Y,0,N,N,N,N,Not Comp,45,45,45,45,100,45,-4,Default Account Rep,Active,,,Personal,Adult,,ZIN010,,,,L-TYPE,,5,,,
 250627,103,L,13,16,4,976224,"Ritchey, Cindi",92065,5/1/2025,E*,,Y,0,N,N,N,N,Not Comp,36,144,36,144,100,144,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW171,,,,K-TYPE,KFM4EB,5,,,
@@ -2076,8 +2097,8 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250628,108,T,9,11,3,1268292,"Wood, Brooke",85737,4/19/2025,HFB,,Y,0,N,N,N,N,Not Comp,25,75,25,75,100,75,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Brooke Wood,,,,,,
 250628,108,T,12,12,1,1268387,"Martinez, Myra",85653,4/19/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,Myra Martinez,,,,,,
 250628,108,T,13,16,4,1268387,"Martinez, Myra",85653,4/19/2025,HFB,,Y,0,N,N,N,N,Not Comp,25,100,25,100,100,100,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Myra Martinez,,,,,,
-250628,108,T,17,17,1,1268438,"Piñon, Carlos",85704,4/20/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,Carlos Piñon,,,,,,
-250628,108,T,18,19,2,1268438,"Piñon, Carlos",85704,4/20/2025,HFB,,Y,0,N,N,N,N,Not Comp,25,50,25,50,100,50,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Carlos Piñon,,,,,,
+250628,108,T,17,17,1,1268438,"Pi�on, Carlos",85704,4/20/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,Carlos Pi�on,,,,,,
+250628,108,T,18,19,2,1268438,"Pi�on, Carlos",85704,4/20/2025,HFB,,Y,0,N,N,N,N,Not Comp,25,50,25,50,100,50,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Carlos Pi�on,,,,,,
 250628,108,U,1,1,1,1268327,"Medina, Jonathan",85715,4/19/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,Jonathan Medina,,,,,,
 250628,108,U,2,4,3,1268327,"Medina, Jonathan",85715,4/19/2025,HFB,,Y,0,N,N,N,N,Not Comp,25,75,25,75,100,75,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Jonathan Medina,,,,,,
 250628,108,U,5,5,1,1268489,"Teunissen, Lindsay",85755,4/20/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,Lindsay Teunissen,,,,,,
@@ -2166,6 +2187,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250628,111,M,13,16,4,1292229,"Basham, Brian",92584,5/13/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
 250628,111,M,17,18,2,1292345,"Kern, Frederick",92109,5/13/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
 250627,111,N,1,4,4,973171,"Larish, Kyle",92057,5/14/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
+250627,111,N,5,8,4,1293310,"Ehlers, Darren",92020,5/16/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
 250628,111,P,1,4,4,922968,"Boidock, Michael",28227,5/14/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
 250628,111,P,5,8,4,971284,"Overend, Brett",92688,5/14/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
 250628,111,P,9,12,4,1292511,"Farm, Michael",92129,5/14/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
@@ -3114,6 +3136,8 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250808,R26,R,1,2,2,1193089,"Dogramaci, Oktay",20015,5/12/2025,EOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,Oktay Dogramaci,,,,,,N
 250809A,R26,R,1,2,2,1269447,"Pye, DeMeSHee",98467,4/23/2025,EOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,,,,,,,
 250808,R26,R,3,3,1,1193089,"Dogramaci, Oktay",20015,5/12/2025,EFB,,Y,0,N,N,N,N,Not Comp,29,29,29,29,100,29,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Oktay Dogramaci,,,,,,N
+250808,R26,R,4,5,2,1293585,"Henshaw, Julie",30062,5/16/2025,EOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,Julie Henshaw,,,,,,
+250808,R26,R,6,6,1,1293585,"Henshaw, Julie",30062,5/16/2025,EFB,,Y,0,N,N,N,N,Not Comp,29,29,29,29,100,29,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Julie Henshaw,,,,,,
 250808,R26,R,9,10,2,888109,"Carnathan, Phil",32566,5/13/2025,EOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,,,,,,,
 250808,R26,R,11,15,5,888109,"Carnathan, Phil",32566,4/25/2025,EGL,,Y,0,N,N,N,N,Not Comp,26,130,26,130,100,130,856211,Travis Tiger,Active,,,Personal,Group Early Bird,Group,TTIGER,GEN,,,,,,,,
 250809A,R26,V,4,5,2,159892,"Kelsea, Sarah",03229,5/7/2025,EOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,,,,,,,
@@ -3141,6 +3165,8 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250808,R26,BB,7,8,2,1270903,"McGowan, Shannon",80111,4/29/2025,EFB,,Y,0,N,N,N,N,Not Comp,29,58,29,58,100,58,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Shannon McGowan,,,,,,
 250808,R26,BB,9,10,2,274372,"Lemon, Ashley",80129,4/29/2025,EOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,,,,,,,
 250808,R26,BB,11,12,2,1270929,"Lemon, Shawn",80129,4/29/2025,EOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,,,,,,,
+250808,R26,BB,16,18,3,1293541,"Borosh, Nicholas",33618,5/16/2025,EFB,,Y,0,N,N,N,N,Not Comp,29,87,29,87,100,87,-4,Default Account Rep,Forwarded,808368,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Nicholas Borosh,,,,,,
+250808,R26,BB,19,20,2,1293541,"Borosh, Nicholas",33618,5/16/2025,EOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,808368,,Personal,OWC Comp Club,Group,fvbd323,GEN,,Nicholas Borosh,,,,,,
 250808,R27,L,20,21,2,1292210,"Whitton, Christian",03038,5/13/2025,DH2,,Y,0,N,N,N,N,Not Comp,45,90,45,90,100,90,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BSHP,Christian Whitton,,,,,,N
 250809A,R27,L,20,21,2,1292210,"Whitton, Christian",03038,5/13/2025,DH2,,Y,0,N,N,N,N,Not Comp,45,90,45,90,100,90,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BSHP,Christian Whitton,,,,,,N
 250809E,R27,L,20,21,2,1292210,"Whitton, Christian",03038,5/13/2025,DH2,,Y,0,N,N,N,N,Not Comp,45,90,45,90,100,90,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BSHP,Christian Whitton,,,,,,N
@@ -3160,7 +3186,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250809E,R28,O,20,21,2,1265620,"Worster, Kristie",04579,4/5/2025,DH2,,Y,0,N,N,N,N,Not Comp,45,90,45,90,100,90,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BSHP,Kristie Worster,,,,,,N
 250809A,R28,P,18,21,4,1268535,"Covill, Cameron",01002,4/20/2025,D*,,Y,0,N,N,N,N,Not Comp,40,160,40,160,100,160,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW117,,,,L-TYPE,,4,,,
 250808,R28,P,19,21,3,936902,"Justice, Adam",05156,5/13/2025,D*,,Y,0,N,N,N,N,Not Comp,50,150,50,150,100,150,-4,Default Account Rep,Active,,,Personal,Adult,,ZIN381,,,,L-TYPE,,4,,,
-250808,R28,T,15,16,2,1293157,"Bogisich, Rickey",65616,5/15/2025,D*,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Adult,,ZIK281,,,,L-TYPE,,4,,,
+250808,R28,T,15,16,2,1293307,"Nunziato, Mike",,5/15/2025,D*,,Y,0,N,N,N,N,Not Comp,50,100,50,100,100,100,-4,Default Account Rep,Active,,,Personal,Adult,,ZIK281,,,,L-TYPE,,4,,,
 250808,R28,T,17,18,2,982411,"Henman, Caleb",02478,4/10/2025,DHR,,Y,0,N,N,N,N,Not Comp,36.66,73.32,36.66,73.32,100,73.32,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25BSHP,,,,,,,N
 250809A,R28,T,17,18,2,982411,"Henman, Caleb",02478,4/10/2025,DHR,,Y,0,N,N,N,N,Not Comp,36.67,73.34,36.67,73.34,100,73.34,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25BSHP,,,,,,,N
 250809E,R28,T,17,18,2,982411,"Henman, Caleb",02478,4/10/2025,DHR,,Y,0,N,N,N,N,Not Comp,36.67,73.34,36.67,73.34,100,73.34,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25BSHP,,,,,,,N
@@ -3577,6 +3603,9 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250808,R33,Q,19,19,1,824014,"Gorrell, Aidan",02113,1/27/2025,JHR,,Y,0,N,N,N,N,Not Comp,41.34,41.34,41.34,41.34,100,41.34,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,JRUTZICK,GEN,25BSHP,,,,,,,N
 250809A,R33,Q,19,19,1,824014,"Gorrell, Aidan",02113,1/27/2025,JHR,,Y,0,N,N,N,N,Not Comp,41.34,41.34,41.34,41.34,100,41.34,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,JRUTZICK,GEN,25BSHP,,,,,,,N
 250809E,R33,Q,19,19,1,824014,"Gorrell, Aidan",02113,1/27/2025,JHR,,Y,0,N,N,N,N,Not Comp,41.32,41.32,41.32,41.32,100,41.32,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,JRUTZICK,GEN,25BSHP,,,,,,,N
+250808,R33,R,1,8,8,635409,"Karl, Francesca",12548,5/16/2025,JH2,,Y,0,N,N,N,N,Not Comp,45,360,45,360,100,360,113,Kyle Perri,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,ABERG,GEN,25BSHP,,,,,,,
+250809A,R33,R,1,8,8,635409,"Karl, Francesca",12548,5/16/2025,JH2,,Y,0,N,N,N,N,Not Comp,45,360,45,360,100,360,113,Kyle Perri,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,ABERG,GEN,25BSHP,,,,,,,
+250809E,R33,R,1,8,8,635409,"Karl, Francesca",12548,5/16/2025,JH2,,Y,0,N,N,N,N,Not Comp,45,360,45,360,100,360,113,Kyle Perri,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,ABERG,GEN,25BSHP,,,,,,,
 250808,R33,Y,12,13,2,1267889,"Delouchry, Drew",06442,4/18/2025,JH2,,Y,0,N,N,N,N,Not Comp,45,90,45,90,100,90,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BSHP,Drew Delouchry,,,,,,N
 250809A,R33,Y,12,13,2,1267889,"Delouchry, Drew",06442,4/18/2025,JH2,,Y,0,N,N,N,N,Not Comp,45,90,45,90,100,90,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BSHP,Drew Delouchry,,,,,,N
 250809E,R33,Y,12,13,2,1267889,"Delouchry, Drew",06442,4/18/2025,JH2,,Y,0,N,N,N,N,Not Comp,45,90,45,90,100,90,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25BSHP,Drew Delouchry,,,,,,N
@@ -4161,10 +4190,12 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531E,102,A,18,21,4,159832,"Bergami, Vincent",12302,3/4/2025,GHR,,Y,0,N,N,N,N,Not Comp,20.67,82.68,20.67,82.68,100,82.68,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25AHP,,,,,,,
 250530,102,A,18,21,4,159832,"Bergami, Vincent",12302,3/4/2025,GHR,,Y,0,N,N,N,N,Not Comp,20.66,82.64,20.66,82.64,100,82.64,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25AHP,,,,,,,
 250531A,102,B,1,2,2,1213902,"Schuyler, Jeffrey",06078,2/6/2025,GFB,,Y,0,N,N,N,N,Not Comp,25,50,25,50,100,50,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Jeffrey Schuyler,,,,,,
+250531E,102,B,1,4,4,869587,"Janish, Maggie",13021,5/16/2025,GOR,,Y,0,N,N,N,N,Not Comp,35,140,35,140,100,140,113,Kyle Perri,Posted for Web Pick-up,,,Personal,OWC Club Registrant Paid,Group,KPERRI,GEN,,,,,,,,N
 250530,102,B,1,2,2,1231336,"Blakley, Benjamin",14580,2/25/2025,GFB,,Y,0,N,N,N,N,Not Comp,34,68,34,68,100,68,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Benjamin Blakley,,,,,,
 250531A,102,B,3,6,4,1215685,"Pillsbury, Mark",06078,2/9/2025,GFB,,Y,0,N,N,N,N,Not Comp,25,100,25,100,100,100,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Mark Pillsbury,,,,,,
 250530,102,B,3,3,1,894314,"Penepent, Nicholas",14580,5/9/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Nicholas Penepent,,,,,,
 250530,102,B,4,8,5,894314,"Penepent, Nicholas",14580,2/25/2025,GFB,,Y,0,N,N,N,N,Not Comp,34,170,34,170,100,170,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Nicholas Penepent,,,,,,
+250531E,102,B,5,9,5,869587,"Janish, Maggie",13021,5/16/2025,GOR,,Y,0,N,N,N,N,Not Comp,35,175,35,175,100,175,113,Kyle Perri,Forwarded,1293603,,Personal,OWC Club Registrant Paid,Group,KPERRI,GEN,,,,,,,,N
 250531A,102,B,7,11,5,1231792,"Tyson, Rachel",06078,3/3/2025,GFB,,Y,0,N,N,N,N,Not Comp,25,125,25,125,100,125,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Rachel Tyson,,,,,,
 250530,102,B,9,9,1,899532,"Voss, Robert",14526,5/9/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Robert Voss,,,,,,
 250530,102,B,10,12,3,899532,"Voss, Robert",14526,3/1/2025,GFB,,Y,0,N,N,N,N,Not Comp,34,102,34,102,100,102,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Robert Voss,,,,,,
@@ -4175,11 +4206,13 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531A,102,B,18,21,4,1231658,"Viscel, Chris",06078,3/1/2025,GFB,,Y,0,N,N,N,N,Not Comp,25,100,25,100,100,100,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Chris Viscel,,,,,,
 250530,102,B,18,21,4,1080311,"Brys, Edward",,3/24/2025,G*,,Y,0,N,N,N,N,Not Comp,27.25,109,27.25,109,100,109,-4,Default Account Rep,Active,,,Personal,Adult,,ZIO068,,,,K-TYPE,KFM4EB,7,,,
 250531A,102,C,1,6,6,1215878,"Johnston , Brianne",06093,2/9/2025,GFB,,Y,0,N,N,N,N,Not Comp,25,150,25,150,100,150,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Brianne Johnston,,,,,,
+250531E,102,C,1,5,5,869587,"Janish, Maggie",13021,5/16/2025,GOR,,Y,0,N,N,N,N,Not Comp,35,175,35,175,100,175,113,Kyle Perri,Active,,,Personal,OWC Club Registrant Paid,Group,KPERRI,GEN,,,,,,,,N
 250530,102,C,1,1,1,1231639,"Kien, Tyler",14519,5/9/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Tyler Kien,,,,,,
 250530,102,C,2,2,1,1231644,"Kien, Michael",14519,5/9/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,1231639,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Michael Kien,,,,,,
 250530,102,C,3,3,1,1231669,"Kien, Rachel",14519,5/9/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,1231639,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Rachel Kien,,,,,,
 250530,102,C,4,4,1,1231703,"Sanna, Theresa",14450,5/9/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,186135,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Theresa Sanna,,,,,,
 250530,102,C,5,5,1,186135,"Sanna, Brian",14450,5/9/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Brian Sanna,,,,,,
+250531E,102,C,6,8,3,869587,"Janish, Maggie",13021,5/16/2025,GOR,,Y,0,N,N,N,N,Not Comp,35,105,35,105,100,105,113,Kyle Perri,Posted for Web Pick-up,,,Personal,OWC Club Registrant Paid,Group,KPERRI,GEN,,,,,,,,N
 250530,102,C,6,6,1,1264746,"Tackaberry, Matthew",14534,5/9/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Matthew Tackaberry,,,,,,
 250531A,102,C,7,8,2,1264642,"Fontaine, Sarah",06078,3/31/2025,GFB,,Y,0,N,N,N,N,Not Comp,25,50,25,50,100,50,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Sarah Fontaine,,,,,,
 250530,102,C,7,7,1,1264746,"Tackaberry, Matthew",14534,4/1/2025,GFB,,Y,0,N,N,N,N,Not Comp,34,34,34,34,100,34,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Matthew Tackaberry,,,,,,
@@ -4303,10 +4336,12 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531E,103,C,9,10,2,410498,PLL Ticket Ops,,5/1/2025,FMKC,,Y,0,N,N,N,Y,Marketing Comps,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,378896,,Personal,Comp - Marketing,Complimentary,AKRALL,GEN,,,,,,,,
 250530,103,C,9,10,2,410498,PLL Ticket Ops,,5/1/2025,FMKC,,Y,0,N,N,N,Y,Marketing Comps,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,378896,,Personal,Comp - Marketing,Complimentary,AKRALL,GEN,,,,,,,,
 250531A,103,C,11,14,4,158699,"Shelli, Michael",12211,5/12/2025,FFV,,Y,0,N,N,N,N,Not Comp,34,136,34,136,100,136,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Michael Shelli,,,,,,
+250531E,103,C,11,14,4,158476,"Delano, Christopher",12309-1630,5/16/2025,FFV,,Y,0,N,N,N,N,Not Comp,44,176,44,176,100,176,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Christopher Delano,,,,,,
 250530,103,C,11,14,4,413826,"Lewis, Tanya",12822,4/26/2025,FFB,,Y,0,N,N,N,N,Not Comp,43,172,43,172,100,172,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Tanya Lewis,,,,,,N
 250531A,103,C,17,19,3,295728,"Tolan, edward",12866,1/31/2025,FHR,,Y,0,N,N,N,N,Not Comp,34,102,34,102,100,102,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25AHP,,,,,,,N
 250531E,103,C,17,19,3,295728,"Tolan, edward",12866,1/31/2025,FHR,,Y,0,N,N,N,N,Not Comp,34,102,34,102,100,102,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25AHP,,,,,,,N
 250530,103,C,17,19,3,295728,"Tolan, edward",12866,1/31/2025,FHR,,Y,0,N,N,N,N,Not Comp,34,102,34,102,100,102,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25AHP,,,,,,,N
+250531A,103,D,11,14,4,158476,"Delano, Christopher",12309-1630,5/16/2025,FFV,,Y,0,N,N,N,N,Not Comp,34,136,34,136,100,136,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Christopher Delano,,,,,,
 250530,103,D,17,18,2,909159,"McIntyre, John",,5/9/2025,F*,,Y,0,N,N,N,N,Not Comp,56,112,56,112,100,112,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW007,,,,A-TYPE,DYN002,6,,,
 250530,103,E,1,5,5,1268713,"Malone, Sara",12018,4/21/2025,FFV,,Y,0,N,N,N,N,Not Comp,50,250,50,250,100,250,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Sara Malone,,,,,,
 250530,103,E,17,18,2,651745,"Tooker, Christie",12061,4/3/2025,FFB,,Y,0,N,N,N,N,Not Comp,43,86,43,86,100,86,113,Kyle Perri,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Christie Tooker,,,,,,
@@ -4787,6 +4822,9 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531A,108,B,17,21,5,161922,"Montelone, Michael",12859,2/5/2025,GHR,,Y,0,N,N,N,N,Not Comp,20.67,103.35,20.67,103.35,100,103.35,113,Kyle Perri,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25AHP,,,,,,,
 250531E,108,B,17,21,5,161922,"Montelone, Michael",12859,2/5/2025,GHR,,Y,0,N,N,N,N,Not Comp,20.67,103.35,20.67,103.35,100,103.35,113,Kyle Perri,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25AHP,,,,,,,
 250530,108,B,17,21,5,161922,"Montelone, Michael",12859,2/5/2025,GHR,,Y,0,N,N,N,N,Not Comp,20.66,103.3,20.66,103.3,100,103.3,113,Kyle Perri,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25AHP,,,,,,,
+250531A,108,C,1,4,4,659196,"weinstein, tim",12065,5/16/2025,GH2,,Y,0,N,N,N,N,Not Comp,31.67,126.68,31.67,126.68,100,126.68,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,ABERG,GEN,25AHP,,,,,,,N
+250531E,108,C,1,4,4,659196,"weinstein, tim",12065,5/16/2025,GH2,,Y,0,N,N,N,N,Not Comp,31.66,126.64,31.66,126.64,100,126.64,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,ABERG,GEN,25AHP,,,,,,,N
+250530,108,C,1,4,4,659196,"weinstein, tim",12065,5/16/2025,GH2,,Y,0,N,N,N,N,Not Comp,31.67,126.68,31.67,126.68,100,126.68,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,ABERG,GEN,25AHP,,,,,,,N
 250530,108,C,5,5,1,872773,"Grevelding, Mike",13066,5/9/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Mike Grevelding,,,,,,
 250530,108,C,6,7,2,872773,"Grevelding, Mike",13066,5/2/2025,GF7,,Y,0,N,N,N,N,Not Comp,35,70,35,70,100,70,-4,Default Account Rep,Active,,,Personal,Fevo TRUE Standard,Group,fvbd323,GEN,,Mike Grevelding,,,,,,
 250530,108,C,8,8,1,901006,"Bradley, Jennifer",14425,5/9/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Jennifer Bradley,,,,,,
@@ -4927,6 +4965,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250530,109,H,7,9,3,1293170,"Rivers, Jennifer",14559,5/15/2025,GFV,,Y,0,N,N,N,N,Not Comp,40,120,40,120,100,120,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Jennifer Rivers,,,,,,
 250530,109,H,10,10,1,1293231,"Herrington, Matthew",12185,5/15/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,Matthew Herrington,,,,,,
 250530,109,H,11,11,1,1293231,"Herrington, Matthew",12185,5/15/2025,GFV,,Y,0,N,N,N,N,Not Comp,40,40,40,40,100,40,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Matthew Herrington,,,,,,
+250530,109,H,12,12,1,377476,"Santamore , Jason ",12801,5/16/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,113,Kyle Perri,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,,,,,,,
 250530,109,H,14,19,6,1292904,"Sergi, Mike",,5/15/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,113,Kyle Perri,Active,,,Personal,OWC Comp Club,Group,KPERRI,GEN,,,,,,,,
 250530,109,J,1,1,1,867950,"Weldon , Brian ",14845,5/9/2025,GOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Brian Weldon,,,,,,
 250530,109,J,2,3,2,867950,"Weldon , Brian ",14845,3/6/2025,GFB,,Y,0,N,N,N,N,Not Comp,34,68,34,68,100,68,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Brian Weldon,,,,,,
@@ -5137,11 +5176,13 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531A,115,H,18,21,4,592571,"Slichko, Joseph",12203,1/23/2025,GHR,,Y,0,N,N,N,N,Not Comp,20.67,82.68,20.67,82.68,100,82.68,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25AHP,,,,,,,N
 250531E,115,H,18,21,4,592571,"Slichko, Joseph",12203,1/23/2025,GHR,,Y,0,N,N,N,N,Not Comp,20.67,82.68,20.67,82.68,100,82.68,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25AHP,,,,,,,N
 250530,115,H,18,21,4,592571,"Slichko, Joseph",12203,1/23/2025,GHR,,Y,0,N,N,N,N,Not Comp,20.66,82.64,20.66,82.64,100,82.64,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25AHP,,,,,,,N
+250530,115,J,3,4,2,1293491,"Wasserman, Taylor",11211,5/16/2025,GFOC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,1293567,,Personal,Comp - Front Office,Complimentary,fvbd323,GEN,,,,,,,,
 250531A,115,J,20,21,2,855956,"Cornacchia, Tommy",07401,1/31/2025,GHR,,Y,0,N,N,N,N,Not Comp,20.67,41.34,20.67,41.34,100,41.34,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25AHP,,,,,,,N
 250531E,115,J,20,21,2,855956,"Cornacchia, Tommy",07401,1/31/2025,GHR,,Y,0,N,N,N,N,Not Comp,20.67,41.34,20.67,41.34,100,41.34,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25AHP,,,,,,,N
 250530,115,J,20,21,2,855956,"Cornacchia, Tommy",07401,1/31/2025,GHR,,Y,0,N,N,N,N,Not Comp,20.66,41.32,20.66,41.32,100,41.32,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25AHP,,,,,,,N
 250531E,115,K,1,4,4,1264050,"Castillo, Evelyn",10940,3/28/2025,G*,,Y,0,N,N,N,N,Not Comp,27.25,109,27.25,109,100,109,-4,Default Account Rep,Active,,,Personal,Adult,,ZIO010,,,,K-TYPE,KFM4EB,7,,,N
 250530,115,K,1,4,4,1078983,"Mcgahan, Brendon",12401,4/4/2025,G*,,Y,0,N,N,N,N,Not Comp,27.25,109,27.25,109,100,109,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW103,,,,K-TYPE,KFM4EB,7,,,
+250531A,115,K,5,8,4,916007,"Madden, Jack",46227,5/16/2025,GFOC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Comp - Front Office,Complimentary,fvbd323,GEN,,,,,,,,
 250531E,115,K,5,5,1,1264050,"Castillo, Evelyn",10940,3/28/2025,G*,,Y,0,N,N,N,N,Not Comp,35,35,35,35,100,35,-4,Default Account Rep,Active,,,Personal,Adult,,ZIO010,,,,L-TYPE,,7,,,N
 250530,115,K,5,8,4,892037,"Lagitch, Jodi",12027,5/3/2025,G*,,Y,0,N,N,N,N,Not Comp,31.5,126,31.5,126,100,126,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW217,,,,K-TYPE,KFM4ST,7,,,
 250530,115,K,9,12,4,1291585,"Raleigh, Keziya",76118,5/12/2025,G*,,Y,0,N,N,N,Y,Retail Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Adult,,ZIG855,,,,C-TYPE,"VETTX1,VETTX1HOLD",7,,,
@@ -5233,6 +5274,9 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531A,117,A,2,3,2,159023,"Boddery, Bonnie",12834,5/14/2025,LH2,,Y,0,N,N,N,N,Not Comp,25,50,25,50,100,50,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,fvbd323,GEN,25AHP,Bonnie Boddery,,,,,,
 250531E,117,A,2,3,2,159023,"Boddery, Bonnie",12834,5/14/2025,LH2,,Y,0,N,N,N,N,Not Comp,25,50,25,50,100,50,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,fvbd323,GEN,25AHP,Bonnie Boddery,,,,,,
 250530,117,A,2,3,2,159023,"Boddery, Bonnie",12834,5/14/2025,LH2,,Y,0,N,N,N,N,Not Comp,25,50,25,50,100,50,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,fvbd323,GEN,25AHP,Bonnie Boddery,,,,,,
+250531A,118,A,8,9,2,1293484,"Scott, Derek",12589,5/16/2025,GH2,,Y,0,N,N,N,N,Not Comp,31.67,63.34,31.67,63.34,100,63.34,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25AHP,Derek Scott,,,,,,N
+250531E,118,A,8,9,2,1293484,"Scott, Derek",12589,5/16/2025,GH2,,Y,0,N,N,N,N,Not Comp,31.66,63.32,31.66,63.32,100,63.32,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25AHP,Derek Scott,,,,,,N
+250530,118,A,8,9,2,1293484,"Scott, Derek",12589,5/16/2025,GH2,,Y,0,N,N,N,N,Not Comp,31.67,63.34,31.67,63.34,100,63.34,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25AHP,Derek Scott,,,,,,N
 250530,118,A,11,12,2,1209899,"Ranavaro, Justin",10567,5/13/2025,G*,,Y,0,N,N,N,N,Not Comp,41,82,41,82,100,82,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW102,,,,A-TYPE,DYN002,7,,,N
 250531A,118,A,19,21,3,869098,"Oltz, Fred",13090,4/25/2025,GF7,,Y,0,N,N,N,N,Not Comp,26,78,26,78,100,78,-4,Default Account Rep,Active,,,Personal,Fevo TRUE Standard,Group,fvbd323,GEN,,Fred Oltz,,,,,,
 250530,118,A,19,20,2,869098,"Oltz, Fred",13090,4/25/2025,GF7,,Y,0,N,N,N,N,Not Comp,35,70,35,70,100,70,-4,Default Account Rep,Active,,,Personal,Fevo TRUE Standard,Group,fvbd323,GEN,,Fred Oltz,,,,,,
@@ -5242,6 +5286,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250530,118,C,10,15,6,191759,PLL Tickets - Elevate,,5/9/2025,GEV,,N,0,N,N,Y,N,Not Comp,1,6,1,6,0,0,-4,Default Account Rep,Posted for Resale,,,Personal,Elevate,Full Price,SPUCHTA,GEN,,PLL Tickets - Elevate,,,,,,
 250530,118,C,16,19,4,191759,PLL Tickets - Elevate,,5/9/2025,GEV,,N,0,N,N,Y,N,Not Comp,1,4,1,4,0,0,-4,Default Account Rep,Posted for Resale,,,Personal,Elevate,Full Price,SPUCHTA,GEN,,PLL Tickets - Elevate,,,,,,
 250531A,201,A,1,1,1,898352,"Reid, Rachelle",14450,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,898374,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Rachelle Reid,,,,,,
+250531E,201,A,1,1,1,1293536,"Munn, Amy",12866,5/16/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Posted for Web Pick-up,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,,,,,,,
 250530,201,A,1,3,3,1264945,"DeMarco, Bethany",13035,4/2/2025,HFB,,Y,0,N,N,N,N,Not Comp,20,60,20,60,100,60,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Bethany DeMarco,,,,,,
 250531A,201,A,2,2,1,898352,"Reid, Rachelle",14450,4/7/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,19,19,19,100,19,-4,Default Account Rep,Forwarded,898374,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Rachelle Reid,,,,,,
 250531E,201,A,2,4,3,277511,"Montalvo, eric",13830,4/17/2025,HFV,,Y,0,N,N,N,N,Not Comp,21,63,21,63,100,63,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,eric Montalvo,,,,,,N
@@ -5253,6 +5298,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531A,201,A,8,8,1,1268990,"Northup, Joycelyn Anne",13830,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Joycelyn Anne Northup,,,,,,
 250530,201,A,8,8,1,385232,"Powers, Christie",12309,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Christie Powers,,,,,,N
 250531A,201,A,9,9,1,1268990,"Northup, Joycelyn Anne",13830,4/22/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,19,19,19,100,19,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Joycelyn Anne Northup,,,,,,
+250531E,201,A,9,9,1,1293536,"Munn, Amy",12866,5/16/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Posted for Web Pick-up,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,,,,,,,
 250531E,201,B,1,5,5,1287419,"RIddell, Kevin",13850,5/2/2025,HFV,,Y,0,N,N,N,N,Not Comp,21,105,21,105,100,105,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Kevin RIddell,,,,,,
 250531A,201,B,2,2,1,277511,"Montalvo, eric",13830,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,eric Montalvo,,,,,,N
 250530,201,B,2,4,3,277511,"Montalvo, eric",13830,4/17/2025,HFV,,Y,0,N,N,N,N,Not Comp,23,69,23,69,100,69,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,eric Montalvo,,,,,,N
@@ -5533,7 +5579,9 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250530,204,J,11,12,2,867110,"Jennings, Matthew",12303,5/9/2025,HFV,,Y,0,N,N,N,N,Not Comp,23,46,23,46,100,46,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Matthew Jennings,,,,,,
 250531E,204,J,13,16,4,876152,"Kelly, Brian",13021,5/5/2025,H*,,Y,0,N,N,N,N,Not Comp,23,92,23,92,100,92,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW108,,,,A-TYPE,DYN001,8,,,
 250530,204,J,13,17,5,1270777,"Nowc, Moira",12188,4/28/2025,H*,,Y,0,N,N,N,N,Not Comp,23,115,23,115,100,115,-4,Default Account Rep,Active,,,Personal,Adult,,ZIO471,,,,A-TYPE,DYN001,8,,,
+250531A,204,J,15,15,1,1293503,"Rugenstein, Natasha",12180,5/16/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,19,19,19,100,19,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Natasha Rugenstein,,,,,,
 250531A,204,J,16,18,3,1266724,"Ward, Sara ",14450,4/11/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,57,19,57,100,57,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Sara Ward,,,,,,
+250531E,204,J,17,18,2,888313,"Salvagio , Vincent",12204,5/16/2025,HFB,,Y,0,N,N,N,N,Not Comp,20,40,20,40,100,40,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Vincent Salvagio,,,,,,
 250530,204,J,18,21,4,159326,"Arnold, Jason",12020,3/16/2025,HFB,,Y,0,N,N,N,N,Not Comp,20,80,20,80,100,80,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Jason Arnold,,,,,,
 250531A,204,J,19,19,1,1266724,"Ward, Sara ",14450,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Sara Ward,,,,,,
 250531E,204,J,19,19,1,596387,"Delaney, Mary Beth",,5/9/2025,HHC,STARTERPASS,Y,0,N,N,N,N,Not Comp,10,10,10,10,100,10,113,Kyle Perri,Active,,,Personal,Starter Pass,Package,inet01,GEN,,Marybeth Delaney,,,,,,
@@ -5652,6 +5700,9 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531A,205,G,1,4,4,887308,"Yule, Courtney",12205,3/28/2025,HHR,,Y,0,N,N,N,N,Not Comp,17.34,69.36,17.34,69.36,100,69.36,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25AHP,,,,,,,N
 250531E,205,G,1,4,4,887308,"Yule, Courtney",12205,3/28/2025,HHR,,Y,0,N,N,N,N,Not Comp,17.34,69.36,17.34,69.36,100,69.36,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25AHP,,,,,,,N
 250530,205,G,1,4,4,887308,"Yule, Courtney",12205,3/28/2025,HHR,,Y,0,N,N,N,N,Not Comp,17.32,69.28,17.32,69.28,100,69.28,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25AHP,,,,,,,N
+250531A,205,G,5,9,5,893822,"Craft, David",14450,5/16/2025,HH2,,Y,0,N,N,N,N,Not Comp,18.34,91.7,18.34,91.7,100,91.7,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,ABERG,GEN,25AHP,,,,,,,
+250531E,205,G,5,9,5,893822,"Craft, David",14450,5/16/2025,HH2,,Y,0,N,N,N,N,Not Comp,18.34,91.7,18.34,91.7,100,91.7,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,ABERG,GEN,25AHP,,,,,,,
+250530,205,G,5,9,5,893822,"Craft, David",14450,5/16/2025,HH2,,Y,0,N,N,N,N,Not Comp,18.32,91.6,18.32,91.6,100,91.6,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,ABERG,GEN,25AHP,,,,,,,
 250531A,205,G,11,14,4,1230995,"Sweeney, Carmen",03458,2/19/2025,H*,,Y,0,N,N,N,N,Not Comp,15,60,15,60,100,60,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW226,,,,L-TYPE,,8,,,
 250531E,205,G,11,16,6,1240810,"Kelley, Melissa",12309,3/11/2025,HFB,,Y,0,N,N,N,N,Not Comp,20,120,20,120,100,120,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Melissa Kelley,,,,,,
 250530,205,G,11,15,5,420354,"Derleth, Philip",14450,3/29/2025,HFB,,Y,0,N,N,N,N,Not Comp,20,100,20,100,100,100,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Philip Derleth,,,,,,N
@@ -5676,6 +5727,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531E,205,H,11,11,1,878203,"Mason, Heather",12309,4/26/2025,HFV,,Y,0,N,N,N,N,Not Comp,21,21,21,21,100,21,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Heather Mason,,,,,,
 250530,205,H,11,14,4,877682,"Howell, Derek",12302,5/1/2025,H*,,Y,0,N,N,N,N,Not Comp,23,92,23,92,100,92,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW099,,,,A-TYPE,DYN002,8,,,
 250531A,205,H,12,12,1,625287,"Bowen, Stephanie",13901,5/12/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,19,19,19,100,19,113,Kyle Perri,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Stephanie Bowen,,,,,,
+250531E,205,H,12,13,2,888313,"Salvagio , Vincent",12204,5/16/2025,HFB,,Y,0,N,N,N,N,Not Comp,20,40,20,40,100,40,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Vincent Salvagio,,,,,,
 250531A,205,H,13,15,3,625287,"Bowen, Stephanie",13901,4/24/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,57,19,57,100,57,113,Kyle Perri,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Stephanie Bowen,,,,,,
 250531E,205,H,15,19,5,900550,"Laney, Thomas",12061,5/15/2025,HFV,,Y,0,N,N,N,N,Not Comp,21,105,21,105,100,105,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Thomas Laney,,,,,,
 250530,205,H,15,18,4,660158,"Smith, Carolee",12834,5/3/2025,H*,,Y,0,N,N,N,N,Not Comp,23,92,23,92,100,92,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW047,,,,A-TYPE,DYN002,8,,,N
@@ -5723,7 +5775,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531E,205,K,20,21,2,384785,"Zabadal, Kathy",13790,4/28/2025,HFB,,Y,0,N,N,N,N,Not Comp,20,40,20,40,100,40,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Kathy Zabadal,,,,,,
 250531A,205,K,21,21,1,875691,"Deuel, Erin",14450,4/10/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,19,19,19,100,19,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Erin Deuel,,,,,,
 250531A,205,L,1,5,5,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,Y,N,N,Not Comp,14,70,14,70,100,70,113,Kyle Perri,Forwarded,1291608,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
-250531A,205,L,6,9,4,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,Y,N,N,Not Comp,14,56,14,56,100,56,113,Kyle Perri,Posted for Web Pick-up,,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
+250531A,205,L,6,9,4,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,Y,N,N,Not Comp,14,56,14,56,100,56,113,Kyle Perri,Forwarded,1078174,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
 250531A,205,L,10,11,2,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,Y,N,N,Not Comp,14,28,14,28,100,28,113,Kyle Perri,Forwarded,1292439,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
 250531A,205,L,12,13,2,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,Y,N,N,Not Comp,14,28,14,28,100,28,113,Kyle Perri,Posted for Web Pick-up,,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
 250531A,205,L,14,15,2,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,Y,N,N,Not Comp,14,28,14,28,100,28,113,Kyle Perri,Posted for Web Pick-up,,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
@@ -5747,7 +5799,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531A,205,N,15,17,3,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,Y,N,N,Not Comp,14,42,14,42,100,42,113,Kyle Perri,Forwarded,1292541,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
 250531A,205,N,18,18,1,876110,"Ragusa, Joseph",12561,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,1292541,,Premier Partner,OWC Comp Club,Group,SPUCHTA,GEN,,Joseph Ragusa,,,,,,
 250531A,205,N,19,19,1,876110,"Ragusa, Joseph",12561,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Premier Partner,OWC Comp Club,Group,SPUCHTA,GEN,,Joseph Ragusa,,,,,,
-250531A,205,N,20,21,2,876110,"Ragusa, Joseph",12561,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Posted for Web Pick-up,,,Premier Partner,OWC Comp Club,Group,SPUCHTA,GEN,,Joseph Ragusa,,,,,,
+250531A,205,N,20,21,2,876110,"Ragusa, Joseph",12561,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,1293347,,Premier Partner,OWC Comp Club,Group,SPUCHTA,GEN,,Joseph Ragusa,,,,,,
 250531A,205,O,1,2,2,876110,"Ragusa, Joseph",12561,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Premier Partner,OWC Comp Club,Group,SPUCHTA,GEN,,Joseph Ragusa,,,,,,
 250531A,205,O,3,6,4,876110,"Ragusa, Joseph",12561,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,903698,,Premier Partner,OWC Comp Club,Group,SPUCHTA,GEN,,Joseph Ragusa,,,,,,
 250531A,205,O,7,9,3,876110,"Ragusa, Joseph",12561,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,1292471,,Premier Partner,OWC Comp Club,Group,SPUCHTA,GEN,,Joseph Ragusa,,,,,,
@@ -5833,13 +5885,14 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250530,206,F,9,13,5,900550,"Laney, Thomas",12061,5/15/2025,HFV,,Y,0,N,N,N,N,Not Comp,23,115,23,115,100,115,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Thomas Laney,,,,,,
 250531E,206,F,10,13,4,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,N,N,N,Not Comp,18,72,18,72,100,72,113,Kyle Perri,Posted for Web Pick-up,,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
 250531E,206,F,14,15,2,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,N,N,N,Not Comp,18,36,18,36,100,36,113,Kyle Perri,Posted for Web Pick-up,,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
-250531E,206,F,16,17,2,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,N,N,N,Not Comp,18,36,18,36,100,36,113,Kyle Perri,Posted for Web Pick-up,,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
+250531E,206,F,16,17,2,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,N,N,N,Not Comp,18,36,18,36,100,36,113,Kyle Perri,Forwarded,1293347,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
 250531E,206,F,18,18,1,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,N,N,N,Not Comp,18,18,18,18,100,18,113,Kyle Perri,Posted for Web Pick-up,,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
 250531E,206,F,19,21,3,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,N,N,N,Not Comp,18,54,18,54,100,54,113,Kyle Perri,Forwarded,1292539,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
 250531A,206,G,1,5,5,191759,PLL Tickets - Elevate,,5/9/2025,HEV,,N,0,N,Y,Y,N,Not Comp,1,5,1,5,0,0,-4,Default Account Rep,Active,,,Personal,Elevate,Full Price,SPUCHTA,GEN,,PLL Tickets - Elevate,,,,,,
 250531E,206,G,1,4,4,261902,"Kwasney, Casey",12198,4/2/2025,HFB,,Y,0,N,N,N,N,Not Comp,20,80,20,80,100,80,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Casey Kwasney,,,,,,
 250530,206,G,1,5,5,191759,PLL Tickets - Elevate,,5/9/2025,HEV,,N,0,N,N,Y,N,Not Comp,1,5,1,5,0,0,-4,Default Account Rep,Active,,,Personal,Elevate,Full Price,SPUCHTA,GEN,,PLL Tickets - Elevate,,,,,,
 250531E,206,G,5,9,5,191759,PLL Tickets - Elevate,,5/9/2025,HEV,,N,0,N,Y,Y,N,Not Comp,1,5,1,5,0,0,-4,Default Account Rep,Active,,,Personal,Elevate,Full Price,SPUCHTA,GEN,,PLL Tickets - Elevate,,,,,,
+250531A,206,G,6,6,1,1293524,"Brunson, Katie",12871,5/16/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,1293573,,Personal,OWC Comp Club,Group,fvbd323,GEN,,,,,,,,
 250531A,206,G,7,7,1,876152,"Kelly, Brian",13021,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,SPUCHTA,GEN,,Brian Kelly,,,,,,
 250531A,206,G,8,10,3,876152,"Kelly, Brian",13021,5/5/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,57,19,57,100,57,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Brian Kelly,,,,,,
 250531E,206,G,10,15,6,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,N,N,N,Not Comp,18,108,18,108,100,108,113,Kyle Perri,Active,,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
@@ -5851,6 +5904,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531E,206,G,18,18,1,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,N,N,N,Not Comp,18,18,18,18,100,18,113,Kyle Perri,Posted for Web Pick-up,,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
 250530,206,G,18,21,4,1288048,"Krahenbuhl, Sarah",12302,5/4/2025,HFV,,Y,0,N,N,N,N,Not Comp,23,92,23,92,100,92,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Sarah Krahenbuhl,,,,,,
 250531E,206,G,19,21,3,876110,"Ragusa, Joseph",12561,5/2/2025,HGL,,Y,0,N,N,N,N,Not Comp,18,54,18,54,100,54,113,Kyle Perri,Posted for Web Pick-up,,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
+250531A,206,G,21,21,1,1293524,"Brunson, Katie",12871,5/16/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,1293573,,Personal,OWC Comp Club,Group,fvbd323,GEN,,,,,,,,
 250531A,206,H,1,2,2,870019,"Basiuk, Melissa",12198,4/2/2025,HFB,,Y,0,N,N,N,N,Not Comp,16,32,16,32,100,32,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Melissa Basiuk,,,,,,
 250530,206,H,1,2,2,1291314,"Ettinger , Scott ",10310,5/11/2025,H*,,Y,0,N,N,N,N,Not Comp,23,46,23,46,100,46,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW027,,,,A-TYPE,DYN002,8,,,N
 250531A,206,H,3,9,7,876110,"Ragusa, Joseph",12561,5/6/2025,HGL,,Y,0,N,N,N,N,Not Comp,14,98,14,98,100,98,113,Kyle Perri,Active,,,Premier Partner,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
@@ -5876,6 +5930,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531A,206,K,14,14,1,1292445,"Ragucci, meghan",13021,5/14/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,19,19,19,100,19,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,meghan Ragucci,,,,,,
 250531A,206,K,15,18,4,1292128,"Piron, Christina",14626,5/13/2025,H20D,,Y,0,N,N,N,N,Not Comp,20,80,20,80,100,80,-4,Default Account Rep,Active,,,Personal,$20 Ticket Marketing,Full Price,fvbd323,GEN,,Christina Piron,,,,,,
 250531A,206,K,19,21,3,904929,"Gleichsner, Angela",12303,5/13/2025,H20D,,Y,0,N,N,N,N,Not Comp,20,60,20,60,100,60,-4,Default Account Rep,Active,,,Personal,$20 Ticket Marketing,Full Price,fvbd323,GEN,,Angela Gleichsner,,,,,,
+250530,206,K,20,21,2,371744,"Cahan , Stacey",12020,5/16/2025,HFV,,Y,0,N,N,N,N,Not Comp,23,46,23,46,100,46,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Stacey Cahan,,,,,,N
 250531A,207,A,1,5,5,639287,"Rowles, Jacob",14217,4/4/2025,H*,,Y,0,N,N,N,N,Not Comp,15,75,15,75,100,75,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW100,,,,L-TYPE,,8,,,
 250531E,207,A,1,3,3,1266801,"Roik, Darren",L0R2A0,4/11/2025,H*,,Y,0,N,N,N,N,Not Comp,23,69,23,69,100,69,-4,Default Account Rep,Active,,,Personal,Adult,,ZIK056,,,,A-TYPE,,8,,,N
 250530,207,A,1,3,3,1263291,"Kelley, Terrence",12180,3/22/2025,H*,,Y,0,N,N,N,N,Not Comp,20,60,20,60,100,60,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW108,,,,L-TYPE,DYN001,8,,,
@@ -5897,6 +5952,9 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531A,207,B,2,5,4,1292250,"Bartels, Alison",01237,5/13/2025,H20D,,Y,0,N,N,N,N,Not Comp,20,80,20,80,100,80,-4,Default Account Rep,Active,,,Personal,$20 Ticket Marketing,Full Price,fvbd323,GEN,,Alison Bartels,,,,,,
 250530,207,B,5,9,5,351752,"Gatta, Adam",12020,5/12/2025,HFV,,Y,0,N,N,N,N,Not Comp,23,115,23,115,100,115,113,Kyle Perri,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Adam Gatta,,,,,,
 250531A,207,B,6,9,4,1293274,"Knapp, Anna",12866,5/16/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,76,19,76,100,76,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Anna Knapp,,,,,,
+250531A,207,B,10,10,1,1293358,"Osterhoudt, Christina",12443-5921,5/16/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,Christina Osterhoudt,,,,,,
+250530,207,B,10,11,2,1292426,"Gifford, Jason",12065,5/16/2025,H*,,Y,0,N,N,N,N,Not Comp,23,46,23,46,100,46,-4,Default Account Rep,Active,,,Personal,Adult,,ZIN069,,,,A-TYPE,DYN002,8,,,
+250531A,207,B,11,14,4,1293358,"Osterhoudt, Christina",12443-5921,5/16/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,76,19,76,100,76,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Christina Osterhoudt,,,,,,
 250531A,207,C,1,2,2,867835,"Galgay, PJ",14450,2/27/2025,HFB,,Y,0,N,N,N,N,Not Comp,16,32,16,32,100,32,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,PJ Galgay,,,,,,
 250531A,207,C,3,8,6,1270418,"Bleau, Kimberly",01222,4/27/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,114,19,114,100,114,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Kimberly Bleau,,,,,,
 250531A,207,C,9,11,3,1270569,"Polidoro, Megan",01225,4/28/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,57,19,57,100,57,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Megan Polidoro,,,,,,
@@ -5928,6 +5986,8 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250531E,208,B,1,4,4,380974,"Shapiro, Carrie",12009,5/13/2025,H20D,,Y,1,Y,N,N,N,Not Comp,20,80,20,80,100,80,113,Kyle Perri,Active,,,Personal,$20 Ticket Marketing,Full Price,KPERRI,GEN,,,,,,,,
 250531A,208,B,6,6,1,375018,"Porcell, Samantha ",12804,5/9/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,113,Kyle Perri,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,Samantha Porcell,,,,,,
 250531A,208,C,1,3,3,380974,"Shapiro, Carrie",12009,5/13/2025,H20D,,Y,1,Y,N,N,N,Not Comp,20,60,20,60,100,60,113,Kyle Perri,Active,,,Personal,$20 Ticket Marketing,Full Price,KPERRI,GEN,,,,,,,,
+250531A,208,C,4,4,1,900764,"Porpora, Kevin",12804,5/16/2025,HOWC,,Y,0,N,N,N,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,OWC Comp Club,Group,fvbd323,GEN,,Kevin Porpora,,,,,,
+250531A,208,C,5,8,4,900764,"Porpora, Kevin",12804,5/16/2025,HFV,,Y,0,N,N,N,N,Not Comp,19,76,19,76,100,76,-4,Default Account Rep,Active,,,Personal,Fevo Standard Group,Group,fvbd323,GEN,,Kevin Porpora,,,,,,
 250531E,208,K,5,5,1,141031,"Schuman, Lauren",17112,5/9/2025,HHC,STARTERPASS,Y,0,N,N,N,N,Not Comp,10,10,10,10,100,10,-4,Default Account Rep,Active,,,Personal,Starter Pass,Package,inet01,GEN,,Lauren Schuman,,,,,,
 250531A,TSL,GA0,37,40,4,163692,"Hutcheson, Conor",12866,4/29/2025,JGL,,Y,0,N,N,N,N,Not Comp,102,408,102,408,100,408,-4,Default Account Rep,Active,,,Personal,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
 250531E,TSL,GA0,37,37,1,163692,"Hutcheson, Conor",12866,4/29/2025,JGL,,Y,0,N,N,N,N,Not Comp,102,102,102,102,100,102,-4,Default Account Rep,Active,,,Personal,Group Early Bird,Group,KPERRI,GEN,,,,,,,,
@@ -5979,6 +6039,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250607E,103,A,19,20,2,869465,"Martin, Sean",29229,4/12/2025,FHR,,Y,0,N,N,N,N,Not Comp,23.32,46.64,23.32,46.64,100,46.64,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25CHP,,,,,,,N
 250606,103,G,11,21,11,1242982,"Lovic, Ken",,3/24/2025,FGL,,Y,0,N,Y,N,N,Not Comp,31,341,31,341,100,341,361659,Brady Douglas,Active,,,Personal,Group Early Bird,Group,BDOUGLAS,GEN,,,,,,,,
 250607E,103,G,11,15,5,1242982,"Lovic, Ken",,3/24/2025,FGL,,Y,0,N,Y,N,N,Not Comp,31,155,31,155,100,155,361659,Brady Douglas,Active,,,Personal,Group Early Bird,Group,BDOUGLAS,GEN,,,,,,,,
+250607E,103,G,16,18,3,889185,"Nizer, Danielle",28480,5/16/2025,FFB,,Y,0,N,N,N,N,Not Comp,35,105,35,105,100,105,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Danielle Nizer,,,,,,N
 250606,103,H,1,21,21,1242982,"Lovic, Ken",,3/24/2025,FGL,,Y,0,N,Y,N,N,Not Comp,31,651,31,651,100,651,361659,Brady Douglas,Active,,,Personal,Group Early Bird,Group,BDOUGLAS,GEN,,,,,,,,
 250607E,103,H,1,21,21,1242982,"Lovic, Ken",,3/24/2025,FGL,,Y,0,N,Y,N,N,Not Comp,31,651,31,651,100,651,361659,Brady Douglas,Active,,,Personal,Group Early Bird,Group,BDOUGLAS,GEN,,,,,,,,
 250606,103,J,1,22,22,1242982,"Lovic, Ken",,3/24/2025,FGL,,Y,0,N,Y,N,N,Not Comp,31,682,31,682,100,682,361659,Brady Douglas,Active,,,Personal,Group Early Bird,Group,BDOUGLAS,GEN,,,,,,,,
@@ -6200,13 +6261,14 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250607E,122,H,1,5,5,1290816,"Macdonell, John",27502,5/10/2025,G*,,Y,0,N,N,N,N,Not Comp,33,165,33,165,100,165,-4,Default Account Rep,Active,,,Personal,Adult,,ZIL453,,,,A-TYPE,,7,,,
 250607E,122,H,6,6,1,1292466,"Macdonell, Justine",27502,5/14/2025,G*,,Y,0,N,N,N,N,Not Comp,33,33,33,33,100,33,-4,Default Account Rep,Active,,,Personal,Adult,,ZIL472,,,,A-TYPE,,7,,,
 250607E,122,H,7,8,2,1292876,"Mequio, Devin",29601,5/15/2025,GFB,,Y,0,N,N,N,N,Not Comp,29,58,29,58,100,58,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Devin Mequio,,,,,,
+250607E,122,H,9,10,2,1293557,"Sturdevant, Katherine",29601,5/16/2025,G*,,Y,0,N,N,N,N,Not Comp,33,66,33,66,100,66,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW102,,,,A-TYPE,,7,,,
 250606,122,J,1,6,6,1291099,"Mandell, Ryan",29687,5/11/2025,G*,,Y,0,N,N,N,N,Not Comp,33,198,33,198,100,198,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW057,,,,A-TYPE,DYN001,7,,,
 250606,122,J,8,14,7,1288896,"Forsyth, Christina",27006,5/5/2025,G*,,Y,0,N,N,N,N,Not Comp,17,119,17,119,100,119,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW096,,,,A-TYPE,50CINC,7,,,
 250606,122,J,17,19,3,1269320,"enos, aaron",32092,5/6/2025,G*,,Y,0,N,N,N,N,Not Comp,33,99,33,99,100,99,-4,Default Account Rep,Active,,,Personal,Adult,,ZIL318,,,,A-TYPE,DYN001,7,,,
 250606,122,K,1,6,6,794001,"Logitix, Customer",92840,3/11/2025,GLPE,,Y,0,N,N,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Logitix Pre-Event,Full Price,AKRALL,GEN,,,,,,,,N
 250607A,122,K,1,15,15,794001,"Logitix, Customer",92840,3/11/2025,GLPE,,Y,0,N,N,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Posted for Resale,,,Personal,Logitix Pre-Event,Full Price,AKRALL,GEN,,,,,,,,N
 250607E,122,K,1,14,14,794001,"Logitix, Customer",92840,3/11/2025,GLPE,,Y,0,N,N,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Posted for Resale,,,Personal,Logitix Pre-Event,Full Price,AKRALL,GEN,,,,,,,,N
-250606,122,K,7,8,2,794001,"Logitix, Customer",92840,3/11/2025,GLPE,,Y,0,N,N,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Posted for Resale,,,Personal,Logitix Pre-Event,Full Price,AKRALL,GEN,,,,,,,,N
+250606,122,K,7,8,2,794001,"Logitix, Customer",92840,3/11/2025,GLPE,,Y,2,N,N,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,328447,,Personal,Logitix Pre-Event,Full Price,AKRALL,GEN,,,,,,,,N
 250606,122,K,9,12,4,794001,"Logitix, Customer",92840,3/11/2025,GLPE,,Y,2,N,N,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Forwarded,328447,,Personal,Logitix Pre-Event,Full Price,AKRALL,GEN,,,,,,,,N
 250606,122,K,13,20,8,794001,"Logitix, Customer",92840,3/11/2025,GLPE,,Y,0,N,N,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Logitix Pre-Event,Full Price,AKRALL,GEN,,,,,,,,N
 250607E,122,K,15,15,1,794001,"Logitix, Customer",92840,3/11/2025,GLPE,,Y,0,N,N,Y,N,Not Comp,0,0,0,0,100,0,-4,Default Account Rep,Active,,,Personal,Logitix Pre-Event,Full Price,AKRALL,GEN,,,,,,,,N
@@ -6556,15 +6618,20 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250607A,126,A,1,3,3,806912,"Gorney, Ryan",28107,1/27/2025,CHR,,Y,0,N,N,N,N,Not Comp,52.67,158.01,52.67,158.01,100,158.01,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25CHP,,,,,,,N
 250607E,126,A,1,3,3,806912,"Gorney, Ryan",28107,1/27/2025,CHR,,Y,0,N,N,N,N,Not Comp,52.66,157.98,52.66,157.98,100,157.98,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25CHP,,,,,,,N
 250606,126,A,4,13,10,916231,"Dixon, Susanne",28031,5/12/2025,CGN,,Y,0,N,N,N,N,Not Comp,73,730,73,730,100,730,-4,Default Account Rep,Active,,,Personal,Group Std,Group,AKRALL,GEN,,,,,,,,N
+250606,126,A,15,16,2,1293595,"Purcell, Sara",29715,5/16/2025,CFB,,Y,0,N,N,N,N,Not Comp,71,142,71,142,100,142,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Sara Purcell,,,,,,
 250606,126,A,17,18,2,811698,"Virnelson, Robby",28104,1/22/2025,CHR,,Y,0,N,N,N,N,Not Comp,52.67,105.34,52.67,105.34,100,105.34,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25CHP,,,,,,,N
 250607A,126,A,17,18,2,811698,"Virnelson, Robby",28104,1/22/2025,CHR,,Y,0,N,N,N,N,Not Comp,52.67,105.34,52.67,105.34,100,105.34,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25CHP,,,,,,,N
 250607E,126,A,17,18,2,811698,"Virnelson, Robby",28104,1/22/2025,CHR,,Y,0,N,N,N,N,Not Comp,52.66,105.32,52.66,105.32,100,105.32,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25CHP,,,,,,,N
+250606,126,A,19,20,2,1293595,"Purcell, Sara",29715,5/16/2025,CFB,,Y,0,N,N,N,N,Not Comp,71,142,71,142,100,142,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Sara Purcell,,,,,,
 250606,126,B,1,4,4,807845,"Maupin, Allen",28105,1/31/2025,DHR,,Y,0,N,N,N,N,Not Comp,46,184,46,184,100,184,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25CHP,,,,,,,N
 250607A,126,B,1,4,4,807845,"Maupin, Allen",28105,1/31/2025,DHR,,Y,0,N,N,N,N,Not Comp,46,184,46,184,100,184,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25CHP,,,,,,,N
 250607E,126,B,1,4,4,807845,"Maupin, Allen",28105,1/31/2025,DHR,,Y,0,N,N,N,N,Not Comp,46,184,46,184,100,184,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25CHP,,,,,,,N
+250606,126,B,5,11,7,157841,"Larsen, Chris",28803,5/16/2025,DFB,,Y,0,N,N,N,N,Not Comp,62,434,62,434,100,434,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Chris Larsen,,,,,,
+250606,126,B,12,14,3,913518,"Fore, Kimberly",29715,5/16/2025,DFB,,Y,0,N,N,N,N,Not Comp,62,186,62,186,100,186,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Kimberly Fore,,,,,,
 250606,126,B,15,16,2,1243271,"Roe, Preston",29365,3/18/2025,DH2,,Y,0,N,N,N,N,Not Comp,58.34,116.68,58.34,116.68,100,116.68,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25CHP,Preston Roe,,,,,,N
 250607A,126,B,15,16,2,1243271,"Roe, Preston",29365,3/18/2025,DH2,,Y,0,N,N,N,N,Not Comp,58.34,116.68,58.34,116.68,100,116.68,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25CHP,Preston Roe,,,,,,N
 250607E,126,B,15,16,2,1243271,"Roe, Preston",29365,3/18/2025,DH2,,Y,0,N,N,N,N,Not Comp,58.32,116.64,58.32,116.64,100,116.64,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25CHP,Preston Roe,,,,,,N
+250606,126,B,17,20,4,913826,"Rackley, Katharine",28105,5/16/2025,DFB,,Y,0,N,N,N,N,Not Comp,62,248,62,248,100,248,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Katharine Rackley,,,,,,
 250606,126,C,1,2,2,379114,"Nicola, David",28226,2/10/2025,DH2,,Y,0,N,N,N,N,Not Comp,58.34,116.68,58.34,116.68,100,116.68,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25CHP,David Nicola,,,,,,
 250607A,126,C,1,2,2,379114,"Nicola, David",28226,2/10/2025,DH2,,Y,0,N,N,N,N,Not Comp,58.34,116.68,58.34,116.68,100,116.68,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25CHP,David Nicola,,,,,,
 250607E,126,C,1,2,2,379114,"Nicola, David",28226,2/10/2025,DH2,,Y,0,N,N,N,N,Not Comp,58.32,116.64,58.32,116.64,100,116.64,-4,Default Account Rep,Active,,,Personal,INDIVIDUAL Homecoming Pass,Package,inet01,GEN,25CHP,David Nicola,,,,,,
@@ -6828,6 +6895,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250607E,128,H,11,11,1,1291538,"Welch, Brian",37919,5/12/2025,EFB,,Y,0,N,N,N,N,Not Comp,44,44,44,44,100,44,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Brian Welch,,,,,,
 250607E,128,H,16,20,5,1290411,"Dix, John",37931,5/8/2025,EFB,,Y,0,N,N,N,N,Not Comp,44,220,44,220,100,220,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,John Dix,,,,,,
 250607E,128,J,1,5,5,891688,"Russell, lloyd",37919,5/9/2025,EFB,,Y,0,N,N,N,N,Not Comp,44,220,44,220,100,220,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,lloyd Russell,,,,,,N
+250607E,128,L,3,4,2,1293336,"Macready, Lacy",37922,5/16/2025,EFB,,Y,0,N,N,N,N,Not Comp,44,88,44,88,100,88,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Lacy Macready,,,,,,
 250606,128,L,17,18,2,384738,"McDonald, Jeremy",28277,5/2/2025,EHR,,Y,0,N,N,N,N,Not Comp,34.67,69.34,34.67,69.34,100,69.34,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25CHP,,,,,,,N
 250607A,128,L,17,18,2,384738,"McDonald, Jeremy",28277,5/2/2025,EHR,,Y,0,N,N,N,N,Not Comp,34.67,69.34,34.67,69.34,100,69.34,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25CHP,,,,,,,N
 250607E,128,L,17,18,2,384738,"McDonald, Jeremy",28277,5/2/2025,EHR,,Y,0,N,N,N,N,Not Comp,34.66,69.32,34.66,69.32,100,69.32,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,ADAHMS,GEN,25CHP,,,,,,,N
@@ -6847,7 +6915,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250607E,128,N,6,8,3,1263946,"Scott, jennifer",37919,3/26/2025,EFB,,Y,0,N,N,N,N,Not Comp,44,132,44,132,100,132,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,jennifer Scott,,,,,,
 250606,128,N,8,10,3,1266539,"Weyant, Nate",28804,4/10/2025,EFB,,Y,0,N,N,N,N,Not Comp,48,144,48,144,100,144,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Nate Weyant,,,,,,
 250607E,128,N,9,9,1,1263957,"Karnes, Jared ",37919,3/26/2025,EFB,,Y,0,N,N,N,N,Not Comp,44,44,44,44,100,44,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Jared Karnes,,,,,,
-250607E,128,N,10,10,1,1263980,"Trdford, Cheri",37919,3/26/2025,EFB,,Y,0,N,N,N,N,Not Comp,44,44,44,44,100,44,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Cheri Trdford,,,,,,
+250607E,128,N,10,10,1,1263980,"Trdford, Cheri",37919,3/26/2025,EFB,,Y,0,N,N,N,N,Not Comp,44,44,44,44,100,44,-4,Default Account Rep,Posted for Web Pick-up,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Cheri Trdford,,,,,,
 250607E,128,N,11,12,2,1263980,"Trdford, Cheri",37919,3/26/2025,EFB,,Y,0,N,N,N,N,Not Comp,44,88,44,88,100,88,-4,Default Account Rep,Forwarded,1289708,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Cheri Trdford,,,,,,
 250606,128,N,13,14,2,723985,"Permenter, Amy",21758,4/13/2025,E*,,Y,0,N,N,N,N,Not Comp,57,114,57,114,100,114,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW096,,,,A-TYPE,DYN001,5,,,
 250607E,128,N,13,14,2,1264065,"Oakley, Shauna",37922,3/27/2025,EFB,,Y,0,N,N,N,N,Not Comp,44,88,44,88,100,88,-4,Default Account Rep,Active,,,Personal,Fevo Early Bird Group,Group,fvbd323,GEN,,Shauna Oakley,,,,,,
@@ -7423,6 +7491,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250606,112,K,20,20,1,371555,"Reed, Thomas",30014,1/24/2025,GHR,,Y,0,N,N,N,N,Not Comp,19.34,19.34,19.34,19.34,100,19.34,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25CHP,,,,,,,
 250607A,112,K,20,20,1,371555,"Reed, Thomas",30014,1/24/2025,GHR,,Y,0,N,N,N,N,Not Comp,19.34,19.34,19.34,19.34,100,19.34,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25CHP,,,,,,,
 250607E,112,K,20,20,1,371555,"Reed, Thomas",30014,1/24/2025,GHR,,Y,0,N,N,N,N,Not Comp,19.32,19.32,19.32,19.32,100,19.32,-4,Default Account Rep,Active,,,Personal,Homecoming Pass Renewal,HCP Renewal,inet01,GEN,25CHP,,,,,,,
+250607E,115VIP,R,1,25,25,1293290,Vensure Sponsor,,5/16/2025,IS0,,Y,0,N,N,N,N,Not Comp,200,5000,160,4000,100,5000,-4,Default Account Rep,Active,,,Sponsor,Suite Std Pricing,Suites,SPUCHTA,GEN,,,,,,,,
 250606,116VIP,R,1,25,25,670923,"Terry, Kevin",29708,2/7/2025,IS0,,P,0,N,N,N,N,Not Comp,180,4500,160,4000,70.37,3166.67,-4,Default Account Rep,Active,,,Personal,Suite Std Pricing,Suites,SPUCHTA,GEN,,,,,,,,N
 250607A,116VIP,R,1,25,25,623729,"Mieckowski, Christian",32081,4/22/2025,IS0,,Y,0,N,N,N,N,Not Comp,90,2250,160,4000,100,2250,-4,Default Account Rep,Active,,,Personal,Suite Std Pricing,Suites,SPUCHTA,GEN,,,,,,,,
 250607E,116VIP,R,1,25,25,623729,"Mieckowski, Christian",32081,4/22/2025,IS0,,Y,0,N,N,N,N,Not Comp,90,2250,160,4000,100,2250,-4,Default Account Rep,Active,,,Personal,Suite Std Pricing,Suites,SPUCHTA,GEN,,,,,,,,
@@ -7589,7 +7658,7 @@ D250531E,GA3,GA1,1,30,30,1265401,FM Pride,,5/14/2025,ADK,,Y,0,N,N,N,N,Not Comp,8
 250704,127,5,11,12,2,908983,"Carter, Janice",27703-7787,3/18/2025,GWJ,,Y,0,N,N,N,N,Not Comp,38.5,77,38.5,77,100,77,-4,Default Account Rep,Active,,,Personal,P: Weekend Pass 20% Disc,Package,inet01,GEN,25KCWP,Janice Carter,,,,,,N
 250705,127,5,11,12,2,908983,"Carter, Janice",27703-7787,3/18/2025,GWJ,,Y,0,N,N,N,N,Not Comp,38.5,77,38.5,77,100,77,-4,Default Account Rep,Active,,,Personal,P: Weekend Pass 20% Disc,Package,inet01,GEN,25KCWP,Janice Carter,,,,,,N
 250704,127,5,13,16,4,1242752,"Andersen, Cole",66218,3/15/2025,GWK,,Y,0,N,N,N,N,Not Comp,48,192,48,192,100,192,-4,Default Account Rep,Active,,,Personal,P: Weekend Pass,Package,inet01,GEN,25KCWP,Cole Andersen,,,,,,N
-250705,127,5,13,16,4,1242752,"Andersen, Cole",66218,3/15/2025,GWK,,Y,0,N,N,N,N,Not Comp,48,192,48,192,100,192,-4,Default Account Rep,Active,,,Personal,P: Weekend Pass,Package,inet01,GEN,25KCWP,Cole Andersen,,,,,,N
+250705,127,5,13,16,4,1242752,"Andersen, Cole",66218,3/15/2025,GWK,,Y,0,N,N,N,N,Not Comp,48,192,48,192,100,192,-4,Default Account Rep,Posted for Resale,,,Personal,P: Weekend Pass,Package,inet01,GEN,25KCWP,Cole Andersen,,,,,,N
 250704,127,6,1,3,3,1241656,"Collins, Mike",64081,3/13/2025,G*,,Y,0,N,N,N,N,Not Comp,60,180,60,180,100,180,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW209,,,,L-TYPE,DYN001,7,,,
 250705,127,6,1,3,3,1264716,"Smith, Angela",63010,3/31/2025,G*,,Y,0,N,N,N,N,Not Comp,60,180,60,180,100,180,-4,Default Account Rep,Active,,,Personal,Adult,,ZIW191,,,,L-TYPE,DYN001,7,,,
 250705,127,6,7,10,4,1290601,"Healy, Rob",,5/9/2025,GGL,,Y,0,N,N,N,N,Not Comp,53,212,53,212,100,212,347929,Kelton Clarke,Active,,,Personal,Group Early Bird,Group,inet01,GEN,,,,,,,,

@@ -1,8 +1,8 @@
 event_name,team,event_date,event_time,season_name,plan,total_events,game_number,default_ticket_template_name,returnable,enabled,onsale_datetime,offsale_datetime,oss_onsale_datetime,oss_offsale_datetime,fror_seat_list_name,fror_min_seats,fror_max_seats,fror_assignment_type,fror_alert_text,fror_onsale_datetime,fror_offsale_datetime,plan_abv,barcode_status,barcode_event_slots,barcode_max_seats_per_row,event_line1,event_line2,event_line3,event_line4,event_line5,event_line6,event_line7,event_line8,event_line9,event_line10,inet_line1,inet_line2,inet_line3,inet_line4,inet_line5,inet_line6,inet_line7,inet_line8,inet_line9,inet_line10,auto_add_membership_name1,auto_add_membership_name2,auto_add_membership_name3,membership_reqd,pc_membership_reqd,ledger_code
 250808HC,11. Boston,8/8/2025,20:00:00,25.11UP Boston Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250809HC,11. Boston,8/9/2025,20:00:00,25.11UP Boston Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-25CHMG1,07. Chicago,7/11/2025,19:00:00,25.07UP Chicago Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-25CHMG2,07. Chicago,7/12/2025,19:00:00,25.07UP Chicago Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+25CHMG1,07. Chicago,7/11/2025,19:00:00,25.07UP Chicago Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+25CHMG2,07. Chicago,7/12/2025,19:00:00,25.07UP Chicago Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250530H,01. Albany,5/30/2025,18:00:00,25.01UP Albany Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250801,10. Denver,8/1/2025,18:00:00,25.10 Denver Suites,N,1,,,Y,Y,,,,,,,,S,,,,E,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250802A,10. Denver,8/2/2025,11:00:00,25.10 Denver Suites,N,1,,,Y,Y,,,,,,,,S,,,,E,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
@@ -38,7 +38,7 @@ event_name,team,event_date,event_time,season_name,plan,total_events,game_number,
 25CSDEP,00. Champ Series,2/15/2025,17:30:00,25.00D Champ Series Deposits,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250719A,08. Fairfield,7/19/2025,15:00:00,25.08 Fairfield Suites,N,1,,,Y,Y,,,,,,,,S,,,,E,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250719B,08. Fairfield,7/19/2025,20:00:00,25.08 Fairfield Suites,N,1,,,Y,Y,,,,,,,,S,,,,E,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-25CATER,Catering,9/30/2025,20:00:00,2025 Catering,N,1,,,Y,Y,,,,,,,,S,,,,E,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+25CATER,Catering,9/30/2025,20:00:00,2025 Catering,N,1,,,Y,Y,,,,,,,,S,,,,E,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 24PDAY2,2024 Phily Day 1 Game 2,6/15/2024,19:00:00,2024 Philly Nova Season,N,1,1,,Y,Y,,,,,,,,S,,,,E,Y,2,50,PREMIER LACROSSE LEAGUE,,Utah Archers vs. Carolina Chaos,,Villanova Satdium,"Saturday, June 15, 2024 - 7:00 PM",,,,02006092B7EF473C,PREMIER LACROSSE LEAGUE,,Utah Archers vs. Carolina Chaos,TBD,Villanova Satdium,"Saturday, June 15, 2024 - 7:00 PM",,,,,,,,N,N,GEN
 250901,13. Subaru Park,9/1/2025,16:00:00,25.13 Subaru Park Suites,N,1,,,Y,Y,,,,,,,,S,,,,E,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 25KCWP,06. Kansas City,7/4/2025,23:59:00,25.06 Kansas City ASG,Y,2,,,Y,Y,,,3/13/2025 07:00,7/4/2025 17:00,,,,S,,,,FS,N,2,,PREMIER LACROSSE LEAGUE,ALL STAR WEEKEND PASS,,CPKC STADIUM,KANSAS CITY,MULTIPLE DATES,,,,,PREMIER LACROSSE LEAGUE,ALL STAR WEEKEND PASS,,CPKC STADIUM,KANSAS CITY,MULTIPLE DATES,,,,,KANSASCITY,,2025,N,N,GEN
@@ -66,7 +66,7 @@ event_name,team,event_date,event_time,season_name,plan,total_events,game_number,
 25215MGB,00. Champ Series,2/15/2025,18:00:00,25.00PE Champ Series Premium Experiences,N,1,,,Y,N,,,,,,,,S,,,,E,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 25216MGA,00. Champ Series,2/16/2025,10:30:00,25.00PE Champ Series Premium Experiences,N,1,,,Y,Y,,,,,,,,S,,,,E,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 25216MGB,00. Champ Series,2/16/2025,18:00:00,25.00PE Champ Series Premium Experiences,N,1,,,Y,Y,,,,,,,,S,,,,E,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-25CSFLEX,00. Champ Series,2/11/2025,23:59:00,25.00 Champ Series - TSJ,Y,9,,,Y,Y,,,,,,,,S,,,,PAP,N,1,,,,,,,,,,,,,,,,,,,,,,2025,CHAMPSERIES,HOMEPASS,N,N,GEN
+25CSFLEX,00. Champ Series,2/11/2025,23:59:00,25.00 Champ Series - TSJ,Y,9,,,N,N,,,12/11/2024 00:00,2/11/2025 23:59,,,,S,,,,PAP,N,1,,,,,,,,,,,,,,,,,,,,,,2025,CHAMPSERIES,HOMEPASS,N,N,GEN
 250613H,03. Philadelphia,6/13/2025,18:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250212D,2025 Champ Series Suites,2/12/2025,19:00:00,25.00SD Champ Series Suite Deposits,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250213D,2025 Champ Series Suites,2/13/2025,19:00:00,25.00SD Champ Series Suite Deposits,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
@@ -105,16 +105,16 @@ TESTEVT5,TEST,12/5/2025,20:00:00,TEST The St. James,N,1,,,Y,Y,,,,,,,,S,,,,E,N,1,
 250704,06. Kansas City,7/4/2025,17:30:00,25.06 Kansas City ASG,N,1,,,Y,Y,,,,,,,,S,,,,E,Y,2,32,PREMIER LACROSSE LEAGUE,MAYBELLINE WLL ALL-STAR GAME,,CPKC STADIUM,SKILLS COMPETITION 5:30 PM,FRI JULY 4 2025 7:00 PM,,,,06006267D1638C0D,PREMIER LACROSSE LEAGUE,MAYBELLINE WLL ALL-STAR GAME,,CPKC STADIUM,SKILLS COMPETITION 5:30 PM,FRI JULY 4 2025 7:00 PM,,,,,KANSASCITY,2025,,N,N,GEN
 250705,06. Kansas City,7/5/2025,12:00:00,25.06 Kansas City ASG,N,1,,,Y,Y,,,,,,,,S,,,,E,Y,2,32,PREMIER LACROSSE LEAGUE,LEXUS PLL ALL-STAR GAME,,CPKC STADIUM,KANSAS CITY,SAT JULY 5 2025 12:00 PM,,,,06006267D1658C11,PREMIER LACROSSE LEAGUE,LEXUS PLL ALL-STAR GAME,,CPKC STADIUM,KANSAS CITY,SAT JULY 5 2025 12:00 PM,,,,,KANSASCITY,2025,,N,N,GEN
 250823PK,Parking,8/23/2025,17:00:00,25.12PK Minnesota Parking,N,1,,,Y,Y,,,,,,,,S,,,,PRK,N,1,,,TCO STADIUM PARKING,,,,SAT AUG 23 2025,,,,06006274886319A8,,TCO STADIUM PARKING,,,,SAT AUG 23 2025,,,,,,,,N,N,GEN
-25CHHC1,07. Chicago,7/11/2025,19:00:00,25.07UP Chicago Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-25CHHC2,07. Chicago,7/12/2025,19:00:00,25.07UP Chicago Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-24BALDUE,Balance Due,12/31/2024,20:00:00,2024 Season Balance Due,N,1,,,Y,Y,,,,,,,,S,,,,SPE,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+25CHHC1,07. Chicago,7/11/2025,19:00:00,25.07UP Chicago Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+25CHHC2,07. Chicago,7/12/2025,19:00:00,25.07UP Chicago Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+24BALDUE,Balance Due,12/31/2024,20:00:00,2024 Season Balance Due,N,1,,,Y,Y,,,,,,,,S,,,,SPE,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250705PK,Parking,7/5/2025,12:00:00,25.06PK Kansas City ASG Parking,N,1,,,Y,Y,,,,,,,,S,,,,E,N,0,,,,,,,,,,,06006281A93D7AB9,,,,,,,,,,,,,,N,N,GEN
 TSTPASS,TEST,10/3/2025,23:59:00,TEST - Baltimore,Y,2,,,Y,Y,,,1/9/2025 00:00,2/27/2025 23:59,,,,S,,,,FS,N,1,,,,,,,,,,,,,,,,,,,,,,,,,Y,N,GEN
 TSTDAY1,TEST,10/3/2025,20:00:00,TEST - Baltimore,N,1,,,Y,Y,,,,,,,,S,,,,E,Y,1,32,Premier Lacrosse League,OPPONENT,vs,OPPONENT,Logan's Lair,"FRI SEPT 19, 2025 8:00 PM",,,,,Premier Lacrosse League,OPPONENT,vs,OPPONENT,Logan's Lair,"FRI SEPT 19, 2025 8:00 PM",,,,,,,,Y,N,GEN
 TSTDAY2,TEST,10/4/2025,20:00:00,TEST - Baltimore,N,1,,,Y,Y,,,,,,,,S,,,,E,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,Y,N,GEN
-TSTPLUS,TEST,12/4/2025,20:00:00,TEST GA Season,N,1,,,Y,Y,,,,,,,,S,,,,PSL,N,0,,TICKET LINE 1,TICKET LINE 2,TICKET LINE 3,TICKET LINE 4,TICKET LINE 5,TICKET LINE 6,,,,,TICKET LINE 1,TICKET LINE 2,TICKET LINE 3,TICKET LINE 4,TICKET LINE 5,TICKET LINE 6,,,,,,,,Y,N,GEN
-TSTVIP,TEST,12/4/2025,20:00:00,TEST GA Season,N,1,,,Y,Y,,,,,,,,S,,,,PSL,N,0,,TICKET LINE 1,TICKET LINE 2,TICKET LINE 3,TICKET LINE 4,TICKET LINE 5,TICKET LINE 6,,,,,TICKET LINE 1,TICKET LINE 2,TICKET LINE 3,TICKET LINE 4,TICKET LINE 5,TICKET LINE 6,,,,,,,,Y,N,GEN
-TSTPRO,TEST,12/4/2025,20:00:00,TEST GA Season,N,1,,,Y,Y,,,,,,,,S,,,,PSL,N,0,,TICKET LINE 1,TICKET LINE 2,TICKET LINE 3,TICKET LINE 4,TICKET LINE 5,TICKET LINE 6,,,,,TICKET LINE 1,TICKET LINE 2,TICKET LINE 3,TICKET LINE 4,TICKET LINE 5,TICKET LINE 6,,,,,,,,Y,N,GEN
+TSTPLUS,TEST,12/4/2025,20:00:00,TEST GA Season,N,1,,,Y,Y,,,,,,,,S,,,,PSL,N,1,,TICKET LINE 1,TICKET LINE 2,TICKET LINE 3,TICKET LINE 4,TICKET LINE 5,TICKET LINE 6,,,,,TICKET LINE 1,TICKET LINE 2,TICKET LINE 3,TICKET LINE 4,TICKET LINE 5,TICKET LINE 6,,,,,,,,Y,N,GEN
+TSTVIP,TEST,12/4/2025,20:00:00,TEST GA Season,N,1,,,Y,Y,,,,,,,,S,,,,PSL,N,1,,TICKET LINE 1,TICKET LINE 2,TICKET LINE 3,TICKET LINE 4,TICKET LINE 5,TICKET LINE 6,,,,,TICKET LINE 1,TICKET LINE 2,TICKET LINE 3,TICKET LINE 4,TICKET LINE 5,TICKET LINE 6,,,,,,,,Y,N,GEN
+TSTPRO,TEST,12/4/2025,20:00:00,TEST GA Season,N,1,,,Y,Y,,,,,,,,S,,,,PSL,N,1,,TICKET LINE 1,TICKET LINE 2,TICKET LINE 3,TICKET LINE 4,TICKET LINE 5,TICKET LINE 6,,,,,TICKET LINE 1,TICKET LINE 2,TICKET LINE 3,TICKET LINE 4,TICKET LINE 5,TICKET LINE 6,,,,,,,,Y,N,GEN
 250607E,02. Charlotte,6/7/2025,19:00:00,25.02 Charlotte Season,N,1,15,Ticket,Y,Y,,,,,,,,S,,,,E,Y,2,32,PREMIER LACROSSE LEAGUE,CALIFORNIA REDWOODS,vs,CAROLINA CHAOS,AMERICAN LEGION MEMORIAL STADIUM,SAT JUNE 7 2025 7:00 PM,,,,2D006227A73F2644,PREMIER LACROSSE LEAGUE,DENVER OUTLAWS,vs,CAROLINA CHAOS,AMERICAN LEGION MEMORIAL STADIUM,SAT JUNE 7 2025 7:00 PM,,,,,2025,CHARLOTTE,,N,Y,GEN
 250725,09. Salt Lake City,7/25/2025,18:00:00,25.09 Salt Lake City Season,N,1,28,Ticket,Y,Y,,,,,,,,S,,,,E,Y,1,32,PREMIER LACROSSE LEAGUE,GAME 1: REDWOODS vs ARCHERS,---,GAME 2: WHIPSNAKES vs ATLAS,ZIONS BANK STADIUM,FRI JUL 25 2025 6:00 & 8:30 PM,,,,1E006227F1512B14,PREMIER LACROSSE LEAGUE,GAME 1: REDWOODS vs ARCHERS,---,GAME 2: WHIPSNAKES vs ATLAS,ZIONS BANK STADIUM,FRI JUL 25 2025 6:00 & 8:30 PM,,,,,2025,SALTLAKE,,N,N,GEN
 250726,09. Salt Lake City,7/26/2025,16:30:00,25.09 Salt Lake City Season,N,1,29,Ticket,Y,Y,,,,,,,,S,,,,E,Y,1,32,PREMIER LACROSSE LEAGUE,GAME 1: WATERDOGS vs CHAOS,---,GAME 2: OUTLAWS vs ARCHERS,ZIONS BANK STADIUM,SAT JUL 26 2025 4:30 & 7:00  PM,,,,1E006227F1532B35,PREMIER LACROSSE LEAGUE,GAME 1: WATERDOGS vs CHAOS,---,GAME 2: OUTLAWS vs ARCHERS,ZIONS BANK STADIUM,SAT JUL 26 2025 4:30 & 7:00  PM,,,,,2025,SALTLAKE,,N,Y,GEN
@@ -122,73 +122,73 @@ TSTPRO,TEST,12/4/2025,20:00:00,TEST GA Season,N,1,,,Y,Y,,,,,,,,S,,,,PSL,N,0,,TIC
 250809A,11. Boston,8/9/2025,13:00:00,25.11 Boston Season,N,1,34,Ticket,Y,Y,,,,,,,,S,,,,E,Y,3,32,PREMIER LACROSSE LEAGUE,PHILADELPHIA WATERDOGS,vs,NEW YORK ATLAS,HARVARD STADIUM,SAT AUG 9 2025 1:00 PM,,,,01006228A06F1A30,PREMIER LACROSSE LEAGUE,PHILADELPHIA WATERDOGS,vs,NEW YORK ATLAS,HARVARD STADIUM,SAT AUG 9 2025 1:00 PM,,,,,2025,BOSTON,,N,N,GEN
 250809E,11. Boston,8/9/2025,19:00:00,25.11 Boston Season,N,1,35,Ticket,Y,Y,,,,,,,,S,,,,E,Y,3,32,PREMIER LACROSSE LEAGUE,MARYLAND WHIPSNAKES,vs,BOSTON CANNONS,HARVARD STADIUM,SAT AUG 9 2025 7:00 PM,,,,01006228A0711A38,PREMIER LACROSSE LEAGUE,MARYLAND WHIPSNAKES,vs,BOSTON CANNONS,HARVARD STADIUM,SAT AUG 9 2025 8:00 PM,,,,,2025,BOSTON,,N,Y,GEN
 250823,12. Minneapolis,8/23/2025,17:00:00,25.12 Minnesota Season,N,1,36,Ticket,Y,Y,,,,,,,,S,,,,E,Y,2,32,PLL & WLL QUARTERFINALS,Game 1: TBD vs TBD,,Game 2: TBD vs TBD,TCO STADIUM,SAT AUG 23 2025 5 & 7:30 PM,,,,060062289B604602,PLL & WLL QUARTERFINALS,Game 1: TBD vs TBD,,Game 2: TBD vs TBD,TCO STADIUM,SAT AUG 23 2025 5 & 7:30 PM,,,,,2025,MINNESOTA,,N,N,GEN
-D250530,01. Albany,5/30/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250531A,01. Albany,5/31/2025,13:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250531E,01. Albany,5/31/2025,19:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250606,02. Charlotte,6/6/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250607A,02. Charlotte,6/7/2025,13:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250607E,02. Charlotte,6/7/2025,19:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250613,03. Philadelphia,6/13/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250614A,03. Philadelphia,6/14/2025,13:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250614E,03. Philadelphia,6/14/2025,19:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250627,05. San Diego,6/27/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250628,05. San Diego,6/28/2025,15:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250725,09. Salt Lake City,7/25/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250726,09. Salt Lake City,7/26/2025,16:30:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250808,11. Boston,8/8/2025,18:30:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250809A,11. Boston,8/9/2025,13:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250809E,11. Boston,8/9/2025,19:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250823,12. Minneapolis,8/23/2025,17:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-25APLUS,01. Albany,5/30/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,5/30/2025 20:00,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25PLUS,,,Y,N,GEN
-25AVIP,01. Albany,5/30/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,5/30/2025 20:00,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25VIP,,,Y,N,GEN
-25CPLUS,02. Charlotte,6/6/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/6/2025 20:00,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25PLUS,,,Y,N,GEN
-25CVIP,02. Charlotte,6/6/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/6/2025 20:00,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25VIP,,,Y,N,GEN
-25PPLUS,03. Philadelphia,6/13/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/13/2025 20:00,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25PLUS,,,Y,N,GEN
-25PVIP,03. Philadelphia,6/13/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/13/2025 20:00,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25VIP,,,Y,N,GEN
-25BPLUS,04. Baltimore,6/21/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/21/2025 20:00,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25PLUS,,,Y,N,GEN
-25BVIP,04. Baltimore,6/21/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,N,,,,,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25VIP,,,Y,N,GEN
-25SDPLUS,05. San Diego,6/27/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/27/2025 20:00,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25PLUS,,,Y,N,GEN
-25SDVIP,05. San Diego,6/27/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/27/2025 20:00,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25VIP,,,Y,N,GEN
-25SLPLUS,09. Salt Lake City,8/1/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,8/1/2025 20:00,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25PLUS,,,Y,N,GEN
-25SLVIP,09. Salt Lake City,8/1/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,8/1/2025 20:00,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25VIP,,,Y,N,GEN
-25BSPLUS,11. Boston,8/8/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,8/8/2025 20:00,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25PLUS,,,Y,N,GEN
-25BSVIP,11. Boston,8/8/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,8/8/2025 20:00,,,,S,,,,EXP,N,0,,,,,,,,,,,,,,,,,,,,,,25VIP,,,Y,N,GEN
+D250530,01. Albany,5/30/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250531A,01. Albany,5/31/2025,13:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250531E,01. Albany,5/31/2025,19:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250606,02. Charlotte,6/6/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250607A,02. Charlotte,6/7/2025,13:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250607E,02. Charlotte,6/7/2025,19:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250613,03. Philadelphia,6/13/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250614A,03. Philadelphia,6/14/2025,13:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250614E,03. Philadelphia,6/14/2025,19:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250627,05. San Diego,6/27/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250628,05. San Diego,6/28/2025,15:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250725,09. Salt Lake City,7/25/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250726,09. Salt Lake City,7/26/2025,16:30:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250808,11. Boston,8/8/2025,18:30:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250809A,11. Boston,8/9/2025,13:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250809E,11. Boston,8/9/2025,19:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250823,12. Minneapolis,8/23/2025,17:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+25APLUS,01. Albany,5/30/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,5/17/2025 03:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
+25AVIP,01. Albany,5/30/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,5/30/2025 20:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
+25CPLUS,02. Charlotte,6/6/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,5/23/2025 23:59,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
+25CVIP,02. Charlotte,6/6/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/6/2025 20:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
+25PPLUS,03. Philadelphia,6/13/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,5/30/2025 23:59,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
+25PVIP,03. Philadelphia,6/13/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/13/2025 20:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
+25BPLUS,04. Baltimore,6/21/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/7/2025 03:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
+25BVIP,04. Baltimore,6/21/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,N,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
+25SDPLUS,05. San Diego,6/27/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/13/2025 23:59,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
+25SDVIP,05. San Diego,6/27/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/27/2025 20:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
+25SLPLUS,09. Salt Lake City,8/1/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,7/11/2025 23:59,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
+25SLVIP,09. Salt Lake City,8/1/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,8/1/2025 20:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
+25BSPLUS,11. Boston,8/8/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,7/25/2025 23:59,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
+25BSVIP,11. Boston,8/8/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,8/8/2025 20:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
 250704PK,Parking,7/4/2025,17:30:00,25.06PK Kansas City ASG Parking,N,1,,,Y,Y,,,,,,,,S,,,,E,N,0,,,,,,,,,,,06006281A93B7AB5,,,,,,,,,,,,,,N,N,GEN
-D250711,07. Chicago,7/11/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250712,07. Chicago,7/12/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250621,04. Baltimore,6/21/2025,16:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250622,04. Baltimore,6/22/2025,12:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250704,06. Kansas City,7/4/2025,17:30:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250705,06. Kansas City,7/5/2025,12:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250718,08. Fairfield,7/18/2025,18:30:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250719A,08. Fairfield,7/19/2025,15:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250719E,08. Fairfield,7/19/2025,20:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250801,10. Denver,8/1/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250802A,10. Denver,8/2/2025,11:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250802E,10. Denver,8/2/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250901,13. Subaru Park,9/1/2025,16:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250914,14. Championship,9/14/2025,12:30:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250211,00. Champ Series,2/11/2025,19:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250212,00. Champ Series,2/12/2025,19:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250213,00. Champ Series,2/13/2025,19:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250214,00. Champ Series,2/14/2025,18:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250215A,00. Champ Series,2/15/2025,12:30:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250215E,00. Champ Series,2/15/2025,18:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250216A,00. Champ Series,2/16/2025,10:30:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250216E,00. Champ Series,2/16/2025,18:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D250217,00. Champ Series,2/17/2025,11:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D25ALL,ALL MARKETS,5/30/2025,23:59:00,2025 Deposit Events,Y,31,,,Y,Y,,,,,,,,S,,,,FS,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D25ASG,06. Kansas City,7/4/2025,23:59:00,2025 Deposit Events,Y,2,,,Y,Y,,,,,,,,S,,,,MP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D25ALB,01. Albany,5/30/2025,23:59:00,2025 Deposit Events,Y,3,,,Y,Y,,,,,,,,S,,,,MP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D25CHA,02. Charlotte,6/6/2025,23:59:00,2025 Deposit Events,Y,3,,,Y,Y,,,,,,,,S,,,,MP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D25PHI,03. Philadelphia,6/13/2025,23:59:00,2025 Deposit Events,Y,3,,,Y,Y,,,,,,,,S,,,,MP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D25BAL,04. Baltimore,6/21/2025,23:59:00,2025 Deposit Events,Y,2,,,Y,Y,,,,,,,,S,,,,MP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D25SD,05. San Diego,6/27/2025,23:59:00,2025 Deposit Events,Y,2,,,Y,Y,,,,,,,,S,,,,MP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D25CHI,07. Chicago,7/11/2025,23:59:00,2025 Deposit Events,Y,2,,,Y,Y,,,,,,,,S,,,,MP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D25FAI,08. Fairfield,7/11/2025,23:59:00,2025 Deposit Events,Y,3,,,Y,Y,,,,,,,,S,,,,MP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D25SLC,09. Salt Lake City,7/25/2025,23:59:00,2025 Deposit Events,Y,2,,,Y,Y,,,,,,,,S,,,,MP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D25DEN,10. Denver,8/1/2025,23:59:00,2025 Deposit Events,Y,3,,,Y,Y,,,,,,,,S,,,,MP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-D25BOS,11. Boston,8/1/2025,23:59:00,2025 Deposit Events,Y,3,,,Y,Y,,,,,,,,S,,,,MP,N,0,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250711,07. Chicago,7/11/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250712,07. Chicago,7/12/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250621,04. Baltimore,6/21/2025,16:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250622,04. Baltimore,6/22/2025,12:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250704,06. Kansas City,7/4/2025,17:30:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250705,06. Kansas City,7/5/2025,12:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250718,08. Fairfield,7/18/2025,18:30:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250719A,08. Fairfield,7/19/2025,15:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250719E,08. Fairfield,7/19/2025,20:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250801,10. Denver,8/1/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250802A,10. Denver,8/2/2025,11:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250802E,10. Denver,8/2/2025,18:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250901,13. Subaru Park,9/1/2025,16:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250914,14. Championship,9/14/2025,12:30:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250211,00. Champ Series,2/11/2025,19:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250212,00. Champ Series,2/12/2025,19:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250213,00. Champ Series,2/13/2025,19:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250214,00. Champ Series,2/14/2025,18:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250215A,00. Champ Series,2/15/2025,12:30:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250215E,00. Champ Series,2/15/2025,18:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250216A,00. Champ Series,2/16/2025,10:30:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250216E,00. Champ Series,2/16/2025,18:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D250217,00. Champ Series,2/17/2025,11:00:00,2025 Deposit Events,N,1,,,Y,N,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D25ALL,ALL MARKETS,5/30/2025,23:59:00,2025 Deposit Events,Y,31,,,Y,Y,,,,,,,,S,,,,FS,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D25ASG,06. Kansas City,7/4/2025,23:59:00,2025 Deposit Events,Y,2,,,Y,Y,,,,,,,,S,,,,MP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D25ALB,01. Albany,5/30/2025,23:59:00,2025 Deposit Events,Y,3,,,Y,Y,,,,,,,,S,,,,MP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D25CHA,02. Charlotte,6/6/2025,23:59:00,2025 Deposit Events,Y,3,,,Y,Y,,,,,,,,S,,,,MP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D25PHI,03. Philadelphia,6/13/2025,23:59:00,2025 Deposit Events,Y,3,,,Y,Y,,,,,,,,S,,,,MP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D25BAL,04. Baltimore,6/21/2025,23:59:00,2025 Deposit Events,Y,2,,,Y,Y,,,,,,,,S,,,,MP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D25SD,05. San Diego,6/27/2025,23:59:00,2025 Deposit Events,Y,2,,,Y,Y,,,,,,,,S,,,,MP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D25CHI,07. Chicago,7/11/2025,23:59:00,2025 Deposit Events,Y,2,,,Y,Y,,,,,,,,S,,,,MP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D25FAI,08. Fairfield,7/11/2025,23:59:00,2025 Deposit Events,Y,3,,,Y,Y,,,,,,,,S,,,,MP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D25SLC,09. Salt Lake City,7/25/2025,23:59:00,2025 Deposit Events,Y,2,,,Y,Y,,,,,,,,S,,,,MP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D25DEN,10. Denver,8/1/2025,23:59:00,2025 Deposit Events,Y,3,,,Y,Y,,,,,,,,S,,,,MP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+D25BOS,11. Boston,8/1/2025,23:59:00,2025 Deposit Events,Y,3,,,Y,Y,,,,,,,,S,,,,MP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250530G,01. Albany,5/30/2025,18:00:00,25.01UP Albany Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250531AG,01. Albany,5/31/2025,13:00:00,25.01UP Albany Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250531EG,01. Albany,5/31/2025,19:00:00,25.01UP Albany Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN

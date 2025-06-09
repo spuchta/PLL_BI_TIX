@@ -79,8 +79,8 @@ _21,20% Discount All Access,20% Discount All Access,20% Discount All Access,20% 
 _22,2022 Weekend Pass Pricing,2022 Weekend Pass Pricing,2022 Weekend Pass Pricing,2022 Weekend Pass Pricing,Y,N,M-TYPE,103,_X72,FP,,1030,KMYERS,1/23/2023 09:59:16:30173,N,,0,_22,,,78
 _23,20% Discount Weekend Pass,20% Discount Weekend Pass,20% Discount Weekend Pass,20% Discount Weekend Pass,Y,N,M-TYPE,104,_X73,FP,,1031,KMYERS,11/6/2023 07:45:06:046886,N,,0,_23,,,79
 _24,$24 TIcket,$24 Ticket,$24 TIcket,$24 Ticket,Y,N,M-TYPE,105,_X74,FP,,1032,AKRALL,6/26/2024 08:14:23:352123,N,,0,_24,,,80
-_25,$25 Ticket,$25 Ticket,$25 Ticket,$25 Ticket,Y,N,M-TYPE,106,_X75,FP,,1033,KMYERS,6/12/2024 08:22:08:052655,N,,0,_25,,,81
-_26,,,,,N,N,M-TYPE,107,_X76,,,1034,tm46,7/2/2007 14:37:43:37,N,,0,_26,,,82
+_25,FP:$25 Ticket,FP:$25 Ticket,FP:$25 Ticket,FP:$25 Ticket,Y,N,M-TYPE,106,_X75,FP,,1033,SPUCHTA,6/5/2025 15:54:13:461687,N,,0,_25,,,81
+_26,,,,,N,N,M-TYPE,107,_X76,GRP,,1034,SPUCHTA,6/5/2025 15:55:33:99896,N,,0,_26,,,82
 _27,,,,,N,N,M-TYPE,108,_X77,,,1035,tm46,7/2/2007 14:37:43:37,N,,0,_27,,,83
 _28,,,,,N,N,M-TYPE,109,_X78,,,1036,tm46,7/2/2007 14:37:43:37,N,,0,_28,,,84
 _29,,,,,N,N,M-TYPE,110,_X79,,,1037,tm46,7/2/2007 14:37:43:37,N,,0,_29,,,85

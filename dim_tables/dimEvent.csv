@@ -26,7 +26,7 @@ event_name,team,event_date,event_time,season_name,plan,total_events,game_number,
 250211,00. Champ Series,2/11/2025,19:00:00,25.00 Champ Series - TSJ,N,1,1,Ticket,N,N,,,,,,,,S,,,,E,Y,1,32,2025 LEXUS CHAMPIONSHIP SERIES,WLL CHARM VS CHARGING,PLL WHIPSNAKES VS ATLAS,,The St. James,"Tuesday, February 11, 2025 7 & 9 PM",,,,1500617AC47F300A,2025 LEXUS CHAMPIONSHIP SERIES,WLL CHARM VS CHARGING,PLL WHIPSNAKES VS ATLAS,,The St. James,"Tuesday, February 11, 2025 7 & 9 PM",,,,,2025,,,N,N,GEN
 25APRO,Players Tour,5/28/2025,19:00:00,25.01UP Albany Upsell,N,1,,,N,N,,,,,,,,S,,,,SPE,Y,1,50,,,,,,,,,,0000623EDE0E5D87,,,,,,,,,,,,,,N,N,GEN
 25CPRO,Players Tour,6/7/2025,09:00:00,25.02UP Charlotte Upsell,N,1,,,Y,Y,,,,,,,,S,,,,SPE,Y,1,50,,,,,,,,,,2D006243A6512945,,,,,,,,,,,,,,N,N,GEN
-25PPRO,Players Tour,6/14/2025,09:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,SPE,Y,1,32,,,,,,,,,,02006243AC301D1A,,,,,,,,,,,,,,N,N,GEN
+25PPRO,Players Tour,6/14/2025,09:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,SPE,Y,1,32,,,,,,,,,,02006243AC301D1A,,,,,,,,,,,,,,N,N,GEN
 25BPRO,Players Tour,6/22/2025,09:00:00,25.04UP Baltimore Upsell,N,1,,,Y,Y,,,,,,,,S,,,,SPE,Y,1,50,,,,,,,,,,15006243C16820F9,,,,,,,,,,,,,,N,N,GEN
 25SDPRO,Players Tour,6/10/2025,18:00:00,25.05UP San Diego Upsell,N,1,,,Y,Y,,,,,,,,S,,,,SPE,Y,1,50,,,,,,,,,,0A0062439EF914B1,,,,,,,,,,,,,,N,N,GEN
 250211FP,00. Champ Series,2/11/2025,19:00:00,25.00PE Champ Series Premium Experiences,N,1,,,Y,N,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
@@ -67,10 +67,10 @@ event_name,team,event_date,event_time,season_name,plan,total_events,game_number,
 25216MGA,00. Champ Series,2/16/2025,10:30:00,25.00PE Champ Series Premium Experiences,N,1,,,Y,Y,,,,,,,,S,,,,E,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 25216MGB,00. Champ Series,2/16/2025,18:00:00,25.00PE Champ Series Premium Experiences,N,1,,,Y,Y,,,,,,,,S,,,,E,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 25CSFLEX,00. Champ Series,2/11/2025,23:59:00,25.00 Champ Series - TSJ,Y,9,,,N,N,,,12/11/2024 00:00,2/11/2025 23:59,,,,S,,,,PAP,N,1,,,,,,,,,,,,,,,,,,,,,,2025,CHAMPSERIES,HOMEPASS,N,N,GEN
-250613H,03. Philadelphia,6/13/2025,18:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250613H,03. Philadelphia,6/13/2025,18:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250212D,2025 Champ Series Suites,2/12/2025,19:00:00,25.00SD Champ Series Suite Deposits,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250213D,2025 Champ Series Suites,2/13/2025,19:00:00,25.00SD Champ Series Suite Deposits,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250614AH,03. Philadelphia,6/14/2025,13:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250614AH,03. Philadelphia,6/14/2025,13:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250531AH,01. Albany,5/31/2025,13:00:00,25.01UP Albany Upsell,N,1,,,N,N,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250531EH,01. Albany,5/31/2025,19:00:00,25.01UP Albany Upsell,N,1,,,N,N,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250530M,01. Albany,5/30/2025,18:00:00,25.01UP Albany Upsell,N,1,,,N,N,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
@@ -89,8 +89,8 @@ TESTEVT5,TEST,12/5/2025,20:00:00,TEST The St. James,N,1,,,Y,Y,,,,,,,,S,,,,E,N,1,
 250530,01. Albany,5/30/2025,18:00:00,25.01 Albany Season,N,1,10,Ticket,N,N,,,,,,,,S,,,,E,Y,1,32,PREMIER LACROSSE LEAGUE,GAME 1: CHAOS vs ATLAS,---,GAME 2: REDWOODS vs OUTLAWS,TOM & MARY CASEY STADIUM,FRI MAY 30 2025 6:00 & 8:30 PM,,,,00006226D7692526,PREMIER LACROSSE LEAGUE,GAME 1: CHAOS vs ATLAS,---,GAME 2: REDWOODS vs OUTLAWS,TOM & MARY CASEY STADIUM,FRI MAY 30 2025 6:00 & 8:30 PM,,,,,2025,ALBANY,,N,N,GEN
 25CHP,02. Charlotte,6/6/2025,23:59:00,25.02 Charlotte Season,Y,3,,,Y,Y,,,1/29/2025 06:00,6/6/2025 20:00,,,,S,,,,FS,N,2,,,,,,,,,,,,,,,,,,,,,,2025,CHARLOTTE,HOMEPASS,N,N,GEN
 250606,02. Charlotte,6/6/2025,18:00:00,25.02 Charlotte Season,N,1,13,Ticket,N,N,,,,,,,,S,,,,E,Y,2,32,PREMIER LACROSSE LEAGUE,GAME 1: OUTLAWS vs CHAOS,---,GAME 2: WATERDOGS vs WHIPSNAKES,AMERICAN LEGION MEMORIAL STADIUM,FRI JUNE 6 2025 6:00 & 8:30 PM,,,,2D006227A73B262C,PREMIER LACROSSE LEAGUE,GAME 1: OUTLAWS vs CHAOS,---,GAME 2: WATERDOGS vs WHIPSNAKES,AMERICAN LEGION MEMORIAL STADIUM,FRI JUNE 6 2025 6:00 & 8:30 PM,,,,,2025,CHARLOTTE,,N,N,GEN
-250607A,02. Charlotte,6/7/2025,13:00:00,25.02 Charlotte Season,N,1,14,Ticket,N,N,,,,,,,,S,,,,E,Y,2,32,PREMIER LACROSSE LEAGUE,UTAH ARCHERS,vs,BOSTON CANNONS,AMERICAN LEGION MEMORIAL STADIUM,SAT JUNE 7 2025 1:00 PM,,,,2D006227A73E2635,PREMIER LACROSSE LEAGUE,UTAH ARCHERS,vs,BOSTON CANNONS,AMERICAN LEGION MEMORIAL STADIUM,SAT JUNE 7 2025 1:00 PM,,,,,2025,CHARLOTTE,,N,N,GEN
-25PHP,03. Philadelphia,6/13/2025,23:59:00,25.03 Philadelphia Season,Y,3,,,Y,Y,,,1/29/2025 06:00,6/13/2025 20:00,,,,S,,,,FS,N,2,,,,,,,,,,,,,,,,,,,,,,2025,PHILADELPHIA,HOMEPASS,N,N,GEN
+250607A,02. Charlotte,6/7/2025,13:00:00,25.02 Charlotte Season,N,1,14,Ticket,Y,Y,,,,,,,,S,,,,E,Y,2,32,PREMIER LACROSSE LEAGUE,UTAH ARCHERS,vs,BOSTON CANNONS,AMERICAN LEGION MEMORIAL STADIUM,SAT JUNE 7 2025 1:00 PM,,,,2D006227A73E2635,PREMIER LACROSSE LEAGUE,UTAH ARCHERS,vs,BOSTON CANNONS,AMERICAN LEGION MEMORIAL STADIUM,SAT JUNE 7 2025 1:00 PM,,,,,2025,CHARLOTTE,,N,N,GEN
+25PHP,03. Philadelphia,6/13/2025,23:59:00,25.03 Philadelphia Season,Y,3,,,N,N,,,1/29/2025 06:00,6/13/2025 20:00,,,,S,,,,FS,N,2,,,,,,,,,,,,,,,,,,,,,,2025,PHILADELPHIA,HOMEPASS,N,N,GEN
 250613,03. Philadelphia,6/13/2025,18:00:00,25.03 Philadelphia Season,N,1,16,Ticket,Y,Y,,,,,,,,S,,,,E,Y,2,32,PREMIER LACROSSE LEAGUE,GAME 1: CANNONS vs WATERDOGS,---,GAME 2: REDWOODS vs ARCHERS,VILLANOVA STADIUM,FRI JUNE 13 2025 6:00 & 8:30 PM,,,,02006227B8E4179C,PREMIER LACROSSE LEAGUE,GAME 1: CANNONS vs WATERDOGS,---,GAME 2: REDWOODS vs ARCHERS,VILLANOVA STADIUM,FRI JUNE 13 2025 6:00 & 8:30 PM,,,,,2025,PHILADELPHIA,,N,N,GEN
 250614A,03. Philadelphia,6/14/2025,13:00:00,25.03 Philadelphia Season,N,1,17,Ticket,Y,Y,,,,,,,,S,,,,E,Y,2,32,PREMIER LACROSSE LEAGUE,NEW YORK ATLAS,vs,MARYLAND WHIPSNAKES,VILLANOVA STADIUM,SAT JUNE 14 2025 1:00 PM,,,,02006227B8E2178D,PREMIER LACROSSE LEAGUE,NEW YORK ATLAS,vs,MARYLAND WHIPSNAKES,VILLANOVA STADIUM,SAT JUNE 14 2025 1:00 PM,,,,,2025,PHILADELPHIA,,N,N,GEN
 250614E,03. Philadelphia,6/14/2025,19:00:00,25.03 Philadelphia Season,N,1,18,Ticket,Y,Y,,,,,,,,S,,,,E,Y,2,32,PREMIER LACROSSE LEAGUE,DENVER OUTLAWS,vs,PHILADELPHIA WATERDOGS,VILLANOVA STADIUM,SAT JUNE 14 2025 7:00 PM,,,,02006227B8E0178A,PREMIER LACROSSE LEAGUE,DENVER OUTLAWS,vs,PHILADELPHIA WATERDOGS,VILLANOVA STADIUM,SAT JUNE 14 2025 7:00 PM,,,,,2025,PHILADELPHIA,,N,Y,GEN
@@ -139,12 +139,12 @@ D250808,11. Boston,8/8/2025,18:30:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,D
 D250809A,11. Boston,8/9/2025,13:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 D250809E,11. Boston,8/9/2025,19:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 D250823,12. Minneapolis,8/23/2025,17:00:00,2025 Deposit Events,N,1,,,Y,Y,,,,,,,,S,,,,DEP,N,1,,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-25APLUS,01. Albany,5/30/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,5/17/2025 03:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
-25AVIP,01. Albany,5/30/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,5/30/2025 20:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
-25CPLUS,02. Charlotte,6/6/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,5/23/2025 23:59,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
-25CVIP,02. Charlotte,6/6/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/6/2025 20:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
-25PPLUS,03. Philadelphia,6/13/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,5/30/2025 23:59,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
-25PVIP,03. Philadelphia,6/13/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/13/2025 20:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
+25APLUS,01. Albany,5/30/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,N,N,,,1/16/2025 00:00,5/17/2025 03:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
+25AVIP,01. Albany,5/30/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,N,N,,,1/16/2025 00:00,5/30/2025 20:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
+25CPLUS,02. Charlotte,6/6/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,N,N,,,1/16/2025 00:00,5/23/2025 23:59,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
+25CVIP,02. Charlotte,6/6/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,N,N,,,1/16/2025 00:00,6/6/2025 20:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
+25PPLUS,03. Philadelphia,6/13/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,N,N,,,1/16/2025 00:00,5/30/2025 23:59,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
+25PVIP,03. Philadelphia,6/13/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,N,N,,,1/16/2025 00:00,6/13/2025 20:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
 25BPLUS,04. Baltimore,6/21/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/7/2025 03:00,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
 25BVIP,04. Baltimore,6/21/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,N,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25VIP,,,N,N,GEN
 25SDPLUS,05. San Diego,6/27/2025,23:00:00,2025 Homecoming Pass Upgrades,N,1,,,Y,Y,,,1/16/2025 00:00,6/13/2025 23:59,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,25PLUS,,,N,N,GEN
@@ -207,23 +207,23 @@ D25BOS,11. Boston,8/1/2025,23:59:00,2025 Deposit Events,Y,3,,,Y,Y,,,,,,,,S,,,,MP
 250607EH,02. Charlotte,6/7/2025,19:00:00,25.02UP Charlotte Upsell,N,1,,,Y,N,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250607AM,02. Charlotte,6/7/2025,13:00:00,25.02UP Charlotte Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250607EM,02. Charlotte,6/7/2025,19:00:00,25.02UP Charlotte Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250613M,03. Philadelphia,6/13/2025,18:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250613G,03. Philadelphia,6/13/2025,18:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250613F,03. Philadelphia,6/13/2025,18:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250613M,03. Philadelphia,6/13/2025,18:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,E,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250613G,03. Philadelphia,6/13/2025,18:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250613F,03. Philadelphia,6/13/2025,18:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,E,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250621M,04. Baltimore,6/21/2025,16:00:00,25.04UP Baltimore Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250622M,04. Baltimore,6/22/2025,12:00:00,25.04UP Baltimore Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250621G,04. Baltimore,6/21/2025,16:00:00,25.04UP Baltimore Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250622G,04. Baltimore,6/22/2025,12:00:00,25.04UP Baltimore Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250621F,04. Baltimore,6/21/2025,16:00:00,25.04UP Baltimore Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250622F,04. Baltimore,6/22/2025,12:00:00,25.04UP Baltimore Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250614EF,03. Philadelphia,6/14/2025,19:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250614EG,03. Philadelphia,6/14/2025,19:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250614EM,03. Philadelphia,6/14/2025,19:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250614AF,03. Philadelphia,6/14/2025,13:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250614AG,03. Philadelphia,6/14/2025,13:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250614AM,03. Philadelphia,6/14/2025,13:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250627H,05. San Diego,6/27/2025,18:00:00,25.05UP San Diego Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250628H,05. San Diego,6/28/2025,15:00:00,25.05UP San Diego Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250614EF,03. Philadelphia,6/14/2025,19:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250614EG,03. Philadelphia,6/14/2025,19:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250614EM,03. Philadelphia,6/14/2025,19:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,E,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250614AF,03. Philadelphia,6/14/2025,13:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,E,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250614AG,03. Philadelphia,6/14/2025,13:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,EXP,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250614AM,03. Philadelphia,6/14/2025,13:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,E,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250627C,05. San Diego,6/27/2025,18:00:00,25.05UP San Diego Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250628C,05. San Diego,6/28/2025,15:00:00,25.05UP San Diego Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250627M,05. San Diego,6/27/2025,18:00:00,25.05UP San Diego Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250628M,05. San Diego,6/28/2025,15:00:00,25.05UP San Diego Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 250627G,05. San Diego,6/27/2025,18:00:00,25.05UP San Diego Upsell,N,1,,,Y,Y,,,,,,,,S,,,,EXP,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
@@ -269,6 +269,8 @@ CHARVIP,Charlotte,6/6/2025,19:00:00,25.02UP Charlotte Upsell,Y,3,,,Y,Y,,,,,,,,S,
 CHARVIP1,Charlotte,6/6/2025,18:00:00,25.02UP Charlotte Upsell,N,1,,,Y,Y,,,,,,,,S,,,,E,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 CHARVIP2,Charlotte,6/7/2025,13:00:00,25.02UP Charlotte Upsell,N,1,,,Y,Y,,,,,,,,S,,,,E,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
 CHARVIP3,Charlotte,6/7/2025,19:00:00,25.02UP Charlotte Upsell,N,1,,,Y,Y,,,,,,,,S,,,,E,Y,1,50,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250614EV,03. Philadelphia,6/14/2025,19:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,FB,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250614AV,03. Philadelphia,6/14/2025,13:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,FB,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
-250613V,03. Philadelphia,6/13/2025,18:00:00,25.03UP Philadelphia Upsell,N,1,,,Y,Y,,,,,,,,S,,,,FB,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250614EV,03. Philadelphia,6/14/2025,19:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,FB,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250614AV,03. Philadelphia,6/14/2025,13:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,FB,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+250613V,03. Philadelphia,6/13/2025,18:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,FB,Y,1,32,,,,,,,,,,,,,,,,,,,,,,,,N,N,GEN
+25PGIFT,Philadelphia Gift,6/13/2025,20:00:00,25.03UP Philadelphia Upsell,N,1,,,N,N,,,,,,,,S,,,,E,Y,1,32,PREMIER LACROSSE LEAGUE,PHILADELPHIA WATERDOGS,HOMECOMING MEMBER,GIFT VOUCHER,,"VALID JUNE 13-14, 2025",,,,,PREMIER LACROSSE LEAGUE,PHILADELPHIA WATERDOGS,HOMECOMING MEMBER,GIFT VOUCHER,,"VALID JUNE 13-14, 2025",,,,,,,,N,N,GEN
+TIX,,6/14/2025,20:00:00,TEST GA Season,N,1,,,Y,Y,,,,,,,,S,,,,E,Y,1,32,LILY BALDWIN,* * *,STRATEGY DIRECTOR,PREMIER LACROSSE LEAGUE,* * *,LBALDWIN@PREMIERLACROSSELEAGUE.COM,,,,,* * *,SEAN M. PUCHTA,TICKET OPERATIONS MANAGER,PREMIER LACROSSE LEAGUE,(470) 418-4565,SPUCHTA@PREMIERLACROSSELEAGUE.COM,,,,,,,,N,N,GEN

@@ -1,0 +1,299 @@
+event_name,market,event_date,event_time,season_name,plan,total_events,plan_abv
+PL1,07. Chicago,7/11/25,20:00:00,25.07 Chicago,N,1,E
+PL2,07. Chicago,7/12/25,20:00:00,25.07 Chicago,N,1,E
+PLL0719A,08. Fairfield,7/19/25,15:00:00,25.08 Fairfield,N,1,E
+PLL0718,08. Fairfield,7/18/25,18:30:00,25.08 Fairfield,N,1,E
+WK,08. Fairfield,7/18/25,11:59:00,25.08 Fairfield,Y,3,FS
+PLL0719B,08. Fairfield,7/19/25,20:00:00,25.08 Fairfield,N,1,E
+PLL1,10. Denver,8/1/25,18:00:00,25.10 Denver,N,1,E
+PLL2,10. Denver,8/2/25,11:00:00,25.10 Denver,N,1,E
+PLL3,10. Denver,8/2/25,18:00:00,25.10 Denver,N,1,E
+PLLWP,10. Denver,8/1/25,11:59:00,25.10 Denver,Y,3,FS
+PLL25,13. Subaru Park,9/1/25,16:00:00,25.13 Subaru Park,N,1,E
+25PLL,14. Championship,9/14/25,12:30:00,25.14 NY Championship Suites,N,1,E
+PLUS,10. Denver,8/1/25,23:00:00,25.10 Denver Upgrade,N,1,EXP
+250211HC,00. Champ Series,2/11/25,19:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+250212HC,00. Champ Series,2/12/25,19:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+250213HC,00. Champ Series,2/13/25,19:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+250214HC,00. Champ Series,2/14/25,18:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+25215HCA,00. Champ Series,2/15/25,12:30:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+25CSALL,00. Champ Series,2/11/25,23:59:00,25.00 Champ Series - TSJ,Y,9,FS
+25215HCE,00. Champ Series,2/15/25,18:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+25216HCA,00. Champ Series,2/16/25,10:30:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+25216HCE,00. Champ Series,2/16/25,18:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+250217HC,00. Champ Series,2/17/25,11:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+24PHP,2024 Philly Homecoming,6/15/24,23:59:00,2024 Philly Nova Season,Y,3,FS
+24PDAY1,2024 Philly  Day 1 Game 1,6/15/24,12:30:00,2024 Philly Nova Season,N,1,E
+24PDAY3,2024 Philadelphia Day 2,6/16/24,12:30:00,2024 Philly Nova Season,N,1,E
+25AUPG,TEST,5/30/25,23:59:00,25.01 Albany Season,Y,2,PAP
+250211,00. Champ Series,2/11/25,19:00:00,25.00 Champ Series - TSJ,N,1,E
+25APRO,Players Tour,5/28/25,19:00:00,25.01UP Albany Upsell,N,1,SPE
+25CPRO,Players Tour,6/7/25,9:00:00,25.02UP Charlotte Upsell,N,1,SPE
+25PPRO,Players Tour,6/14/25,9:00:00,25.03UP Philadelphia Upsell,N,1,SPE
+25BPRO,Players Tour,6/22/25,9:00:00,25.04UP Baltimore Upsell,N,1,SPE
+25SDPRO,Players Tour,6/10/25,18:00:00,25.05UP San Diego Upsell,N,1,SPE
+250211FP,00. Champ Series,2/11/25,19:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+25SLPRO,Players Tour,7/8/25,20:00:00,25.09UP Salt Lake City Upsell,N,1,SPE
+25BSPRO,Players Tour,8/9/25,15:30:00,25.11UP Boston Upsell,N,1,SPE
+250711S,07. Chicago,7/11/25,18:00:00,25.07 Chicago Suites,N,1,E
+250712S,07. Chicago,7/12/25,18:00:00,25.07 Chicago Suites,N,1,E
+250718,08. Fairfield,7/18/25,18:30:00,25.08 Fairfield Suites,N,1,E
+25CSDEP,00. Champ Series,2/15/25,17:30:00,25.00D Champ Series Deposits,N,1,DEP
+250719A,08. Fairfield,7/19/25,15:00:00,25.08 Fairfield Suites,N,1,E
+250719B,08. Fairfield,7/19/25,20:00:00,25.08 Fairfield Suites,N,1,E
+25CATER,Catering,9/30/25,20:00:00,2025 Catering,N,1,E
+24PDAY2,2024 Phily Day 1 Game 2,6/15/24,19:00:00,2024 Philly Nova Season,N,1,E
+250901,13. Subaru Park,9/1/25,16:00:00,25.13 Subaru Park Suites,N,1,E
+25KCWP,06. Kansas City,7/4/25,23:59:00,25.06 Kansas City ASG,Y,2,FS
+250212,00. Champ Series,2/12/25,19:00:00,25.00 Champ Series - TSJ,N,1,E
+250213,00. Champ Series,2/13/25,19:00:00,25.00 Champ Series - TSJ,N,1,E
+250214,00. Champ Series,2/14/25,18:00:00,25.00 Champ Series - TSJ,N,1,E
+250215A,00. Champ Series,2/15/25,12:30:00,25.00 Champ Series - TSJ,N,1,E
+250215E,00. Champ Series,2/15/25,18:00:00,25.00 Champ Series - TSJ,N,1,E
+250216A,00. Champ Series,2/16/25,10:30:00,25.00 Champ Series - TSJ,N,1,E
+250216E,00. Champ Series,2/16/25,18:00:00,25.00 Champ Series - TSJ,N,1,E
+250217,00. Champ Series,2/17/25,11:00:00,25.00 Champ Series - TSJ,N,1,E
+250212FP,00. Champ Series,2/12/25,19:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+250213FP,00. Champ Series,2/13/25,19:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+250214FP,00. Champ Series,2/14/25,18:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+25215FPA,00. Champ Series,2/15/25,12:30:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+25215FPB,00. Champ Series,2/15/25,18:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+25216FPA,00. Champ Series,2/16/25,18:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+25216FPB,00. Champ Series,2/16/25,18:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+250914,14. Championship,9/14/25,12:30:00,25.14 NY Championship Suites,N,1,E
+250211MG,00. Champ Series,2/11/25,19:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+250212MG,00. Champ Series,2/12/25,19:00:00,25.00PE Champ Series Premium Experiences,N,1,EXP
+250213MG,00. Champ Series,2/13/25,19:00:00,25.00PE Champ Series Premium Experiences,N,1,E
+250214MG,00. Champ Series,2/14/25,18:00:00,25.00PE Champ Series Premium Experiences,N,1,E
+25215MGA,00. Champ Series,2/15/25,12:30:00,25.00PE Champ Series Premium Experiences,N,1,E
+25215MGB,00. Champ Series,2/15/25,18:00:00,25.00PE Champ Series Premium Experiences,N,1,E
+25216MGA,00. Champ Series,2/16/25,10:30:00,25.00PE Champ Series Premium Experiences,N,1,E
+25216MGB,00. Champ Series,2/16/25,18:00:00,25.00PE Champ Series Premium Experiences,N,1,E
+25CSFLEX,00. Champ Series,2/11/25,23:59:00,25.00 Champ Series - TSJ,Y,9,PAP
+250808HC,11. Boston,8/8/25,20:00:00,25.11UP Boston Upsell,N,1,EXP
+250212D,2025 Champ Series Suites,2/12/25,19:00:00,25.00SD Champ Series Suite Deposits,N,1,DEP
+250213D,2025 Champ Series Suites,2/13/25,19:00:00,25.00SD Champ Series Suite Deposits,N,1,DEP
+250809HC,11. Boston,8/9/25,20:00:00,25.11UP Boston Upsell,N,1,EXP
+25CHMG1,07. Chicago,7/11/25,19:00:00,25.07UP Chicago Upsell,N,1,EXP
+25CHMG2,07. Chicago,7/12/25,19:00:00,25.07UP Chicago Upsell,N,1,EXP
+250216ED,2025 Champ Series Suites,2/16/25,18:00:00,25.00SD Champ Series Suite Deposits,N,1,DEP
+250530H,01. Albany,5/30/25,18:00:00,25.01UP Albany Upsell,N,1,EXP
+TESTPLAN,TEST,12/31/25,23:59:00,TEST The St. James,Y,5,FS
+TESTEVT1,TEST,12/1/25,20:00:00,TEST The St. James,N,1,E
+TESTEVT2,TEST,12/2/25,20:00:00,TEST The St. James,N,1,E
+TESTEVT3,TEST,12/3/25,20:00:00,TEST The St. James,N,1,E
+TESTEVT4,TEST,12/4/25,20:00:00,TEST The St. James,N,1,E
+TESTEVT5,TEST,12/5/25,20:00:00,TEST The St. James,N,1,E
+25AHP,01. Albany,5/31/25,23:59:00,25.01 Albany Season,Y,3,FS
+250531A,01. Albany,5/31/25,13:00:00,25.01 Albany Season,N,1,E
+250531E,01. Albany,5/31/25,19:00:00,25.01 Albany Season,N,1,E
+250530,01. Albany,5/30/25,18:00:00,25.01 Albany Season,N,1,E
+25CHP,02. Charlotte,6/6/25,23:59:00,25.02 Charlotte Season,Y,3,FS
+250606,02. Charlotte,6/6/25,18:00:00,25.02 Charlotte Season,N,1,E
+250607A,02. Charlotte,6/7/25,13:00:00,25.02 Charlotte Season,N,1,E
+25PHP,03. Philadelphia,6/13/25,23:59:00,25.03 Philadelphia Season,Y,3,FS
+250613,03. Philadelphia,6/13/25,18:00:00,25.03 Philadelphia Season,N,1,E
+250614A,03. Philadelphia,6/14/25,13:00:00,25.03 Philadelphia Season,N,1,E
+250614E,03. Philadelphia,6/14/25,19:00:00,25.03 Philadelphia Season,N,1,E
+25BHP,04. Baltimore,6/20/25,23:59:00,25.04 Baltimore Season,Y,2,FS
+250621,04. Baltimore,6/21/25,16:00:00,25.04 Baltimore Season,N,1,E
+250622,04. Baltimore,6/22/25,12:00:00,25.04 Baltimore Season,N,1,E
+25SDHP,05. San Diego,6/27/25,23:59:00,25.05 San Diego Season,Y,2,FS
+250627,05. San Diego,6/27/25,18:00:00,25.05 San Diego Season,N,1,E
+250628,05. San Diego,6/28/25,15:00:00,25.05 San Diego Season,N,1,E
+25SLHP,09. Salt Lake City,8/1/25,23:59:00,25.09 Salt Lake City Season,Y,2,FS
+25BSHP,11. Boston,8/8/25,23:59:00,25.11 Boston Season,Y,3,FS
+250704,06. Kansas City,7/4/25,17:15:00,25.06 Kansas City ASG,N,1,E
+250705,06. Kansas City,7/5/25,12:00:00,25.06 Kansas City ASG,N,1,E
+250823PK,Parking,8/23/25,17:00:00,25.12PK Minnesota Parking,N,1,PRK
+25CHHC1,07. Chicago,7/11/25,19:00:00,25.07UP Chicago Upsell,N,1,EXP
+25CHHC2,07. Chicago,7/12/25,19:00:00,25.07UP Chicago Upsell,N,1,EXP
+24BALDUE,Balance Due,12/31/24,20:00:00,2024 Season Balance Due,N,1,SPE
+250705PK,Kansas City Parking,7/5/25,12:00:00,25.06PK Kansas City ASG Parking,N,1,E
+TSTPASS,TEST,10/3/25,23:59:00,TEST - Baltimore,Y,2,FS
+TSTDAY1,TEST,10/3/25,20:00:00,TEST - Baltimore,N,1,E
+TSTDAY2,TEST,10/4/25,20:00:00,TEST - Baltimore,N,1,E
+TSTPLUS,TEST,12/4/25,20:00:00,TEST GA Season,N,1,PSL
+TSTVIP,TEST,12/4/25,20:00:00,TEST GA Season,N,1,PSL
+TSTPRO,TEST,12/4/25,20:00:00,TEST GA Season,N,1,PSL
+250607E,02. Charlotte,6/7/25,19:00:00,25.02 Charlotte Season,N,1,E
+250725,09. Salt Lake City,7/25/25,18:00:00,25.09 Salt Lake City Season,N,1,E
+250726,09. Salt Lake City,7/26/25,16:30:00,25.09 Salt Lake City Season,N,1,E
+250808,11. Boston,8/8/25,18:30:00,25.11 Boston Season,N,1,E
+250809A,11. Boston,8/9/25,13:00:00,25.11 Boston Season,N,1,E
+250809E,11. Boston,8/9/25,19:00:00,25.11 Boston Season,N,1,E
+250823,12. Minneapolis,8/23/25,17:00:00,25.12 Minnesota Season,N,1,E
+D250530,01. Albany,5/30/25,18:00:00,2025 Deposit Events,N,1,DEP
+D250531A,01. Albany,5/31/25,13:00:00,2025 Deposit Events,N,1,DEP
+D250531E,01. Albany,5/31/25,19:00:00,2025 Deposit Events,N,1,DEP
+D250606,02. Charlotte,6/6/25,18:00:00,2025 Deposit Events,N,1,DEP
+D250607A,02. Charlotte,6/7/25,13:00:00,2025 Deposit Events,N,1,DEP
+D250607E,02. Charlotte,6/7/25,19:00:00,2025 Deposit Events,N,1,DEP
+D250613,03. Philadelphia,6/13/25,18:00:00,2025 Deposit Events,N,1,DEP
+D250614A,03. Philadelphia,6/14/25,13:00:00,2025 Deposit Events,N,1,DEP
+D250614E,03. Philadelphia,6/14/25,19:00:00,2025 Deposit Events,N,1,DEP
+D250627,05. San Diego,6/27/25,18:00:00,2025 Deposit Events,N,1,DEP
+D250628,05. San Diego,6/28/25,15:00:00,2025 Deposit Events,N,1,DEP
+D250725,09. Salt Lake City,7/25/25,18:00:00,2025 Deposit Events,N,1,DEP
+D250726,09. Salt Lake City,7/26/25,16:30:00,2025 Deposit Events,N,1,DEP
+D250808,11. Boston,8/8/25,18:30:00,2025 Deposit Events,N,1,DEP
+D250809A,11. Boston,8/9/25,13:00:00,2025 Deposit Events,N,1,DEP
+D250809E,11. Boston,8/9/25,19:00:00,2025 Deposit Events,N,1,DEP
+D250823,12. Minneapolis,8/23/25,17:00:00,2025 Deposit Events,N,1,DEP
+25APLUS,01. Albany,5/30/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+25AVIP,01. Albany,5/30/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+25CPLUS,02. Charlotte,6/6/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+25CVIP,02. Charlotte,6/6/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+25PPLUS,03. Philadelphia,6/13/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+25PVIP,03. Philadelphia,6/13/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+25BPLUS,04. Baltimore,6/21/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+25BVIP,04. Baltimore,6/21/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+25SDPLUS,05. San Diego,6/27/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+25SDVIP,05. San Diego,6/27/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+25SLPLUS,09. Salt Lake City,7/25/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+25SLVIP,09. Salt Lake City,7/25/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+25BSPLUS,11. Boston,8/8/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+25BSVIP,11. Boston,8/8/25,23:00:00,2025 Homecoming Pass Upgrades,N,1,EXP
+250704PK,Kansas City Parking,7/4/25,17:15:00,25.06PK Kansas City ASG Parking,N,1,E
+D250711,07. Chicago,7/11/25,18:00:00,2025 Deposit Events,N,1,DEP
+D250712,07. Chicago,7/12/25,18:00:00,2025 Deposit Events,N,1,DEP
+D250621,04. Baltimore,6/21/25,16:00:00,2025 Deposit Events,N,1,DEP
+D250622,04. Baltimore,6/22/25,12:00:00,2025 Deposit Events,N,1,DEP
+D250704,06. Kansas City,7/4/25,17:30:00,2025 Deposit Events,N,1,DEP
+D250705,06. Kansas City,7/5/25,12:00:00,2025 Deposit Events,N,1,DEP
+D250718,08. Fairfield,7/18/25,18:30:00,2025 Deposit Events,N,1,DEP
+D250719A,08. Fairfield,7/19/25,15:00:00,2025 Deposit Events,N,1,DEP
+D250719E,08. Fairfield,7/19/25,20:00:00,2025 Deposit Events,N,1,DEP
+D250801,10. Denver,8/1/25,18:00:00,2025 Deposit Events,N,1,DEP
+D250802A,10. Denver,8/2/25,11:00:00,2025 Deposit Events,N,1,DEP
+D250802E,10. Denver,8/2/25,18:00:00,2025 Deposit Events,N,1,DEP
+D250901,13. Subaru Park,9/1/25,16:00:00,2025 Deposit Events,N,1,DEP
+D250914,14. Championship,9/14/25,12:30:00,2025 Deposit Events,N,1,DEP
+D250211,00. Champ Series,2/11/25,19:00:00,2025 Deposit Events,N,1,DEP
+D250212,00. Champ Series,2/12/25,19:00:00,2025 Deposit Events,N,1,DEP
+D250213,00. Champ Series,2/13/25,19:00:00,2025 Deposit Events,N,1,DEP
+D250214,00. Champ Series,2/14/25,18:00:00,2025 Deposit Events,N,1,DEP
+D250215A,00. Champ Series,2/15/25,12:30:00,2025 Deposit Events,N,1,DEP
+D250215E,00. Champ Series,2/15/25,18:00:00,2025 Deposit Events,N,1,DEP
+D250216A,00. Champ Series,2/16/25,10:30:00,2025 Deposit Events,N,1,DEP
+D250216E,00. Champ Series,2/16/25,18:00:00,2025 Deposit Events,N,1,DEP
+D250217,00. Champ Series,2/17/25,11:00:00,2025 Deposit Events,N,1,DEP
+D25ALL,ALL MARKETS,5/30/25,23:59:00,2025 Deposit Events,Y,31,FS
+D25ASG,06. Kansas City,7/4/25,23:59:00,2025 Deposit Events,Y,2,MP
+D25ALB,01. Albany,5/30/25,23:59:00,2025 Deposit Events,Y,3,MP
+D25CHA,02. Charlotte,6/6/25,23:59:00,2025 Deposit Events,Y,3,MP
+D25PHI,03. Philadelphia,6/13/25,23:59:00,2025 Deposit Events,Y,3,MP
+D25BAL,04. Baltimore,6/21/25,23:59:00,2025 Deposit Events,Y,2,MP
+D25SD,05. San Diego,6/27/25,23:59:00,2025 Deposit Events,Y,2,MP
+D25CHI,07. Chicago,7/11/25,23:59:00,2025 Deposit Events,Y,2,MP
+D25FAI,08. Fairfield,7/11/25,23:59:00,2025 Deposit Events,Y,3,MP
+D25SLC,09. Salt Lake City,7/25/25,23:59:00,2025 Deposit Events,Y,2,MP
+D25DEN,10. Denver,8/1/25,23:59:00,2025 Deposit Events,Y,3,MP
+D25BOS,11. Boston,8/1/25,23:59:00,2025 Deposit Events,Y,3,MP
+250801,10. Denver,8/1/25,18:00:00,25.10 Denver Suites,N,1,E
+250802A,10. Denver,8/2/25,11:00:00,25.10 Denver Suites,N,1,E
+250802E,10. Denver,8/2/25,18:00:00,25.10 Denver Suites,N,1,E
+250621H,04. Baltimore,6/21/25,16:00:00,25.04UP Baltimore Upsell,N,1,EXP
+250622H,04. Baltimore,6/22/25,12:00:00,25.04UP Baltimore Upsell,N,1,EXP
+250613H,03. Philadelphia,6/13/25,18:00:00,25.03UP Philadelphia Upsell,N,1,EXP
+250614AH,03. Philadelphia,6/14/25,13:00:00,25.03UP Philadelphia Upsell,N,1,EXP
+250531AH,01. Albany,5/31/25,13:00:00,25.01UP Albany Upsell,N,1,EXP
+250531EH,01. Albany,5/31/25,19:00:00,25.01UP Albany Upsell,N,1,EXP
+250530M,01. Albany,5/30/25,18:00:00,25.01UP Albany Upsell,N,1,EXP
+250531AM,01. Albany,5/31/25,13:00:00,25.01UP Albany Upsell,N,1,EXP
+250531EM,01. Albany,5/31/25,19:00:00,25.01UP Albany Upsell,N,1,EXP
+250530G,01. Albany,5/30/25,18:00:00,25.01UP Albany Upsell,N,1,EXP
+250531AG,01. Albany,5/31/25,13:00:00,25.01UP Albany Upsell,N,1,EXP
+250531EG,01. Albany,5/31/25,19:00:00,25.01UP Albany Upsell,N,1,EXP
+250530F,01. Albany,5/30/25,18:00:00,25.01UP Albany Upsell,N,1,EXP
+250531AF,01. Albany,5/31/25,13:00:00,25.01UP Albany Upsell,N,1,EXP
+250531EF,01. Albany,5/31/25,19:00:00,25.01UP Albany Upsell,N,1,EXP
+250606H,02. Charlotte,6/6/25,18:00:00,25.02UP Charlotte Upsell,N,1,EXP
+250606M,02. Charlotte,6/6/25,18:00:00,25.02UP Charlotte Upsell,N,1,EXP
+250606G,02. Charlotte,6/6/25,18:00:00,25.02UP Charlotte Upsell,N,1,EXP
+250606F,02. Charlotte,6/6/25,18:00:00,25.02UP Charlotte Upsell,N,1,EXP
+250607AF,02. Charlotte,6/7/25,13:00:00,25.02UP Charlotte Upsell,N,1,EXP
+250607EF,02. Charlotte,6/7/25,19:00:00,25.02UP Charlotte Upsell,N,1,EXP
+250607AG,02. Charlotte,6/7/25,13:00:00,25.02UP Charlotte Upsell,N,1,EXP
+250607EG,02. Charlotte,6/7/25,19:00:00,25.02UP Charlotte Upsell,N,1,EXP
+250607AH,02. Charlotte,6/7/25,13:00:00,25.02UP Charlotte Upsell,N,1,EXP
+250607EH,02. Charlotte,6/7/25,19:00:00,25.02UP Charlotte Upsell,N,1,EXP
+250607AM,02. Charlotte,6/7/25,13:00:00,25.02UP Charlotte Upsell,N,1,EXP
+250607EM,02. Charlotte,6/7/25,19:00:00,25.02UP Charlotte Upsell,N,1,EXP
+250613M,03. Philadelphia,6/13/25,18:00:00,25.03UP Philadelphia Upsell,N,1,E
+250613G,03. Philadelphia,6/13/25,18:00:00,25.03UP Philadelphia Upsell,N,1,EXP
+250613F,03. Philadelphia,6/13/25,18:00:00,25.03UP Philadelphia Upsell,N,1,E
+250621M,04. Baltimore,6/21/25,16:00:00,25.04UP Baltimore Upsell,N,1,EXP
+250622M,04. Baltimore,6/22/25,12:00:00,25.04UP Baltimore Upsell,N,1,EXP
+250621G,04. Baltimore,6/21/25,16:00:00,25.04UP Baltimore Upsell,N,1,EXP
+250622G,04. Baltimore,6/22/25,12:00:00,25.04UP Baltimore Upsell,N,1,EXP
+250621F,04. Baltimore,6/21/25,16:00:00,25.04UP Baltimore Upsell,N,1,EXP
+250622F,04. Baltimore,6/22/25,12:00:00,25.04UP Baltimore Upsell,N,1,EXP
+250614EF,03. Philadelphia,6/14/25,19:00:00,25.03UP Philadelphia Upsell,N,1,EXP
+250614EG,03. Philadelphia,6/14/25,19:00:00,25.03UP Philadelphia Upsell,N,1,EXP
+250614EM,03. Philadelphia,6/14/25,19:00:00,25.03UP Philadelphia Upsell,N,1,E
+250614AF,03. Philadelphia,6/14/25,13:00:00,25.03UP Philadelphia Upsell,N,1,E
+250614AG,03. Philadelphia,6/14/25,13:00:00,25.03UP Philadelphia Upsell,N,1,EXP
+250614AM,03. Philadelphia,6/14/25,13:00:00,25.03UP Philadelphia Upsell,N,1,E
+250627C,05. San Diego,6/27/25,18:00:00,25.05UP San Diego Upsell,N,1,EXP
+250628C,05. San Diego,6/28/25,15:00:00,25.05UP San Diego Upsell,N,1,EXP
+250627M,05. San Diego,6/27/25,18:00:00,25.05UP San Diego Upsell,N,1,EXP
+250628M,05. San Diego,6/28/25,15:00:00,25.05UP San Diego Upsell,N,1,EXP
+250627G,05. San Diego,6/27/25,18:00:00,25.05UP San Diego Upsell,N,1,EXP
+250628G,05. San Diego,6/28/25,15:00:00,25.05UP San Diego Upsell,N,1,EXP
+250627F,05. San Diego,6/27/25,18:00:00,25.05UP San Diego Upsell,N,1,EXP
+250628F,05. San Diego,6/28/25,15:00:00,25.05UP San Diego Upsell,N,1,EXP
+250704C,06. Kansas City,7/4/25,19:00:00,25.06UP Kansas City Upsell,N,1,EXP
+250705C,06. Kansas City,7/5/25,12:00:00,25.06UP Kansas City Upsell,N,1,EXP
+250704M,06. Kansas City,7/4/25,19:00:00,25.06UP Kansas City Upsell,N,1,EXP
+250705M,06. Kansas City,7/5/25,12:00:00,25.06UP Kansas City Upsell,N,1,EXP
+250704G,06. Kansas City,7/4/25,19:00:00,25.06UP Kansas City Upsell,N,1,EXP
+250705G,06. Kansas City,7/5/25,12:00:00,25.06UP Kansas City Upsell,N,1,EXP
+250704F,06. Kansas City,7/4/25,19:00:00,25.06UP Kansas City Upsell,N,1,EXP
+250705F,06. Kansas City,7/5/25,12:00:00,25.06UP Kansas City Upsell,N,1,EXP
+250725H,09. Salt Lake City,7/25/25,18:00:00,25.09UP Salt Lake City Upsell,N,1,EXP
+250726H,09. Salt Lake City,7/26/25,16:30:00,25.09UP Salt Lake City Upsell,N,1,EXP
+250725M,09. Salt Lake City,7/25/25,18:00:00,25.09UP Salt Lake City Upsell,N,1,EXP
+250726M,09. Salt Lake City,7/26/25,16:30:00,25.09UP Salt Lake City Upsell,N,1,EXP
+250725G,09. Salt Lake City,7/25/25,18:00:00,25.09UP Salt Lake City Upsell,N,1,EXP
+250726G,09. Salt Lake City,7/26/25,16:30:00,25.09UP Salt Lake City Upsell,N,1,EXP
+250725F,09. Salt Lake City,7/25/25,18:00:00,25.09UP Salt Lake City Upsell,N,1,EXP
+250726F,09. Salt Lake City,7/26/25,16:30:00,25.09UP Salt Lake City Upsell,N,1,EXP
+250808M,11. Boston,8/8/25,20:00:00,25.11UP Boston Upsell,N,1,EXP
+250809AM,11. Boston,8/9/25,13:00:00,25.11UP Boston Upsell,N,1,EXP
+250809EM,11. Boston,8/9/25,19:00:00,25.11UP Boston Upsell,N,1,EXP
+250808G,11. Boston,8/8/25,20:00:00,25.11UP Boston Upsell,N,1,EXP
+250809AG,11. Boston,8/9/25,13:00:00,25.11UP Boston Upsell,N,1,EXP
+250809EG,11. Boston,8/9/25,19:00:00,25.11UP Boston Upsell,N,1,EXP
+250808F,11. Boston,8/8/25,20:00:00,25.11UP Boston Upsell,N,1,EXP
+250809AF,11. Boston,8/9/25,13:00:00,25.11UP Boston Upsell,N,1,EXP
+250809EF,11. Boston,8/9/25,19:00:00,25.11UP Boston Upsell,N,1,EXP
+250823HC,12. Minneapolis,8/23/25,17:00:00,25.12UP Minneapolis Upsell,N,1,EXP
+250823M,12. Minneapolis,8/23/25,17:00:00,25.12UP Minneapolis Upsell,N,1,EXP
+250823G,12. Minneapolis,8/23/25,17:00:00,25.12UP Minneapolis Upsell,N,1,EXP
+250823F,12. Minneapolis,8/23/25,17:00:00,25.12UP Minneapolis Upsell,N,1,EXP
+ALBVIP,Albany VIP,5/31/25,20:00:00,25.01UP Albany Upsell,Y,3,FS
+ALBVIP1,Albany VIP,5/30/25,18:00:00,25.01UP Albany Upsell,N,1,E
+ALBVIP2,Albany VIP,5/31/25,13:00:00,25.01UP Albany Upsell,N,1,E
+ALBVIP3,Albany VIP,5/31/25,19:00:00,25.01UP Albany Upsell,N,1,E
+ALBFOOD,,5/31/25,20:00:00,25.01UP Albany Upsell,N,1,E
+25CGIFT,Charlotte,6/7/25,19:00:00,25.02UP Charlotte Upsell,N,1,E
+CHARVIP,Charlotte,6/6/25,19:00:00,25.02UP Charlotte Upsell,Y,3,FS
+CHARVIP1,Charlotte,6/6/25,18:00:00,25.02UP Charlotte Upsell,N,1,E
+CHARVIP2,Charlotte,6/7/25,13:00:00,25.02UP Charlotte Upsell,N,1,E
+CHARVIP3,Charlotte,6/7/25,19:00:00,25.02UP Charlotte Upsell,N,1,E
+250614EV,03. Philadelphia,6/14/25,19:00:00,25.03UP Philadelphia Upsell,N,1,FB
+250614AV,03. Philadelphia,6/14/25,13:00:00,25.03UP Philadelphia Upsell,N,1,FB
+250613V,03. Philadelphia,6/13/25,18:00:00,25.03UP Philadelphia Upsell,N,1,FB
+25PGIFT,Philadelphia Gift,6/13/25,20:00:00,25.03UP Philadelphia Upsell,N,1,E
+TIX,,6/14/25,20:00:00,TEST GA Season,N,1,E
+25BGIFT,Baltimore Gift,6/21/25,20:00:00,25.04UP Baltimore Upsell,N,1,E
+25SDGIFT,San Diego Gift,6/27/25,20:00:00,25.05UP San Diego Upsell,N,1,E
+250704PB,Kansas City Parking,7/4/25,17:15:00,25.06PK Kansas City ASG Parking,N,1,E
+250705PB,Kansas City Parking,7/5/25,12:00:00,25.06PK Kansas City ASG Parking,N,1,E
+250704PT,Kansas City Parking,7/4/25,17:15:00,25.06PK Kansas City ASG Parking,N,1,E
+250705PT,Kansas City Parking,7/5/25,12:00:00,25.06PK Kansas City ASG Parking,N,1,E
+250704PG,Kansas City Parking,7/4/25,17:15:00,25.06PK Kansas City ASG Parking,N,1,E
+250705PG,Kansas City Parking,7/5/25,12:00:00,25.06PK Kansas City ASG Parking,N,1,E
+250704SA,06. Kansas City,7/4/25,17:15:00,25.06S Kansas City Suite Additionals,N,1,E
+250705SA,06. Kansas City,7/5/25,12:00:00,25.06S Kansas City Suite Additionals,N,1,E

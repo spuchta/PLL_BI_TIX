@@ -1,4 +1,4 @@
-ticket_type,ticket_type_name,ticket_type_desc,inet_ticket_type_name,inet_ticket_type_desc,active,protected,host_ticket_type,host_qual_id,host_qual_name,ticket_type_category,class_id,sort_seq,upd_user,upd_datetime,comp_ind,comp_code,default_host_offer_id,default_host_seat_mask,orig_lbd_ticket_type,fantm_message_code,ms_seq_id
+﻿ticket_type,ticket_type_name,ticket_type_desc,inet_ticket_type_name,inet_ticket_type_desc,active,protected,host_ticket_type,host_qual_id,host_qual_name,ticket_type_category,class_id,sort_seq,upd_user,upd_datetime,comp_ind,comp_code,default_host_offer_id,default_host_seat_mask,orig_lbd_ticket_type,fantm_message_code,ms_seq_id
 _0,,,,,N,N,K-TYPE,74,_X7_,,,927,tm46,7/2/2007 14:37:43:355,N,,0,_0,,,1
 _00,,,,,N,N,K-TYPE,101,_X70,,,954,tm46,7/2/2007 14:37:43:355,N,,0,_00,,,2
 _01,Group Marketing 10%,Group Marketing 10%,Group Marketing 10%,Group Marketing 10%,Y,N,K-TYPE,102,_X71,GRP,,955,SPUCHTA,1/29/2025 17:07:12:934894,N,,0,_01,,,3
@@ -6,7 +6,7 @@ _02,Marketing 50%,Marketing 50%,Marketing 50%,Marketing 50%,Y,N,K-TYPE,103,_X72,
 _03,Marketing 5%,Marketing 5%,Marketing 5%,Marketing 5%,Y,N,K-TYPE,104,_X73,FP,,957,KMYERS,7/17/2024 16:20:37:274408,N,,0,_03,,,5
 _04,Marketing 20%,Marketing 20%,Marketing 20%,Marketing 20%,Y,N,K-TYPE,105,_X74,FP,,958,KMYERS,7/17/2024 16:20:37:298395,N,,0,_04,,,6
 _05,$5 Ticket,$5 Ticket,$5 Ticket,$5 Ticket,Y,N,K-TYPE,106,_X75,FP,,959,KMYERS,2/2/2023 13:31:37:903622,N,,0,_05,,,7
-_06,Maketing 25%,Marketing 25%,Maketing 25%,Marketing 25%,Y,N,K-TYPE,107,_X76,FP,,960,AKRALL,7/29/2024 12:23:08:830954,N,,0,_06,,,8
+_06,Marketing 25%,Marketing 25%,Marketing 25%,Marketing 25%,Y,N,K-TYPE,107,_X76,FP,,960,SPUCHTA,6/30/2025 13:23:57:97188,N,,0,_06,,,8
 _07,Non-Int Marketing 10%,Non-Int Marketing 10%,Non-Int Marketing 10%,Non-Int Marketing 10%,Y,N,K-TYPE,108,_X77,FP,,961,SPUCHTA,3/3/2025 12:58:32:047509,N,,0,_07,,,9
 _08,,,,,N,N,K-TYPE,109,_X78,,,962,tm46,7/2/2007 14:37:43:355,N,,0,_08,,,10
 _09,$19 Group Ticket,$19 Group Ticket,$19 Group Ticket,$19 Group Ticket,Y,N,K-TYPE,110,_X79,GRP,,963,KMYERS,2/2/2024 06:20:29:512222,N,,0,_09,,,11
@@ -557,7 +557,7 @@ _EZ,,,,,N,N,J-TYPE,63,_DUZ,,,472,tm46,7/2/2007 14:37:43:261,N,,0,_EZ,,,555
 _F,Family Pack Ticket,Family Pack Ticket,Family Pack Ticket,Family Pack Ticket,Y,N,G-TYPE,37,_DU_,GRP,,483,KMYERS,5/22/2023 08:51:51:151853,N,,0,_F,,,556
 _F0,Food Voucher,,Food Voucher,,Y,N,G-TYPE,64,_DU0,CMP,,510,SPUCHTA,5/31/2025 11:16:49:444053,N,,0,_F0,,,557
 _F1,FEVO 15% OFF,FEVO 15% OFF,FEVO 15% OFF,FEVO 15% OFF,Y,N,G-TYPE,65,_DU1,GRP,,511,SPUCHTA,6/4/2025 09:01:09:299427,N,,0,_F1,,,558
-_F2,FEVO 20% OFF EB,FEVO 20% OFF EB,FEVO 20% OFF EB,FEVO 20% OFF EB,Y,N,G-TYPE,66,_DU2,GRP,,512,SPUCHTA,4/23/2025 14:04:44:328394,N,,0,_F2,,,559
+_F2,FEVO 20% OFF,FEVO 20% OFF,FEVO 20% OFF,FEVO 20% OFF,Y,N,G-TYPE,66,_DU2,GRP,,512,SPUCHTA,6/10/2025 11:27:37:768032,N,,0,_F2,,,559
 _F3,FEVO 30% OFF,FEVO 30% OFF,FEVO 30% OFF,FEVO 30% OFF,Y,N,G-TYPE,67,_DU3,GRP,,513,KMYERS,2/11/2022 12:28:33:96,N,,0,_F3,,,560
 _F4,FEVO 40% OFF,FEVO 40% OFF,FEVO 40% OFF,FEVO 40% OFF,Y,N,G-TYPE,68,_DU4,GRP,,514,KMYERS,4/11/2022 12:00:15:545,N,,0,_F4,,,561
 _F5,Fevo All Access Pass,Fevo All Access Pass,Fevo All Access Pass,Fevo All Access Pass,Y,N,G-TYPE,69,_DU5,GRP,,515,KMYERS,12/1/2022 08:49:22:718913,N,,0,_F5,,,562
@@ -593,7 +593,7 @@ _FY,Fevo Kid 2,Fevo Kid 2,Fevo Kid 2,Fevo Kid 2,Y,N,G-TYPE,62,_DUY,GRP,,508,KMYE
 _FZ,Field Seat - Special,Field Seat - Special,Field Seat - Special,Field Seat - Special,Y,N,G-TYPE,63,_DUZ,FP,,509,KMYERS,6/14/2022 12:27:49:236456,N,,0,_FZ,,,592
 _G,Group Full Price,Group Full Price,Group Full Price,Group Full Price,Y,N,G-TYPE,0,_AW_,GRP,,75,SPUCHTA,3/21/2025 09:40:49:262478,N,,0,_G,,,593
 _G0,FLG Group Discount,FLG Group Discount,FLG Group Discount,FLG Group Discount,Y,N,G-TYPE,27,_AW0,GRP,,102,JERED,4/22/2021 06:35:41:498,N,,0,_G0,,,594
-_G1,Friends & Family Discount,Friends & Family Discount,Friends & Family Discount,Friends & Family Discount,Y,N,G-TYPE,28,_AW1,GRP,,103,DPASSOVO,12/29/2020 11:30:17:353,N,,0,_G1,,,595
+_G1,Group Ticket - 25% Discount,Group Ticket - 25% Discount,Group Ticket - 25% Discount,Group Ticket - 25% Discount,Y,N,G-TYPE,28,_AW1,GRP,,103,SPUCHTA,6/18/2025 07:55:35:433106,N,,0,_G1,,,595
 _G2,Group Ticket - 20% Discount,Group Ticket - 20% Discount,Group Ticket - 20% Discount,Group Ticket - 20% Discount,Y,N,G-TYPE,29,_AW2,GRP,,104,JERED,5/5/2021 10:09:56:839,N,,0,_G2,,,596
 _G3,Group Ticket - 30% Discount,Group Ticket - 30% Discount,Group Ticket - 30% Discount,Group Ticket - 30% Discount,Y,N,G-TYPE,30,_AW3,GRP,,105,JERED,3/22/2021 13:37:52:193,N,,0,_G3,,,597
 _G4,Group Ticket - 40% Discount,Group Ticket - 40% Discount,Group Ticket - 40% Discount,Group Ticket - 40% Discount,Y,N,G-TYPE,31,_AW4,GRP,,106,JERED,3/22/2021 13:37:52:222,N,,0,_G4,,,598
@@ -817,7 +817,7 @@ _M,Military Ticket,Military Ticket,Military Ticket,Military Ticket,Y,N,M-TYPE,0,
 _M0,Multi-Day Pass,Multi-Day Pass,Multi-Day Pass,Multi-Day Pass,Y,N,M-TYPE,27,_AW0,FP,,213,KMYERS,1/11/2023 12:12:15:961434,N,,0,_M0,,,816
 _M1,Group Multi-Day Pass,Group Multi-Day Pass,Group Multi-Day Pass,Group Multi-Day Pass,Y,N,M-TYPE,28,_AW1,GRP,,214,KMYERS,1/19/2023 09:34:33:961913,N,,0,_M1,,,817
 _M2,30% Off Multi-Day Pass,30% Off Multi-Day Pass,30% Off Multi-Day Pass,30% Off Multi-Day Pass,Y,N,M-TYPE,29,_AW2,FP,,215,KMYERS,1/11/2023 12:13:22:514435,N,,0,_M2,,,818
-_M3,Group 30% Off Multi-Day Pass,Group 30% Off Multi-Day Pass,Group 30% Off Multi-Day Pass,Group 30% Off Multi-Day Pass,Y,N,M-TYPE,30,_AW3,GRP,,216,KMYERS,1/19/2023 09:34:33:994545,N,,0,_M3,,,819
+_M3,Marketing 30% Discount,Marketing 30% Discount,Marketing 30% Discount,Marketing 30% Discount,Y,N,M-TYPE,30,_AW3,FP,,216,SPUCHTA,7/16/2025 11:38:15:54452,N,,0,_M3,,,819
 _M4,Full Price Marketing Ticket,Full Price Marketing Ticket,Full Price Marketing Ticket,Full Price Marketing Ticket,Y,N,M-TYPE,31,_AW4,FP,,217,KMYERS,2/9/2023 06:33:17:955226,N,,0,_M4,,,820
 _M5,Marketing 10% Discount,Marketing 10% Discount,Marketing 10% Discount,Marketing 10% Discount,Y,N,M-TYPE,32,_AW5,FP,,218,KMYERS,6/22/2023 10:48:19:037413,N,,0,_M5,,,821
 _M6,Marketing Discount Combo,Marketing Discount Combo,Marketing Discount Combo,Marketing Discount Combo,Y,N,M-TYPE,33,_AW6,FP,,219,KMYERS,1/22/2024 08:21:56:79178,N,,0,_M6,,,822
@@ -841,7 +841,7 @@ _MN,,,,,N,N,M-TYPE,14,_AWN,,,200,tm46,7/2/2007 14:37:43:199,N,,0,_MN,,,839
 _MO,Mothers Day Ticket,Mothers Day Ticket,Mothers Day Ticket,Mothers Day Ticket,Y,N,M-TYPE,15,_AWO,FP,,201,KMYERS,4/17/2023 08:41:41:263834,N,,0,_MO,,,840
 _MP,,,,,N,N,M-TYPE,16,_AWP,,,202,tm46,7/2/2007 14:37:43:199,N,,0,_MP,,,841
 _MQ,,,,,N,N,M-TYPE,17,_AWQ,,,203,tm46,7/2/2007 14:37:43:199,N,,0,_MQ,,,842
-_MR,,,,,N,N,M-TYPE,18,_AWR,,,204,tm46,7/2/2007 14:37:43:199,N,,0,_MR,,,843
+_MR,Merch: Championship Ring,,Merch: Championship Ring,,Y,N,M-TYPE,18,_AWR,EXP,,204,SPUCHTA,7/26/2025 12:59:09:683622,N,,0,_MR,,,843
 _MS,,,,,N,N,M-TYPE,19,_AWS,,,205,tm46,7/2/2007 14:37:43:199,N,,0,_MS,,,844
 _MT,$25 Marketing Ticket,$25 Marketing Ticket,$25 Marketing Ticket,$25 Marketing Ticket,Y,N,M-TYPE,20,_AWT,FP,,206,AKRALL,7/31/2023 11:27:08:371013,N,,0,_MT,,,845
 _MU,,,,,N,N,M-TYPE,21,_AWU,,,207,tm46,7/2/2007 14:37:43:199,N,,0,_MU,,,846
@@ -1047,31 +1047,31 @@ _S7,,,,,N,N,T-TYPE,71,_DU7,,,776,tm46,7/2/2007 14:37:43:324,N,,0,_S7,,,1045
 _S8,,,,,N,N,T-TYPE,72,_DU8,,,777,tm46,7/2/2007 14:37:43:324,N,,0,_S8,,,1046
 _S9,,,,,N,N,T-TYPE,73,_DU9,,,778,tm46,7/2/2007 14:37:43:324,N,,0,_S9,,,1047
 _SA,Suite Deposit,Suite Deposit,Suite Deposit,Suite Deposit,Y,N,T-TYPE,38,_DUA,DEP,,743,SPUCHTA,4/8/2025 08:52:11:4672,N,,0,_SA,,,1048
-_SB,Suite Ticket $140,Suite Ticket $140,Suite Ticket $140,Suite Ticket $140,Y,N,T-TYPE,39,_DUB,FP,,744,AKRALL,8/21/2023 11:22:47:392756,N,,0,_SB,,,1049
-_SC,Suite Ticket $175,Suite Ticket $175,Suite Ticket $175,Suite Ticket $175,Y,N,T-TYPE,40,_DUC,FP,,745,KMYERS,6/27/2023 14:31:18:219945,N,,0,_SC,,,1050
-_SD,Suite Discount,Suite Discount,Suite Discount,Suite Discount,Y,N,T-TYPE,41,_DUD,FP,,746,ECHALLMA,8/24/2021 10:02:38:276,N,,0,_SD,,,1051
-_SE,Senior,,Senior,,Y,N,T-TYPE,42,_DUE,,,747,tm46,7/2/2007 14:37:43:324,N,,0,_SE,SEN,,1052
-_SF,Suite Ticket $100,Suite Ticket $100,Suite Ticket $100,Suite Ticket $100,Y,N,T-TYPE,43,_DUF,FP,,748,KMYERS,5/10/2023 12:42:40:417964,N,,0,_SF,,,1053
-_SG,Suite Ticket $150,Suite Ticket $150,Suite Ticket $150,Suite Ticket $150,Y,N,T-TYPE,44,_DUG,FP,,749,KMYERS,5/10/2023 12:40:06:475784,N,,0,_SG,,,1054
-_SH,Suite Ticket $145,Suite Ticket $145,Suite Ticket $145,Suite Ticket $145,Y,N,T-TYPE,45,_DUH,FP,,750,KMYERS,2/17/2023 11:55:53:220634,N,,0,_SH,,,1055
+_SB,Suite Ticket $140,Suite Ticket $140,Suite Ticket $140,Suite Ticket $140,N,N,T-TYPE,39,_DUB,FP,,744,SPUCHTA,7/30/2025 12:41:45:448446,N,,0,_SB,,,1049
+_SC,Suite Ticket $175,Suite Ticket $175,Suite Ticket $175,Suite Ticket $175,N,N,T-TYPE,40,_DUC,FP,,745,SPUCHTA,7/30/2025 12:41:45:490509,N,,0,_SC,,,1050
+_SD,Suite Discount,Suite Discount,Suite Discount,Suite Discount,N,N,T-TYPE,41,_DUD,FP,,746,SPUCHTA,7/30/2025 12:41:45:528724,N,,0,_SD,,,1051
+_SE,Senior,,Senior,,N,N,T-TYPE,42,_DUE,,,747,SPUCHTA,7/30/2025 12:41:45:578128,N,,0,_SE,SEN,,1052
+_SF,Suite Ticket $100,Suite Ticket $100,Suite Ticket $100,Suite Ticket $100,N,N,T-TYPE,43,_DUF,FP,,748,SPUCHTA,7/30/2025 12:41:45:618192,N,,0,_SF,,,1053
+_SG,Suite Ticket $150,Suite Ticket $150,Suite Ticket $150,Suite Ticket $150,N,N,T-TYPE,44,_DUG,FP,,749,SPUCHTA,7/30/2025 12:41:45:654629,N,,0,_SG,,,1054
+_SH,Suite Ticket $145,Suite Ticket $145,Suite Ticket $145,Suite Ticket $145,N,N,T-TYPE,45,_DUH,FP,,750,SPUCHTA,7/30/2025 12:41:45:691658,N,,0,_SH,,,1055
 _SI,Suite Individual,Suite Individual Ticket,Suite Individual,Suite Individual Ticket,Y,N,T-TYPE,46,_DUI,ST,,751,SPUCHTA,3/25/2025 09:24:38:541182,N,,0,_SI,,,1056
-_SJ,Special 20% Off,Special 20% Off,Special 20% Off,Special 20% Off,Y,N,T-TYPE,47,_DUJ,FP,,752,KMYERS,4/28/2023 10:26:20:808216,N,,0,_SJ,,,1057
-_SK,Speical 10% Off,Special 10% Off,Speical 10% Off,Special 10% Off,Y,N,T-TYPE,48,_DUK,FP,,753,KMYERS,6/10/2023 12:38:41:161116,N,,0,_SK,,,1058
-_SL,Suite Ticket $187.50,Suite Ticket $187.50,Suite Ticket $187.50,Suite Ticket $187.50,Y,N,T-TYPE,49,_DUL,FP,,754,KMYERS,6/12/2023 10:01:49:83838,N,,0,_SL,,,1059
-_SM,Suite Ticket 218.75,Suite Ticket $218.75,Suite Ticket 218.75,Suite Ticket $218.75,Y,N,T-TYPE,50,_DUM,FP,,755,KMYERS,6/12/2023 10:01:49:86349,N,,0,_SM,,,1060
+_SJ,Special 20% Off,Special 20% Off,Special 20% Off,Special 20% Off,N,N,T-TYPE,47,_DUJ,FP,,752,SPUCHTA,7/30/2025 12:41:45:731457,N,,0,_SJ,,,1057
+_SK,Speical 10% Off,Special 10% Off,Speical 10% Off,Special 10% Off,N,N,T-TYPE,48,_DUK,FP,,753,SPUCHTA,7/30/2025 12:41:45:768488,N,,0,_SK,,,1058
+_SL,Suite Ticket $187.50,Suite Ticket $187.50,Suite Ticket $187.50,Suite Ticket $187.50,N,N,T-TYPE,49,_DUL,FP,,754,SPUCHTA,7/30/2025 12:41:45:80379,N,,0,_SL,,,1059
+_SM,Suite Ticket 218.75,Suite Ticket $218.75,Suite Ticket 218.75,Suite Ticket $218.75,N,N,T-TYPE,50,_DUM,FP,,755,SPUCHTA,7/30/2025 12:41:45:838982,N,,0,_SM,,,1060
 _SN,Suite Ticket $125,Suite Ticket $125,Suite Ticket $125,Suite Ticket $125,Y,N,T-TYPE,51,_DUN,FP,,756,KMYERS,6/7/2023 06:09:52:127613,N,,0,_SN,,,1061
-_SO,Suite Ticket $250,Suite Ticket $250,Suite Ticket $250,Suite Ticket $250,Y,N,T-TYPE,52,_DUO,FP,,757,KMYERS,3/8/2023 09:02:20:210526,N,,0,_SO,,,1062
-_SP,Suite Ticket $120,Suite Ticket $120,Suite Ticket $120,Suite Ticket $120,Y,N,T-TYPE,53,_DUP,FP,,758,KMYERS,3/7/2023 09:25:50:458329,N,,0,_SP,,,1063
-_SQ,Suite Ticket $80,Suite Ticket $80,Suite Ticket $80,Suite Ticket $80,Y,N,T-TYPE,54,_DUQ,FP,,759,KMYERS,3/7/2023 09:25:50:479265,N,,0,_SQ,,,1064
-_SR,Standing Room Only,Standing Room Only,Standing Room Only,Standing Room Only,Y,N,T-TYPE,55,_DUR,FP,,760,KMYERS,7/18/2022 07:01:53:649725,N,,0,_SR,,,1065
-_SS,Endzone SRO,Endzone SRO,Endzone SRO,Endzone SRO,Y,N,T-TYPE,56,_DUS,FP,,761,KMYERS,8/9/2022 07:33:02:39187,N,,0,_SS,,,1066
-_ST,Suite Ticket $200,Suite Ticket $300,Suite Ticket $200,Suite Ticket $300,Y,N,T-TYPE,57,_DUT,FP,,762,KMYERS,2/3/2023 08:51:19:85787,N,,0,_ST,,,1067
-_SU,Suite Ticket $300,Suite Ticket $300,Suite Ticket $300,Suite Ticket $300,Y,N,T-TYPE,58,_DUU,FP,,763,KMYERS,2/3/2023 08:51:19:883718,N,,0,_SU,,,1068
-_SV,Suite Ticket $240,Suite Ticket $240,Suite Ticket $240,Suite Ticket $240,Y,N,T-TYPE,59,_DUV,FP,,764,KMYERS,2/6/2023 09:39:55:462585,N,,0,_SV,,,1069
-_SW,Suite Ticket $280,Suite Ticket $280,Suite Ticket $280,Suite Ticket $280,Y,N,T-TYPE,60,_DUW,FP,,765,KMYERS,2/6/2023 09:41:52:416798,N,,0,_SW,,,1070
-_SX,Suite Ticket $350,Suite Ticket $350,Suite Ticket $350,Suite Ticket $350,Y,N,T-TYPE,61,_DUX,FP,,766,KMYERS,2/8/2023 06:47:48:345196,N,,0,_SX,,,1071
-_SY,Suite Ticket $337.50,Suite Ticket $337.50,Suite Ticket $337.50,Suite Ticket $337.50,Y,N,T-TYPE,62,_DUY,FP,,767,KMYERS,2/16/2023 13:03:08:86532,N,,0,_SY,,,1072
-_SZ,Suite Ticket $50,Suite Ticket $50,Suite Ticket $50,Suite Ticket $50,Y,N,T-TYPE,63,_DUZ,FP,,768,KMYERS,2/17/2023 05:52:54:071367,N,,0,_SZ,,,1073
+_SO,Suite Ticket $250,Suite Ticket $250,Suite Ticket $250,Suite Ticket $250,N,N,T-TYPE,52,_DUO,FP,,757,SPUCHTA,7/30/2025 12:41:45:874041,N,,0,_SO,,,1062
+_SP,Supporter Ticket,Supporter Ticket,Supporter Ticket,Supporter Ticket,Y,N,T-TYPE,53,_DUP,FP,,758,SPUCHTA,7/31/2025 13:12:26:125586,N,,0,_SP,,,1063
+_SQ,Suite Ticket $80,Suite Ticket $80,Suite Ticket $80,Suite Ticket $80,N,N,T-TYPE,54,_DUQ,FP,,759,SPUCHTA,7/30/2025 12:41:45:945307,N,,0,_SQ,,,1064
+_SR,Standing Room Only,Standing Room Only,Standing Room Only,Standing Room Only,N,N,T-TYPE,55,_DUR,FP,,760,SPUCHTA,7/30/2025 12:41:45:980506,N,,0,_SR,,,1065
+_SS,Endzone SRO,Endzone SRO,Endzone SRO,Endzone SRO,N,N,T-TYPE,56,_DUS,FP,,761,SPUCHTA,7/30/2025 12:41:46:015914,N,,0,_SS,,,1066
+_ST,Suite Ticket $200,Suite Ticket $300,Suite Ticket $200,Suite Ticket $300,N,N,T-TYPE,57,_DUT,FP,,762,SPUCHTA,7/30/2025 12:41:46:051722,N,,0,_ST,,,1067
+_SU,Suite Upgrade,Suite Upgrade,Suite Upgrade,Suite Upgrade,Y,N,T-TYPE,58,_DUU,ST,,763,SPUCHTA,7/30/2025 12:41:46:060578,N,,0,_SU,,,1068
+_SV,Suite Ticket $240,Suite Ticket $240,Suite Ticket $240,Suite Ticket $240,N,N,T-TYPE,59,_DUV,FP,,764,SPUCHTA,7/30/2025 12:41:46:099386,N,,0,_SV,,,1069
+_SW,Suite Ticket $280,Suite Ticket $280,Suite Ticket $280,Suite Ticket $280,N,N,T-TYPE,60,_DUW,FP,,765,SPUCHTA,7/30/2025 12:41:46:13403,N,,0,_SW,,,1070
+_SX,Suite Ticket $350,Suite Ticket $350,Suite Ticket $350,Suite Ticket $350,N,N,T-TYPE,61,_DUX,FP,,766,SPUCHTA,7/30/2025 12:41:46:168917,N,,0,_SX,,,1071
+_SY,Suite Ticket $337.50,Suite Ticket $337.50,Suite Ticket $337.50,Suite Ticket $337.50,N,N,T-TYPE,62,_DUY,FP,,767,SPUCHTA,7/30/2025 12:41:46:20381,N,,0,_SY,,,1072
+_SZ,Suite Ticket $50,Suite Ticket $50,Suite Ticket $50,Suite Ticket $50,N,N,T-TYPE,63,_DUZ,FP,,768,SPUCHTA,7/30/2025 12:41:46:238296,N,,0,_SZ,,,1073
 _T,Group Top Caliber,Group Top Caliber,Group Top Caliber,Group Top Caliber,Y,N,T-TYPE,0,_AW_,GRP,,335,KMYERS,3/25/2022 11:46:49:715,N,,0,_T,,,1074
 _T0,Group Top Caliber Additional,Group Top Caliber Additional,Group Top Caliber Additional,Group Top Caliber Additional,Y,N,T-TYPE,27,_AW0,GRP,,362,KMYERS,3/25/2022 11:46:49:732,N,,0,_T0,,,1075
 _T1,Group Top Caliber FEVO Comp,roup Top Caliber FEVO Comp,roup Top Caliber FEVO Comp,roup Top Caliber FEVO Comp,Y,N,T-TYPE,28,_AW1,GRP,,363,KMYERS,3/25/2022 11:46:49:748,N,,0,_T1,,,1076

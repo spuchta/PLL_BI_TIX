@@ -1,4 +1,4 @@
-﻿ticket_type,ticket_type_name,ticket_type_desc,inet_ticket_type_name,inet_ticket_type_desc,active,protected,host_ticket_type,host_qual_id,host_qual_name,ticket_type_category,class_id,sort_seq,upd_user,upd_datetime,comp_ind,comp_code,default_host_offer_id,default_host_seat_mask,orig_lbd_ticket_type,fantm_message_code,ms_seq_id
+ticket_type,ticket_type_name,ticket_type_desc,inet_ticket_type_name,inet_ticket_type_desc,active,protected,host_ticket_type,host_qual_id,host_qual_name,ticket_type_category,class_id,sort_seq,upd_user,upd_datetime,comp_ind,comp_code,default_host_offer_id,default_host_seat_mask,orig_lbd_ticket_type,fantm_message_code,ms_seq_id
 _0,,,,,N,N,K-TYPE,74,_X7_,,,927,tm46,7/2/2007 14:37:43:355,N,,0,_0,,,1
 _00,,,,,N,N,K-TYPE,101,_X70,,,954,tm46,7/2/2007 14:37:43:355,N,,0,_00,,,2
 _01,Group Marketing 10%,Group Marketing 10%,Group Marketing 10%,Group Marketing 10%,Y,N,K-TYPE,102,_X71,GRP,,955,SPUCHTA,1/29/2025 17:07:12:934894,N,,0,_01,,,3
@@ -398,7 +398,7 @@ _AO,Annandale FEVO ticket,Annandale FEVO ticket,Annandale FEVO ticket,Annandale 
 _AP,,,,,N,N,ADULT,16,_AWP,,,17,tm46,7/2/2007 14:37:43:152,N,,0,_AP,,,397
 _AQ,,,,,N,N,ADULT,17,_AWQ,,,18,tm46,7/2/2007 14:37:43:152,N,,0,_AQ,,,398
 _AR,,,,,N,N,ADULT,18,_AWR,,,19,tm46,7/2/2007 14:37:43:152,N,,0,_AR,,,399
-_AS,,,,,N,N,ADULT,19,_AWS,,,20,tm46,7/2/2007 14:37:43:152,N,,0,_AS,,,400
+_AS,Group: PLL Assists,,Group: PLL Assists,,Y,N,ADULT,19,_AWS,GRP,,20,SPUCHTA,8/11/2025 08:08:14:955243,N,,0,_AS,,,400
 _AT,Pro Athlete Ticket,Pro Athlete Ticket,Pro Athlete Ticket,Pro Athlete Ticket,Y,N,ADULT,20,_AWT,FP,,21,AKRALL,2/19/2023 07:15:18:35231,N,,0,_AT,,,401
 _AU,,,,,N,N,ADULT,21,_AWU,,,22,tm46,7/2/2007 14:37:43:152,N,,0,_AU,,,402
 _AV,,,,,N,N,ADULT,22,_AWV,,,23,tm46,7/2/2007 14:37:43:152,N,,0,_AV,,,403
@@ -454,7 +454,7 @@ _C6,Comp - Partners,Comp - Partners,Comp - Partners,Comp - Partners,Y,N,COMP,33,
 _C7,Comp - Trouble,Comp - Trouble,Comp - Trouble,Comp - Trouble,Y,N,COMP,34,_AW7,CMP,,257,KMYERS,2/21/2024 11:06:34:168499,N,,37,_C7,,,453
 _C8,Comp - Player Groups,Comp - Player Groups,Comp - Player Groups,Comp - Player Groups,Y,N,COMP,35,_AW8,CMP,,258,AKRALL,6/10/2024 08:44:18:190748,N,,37,_C8,,,454
 _C9,,,,,N,N,COMP,36,_AW9,CMP,,259,tm46,7/2/2007 14:37:43:214,Y,,37,_C9,,,455
-_CA,Cash App Discount Tickets,Cash App Discounted Tickets,Cash App Discount Tickets,Cash App Discounted TIckets,Y,N,COMP,1,_AWA,FP,,224,AKRALL,6/20/2023 16:39:53:212941,N,,0,_CA,,,456
+_CA,Comp - Assists (Paid),Comp - Assists (Paid),Comp - Assists (Paid),Comp - Assists (Paid),Y,N,COMP,1,_AWA,FP,,224,SPUCHTA,8/13/2025 11:45:05:47936,N,,0,_CA,,,456
 _CB,,,,,N,N,COMP,2,_AWB,CMP,,225,tm46,7/2/2007 14:37:43:199,Y,,37,_CB,,,457
 _CC,,,,,N,N,COMP,3,_AWC,CMP,,226,tm46,7/2/2007 14:37:43:199,Y,,37,_CC,,,458
 _CD,,,,,N,N,COMP,4,_AWD,CMP,,227,tm46,7/2/2007 14:37:43:199,Y,,37,_CD,,,459
@@ -504,7 +504,7 @@ _DJ,Deposit: Club Program (Group),Deposit: Club Program (Group),Deposit: Club Pr
 _DK,Deposit: Comm Program (Group),Deposit: Comm Program (Group),Deposit: Comm Program (Group),Deposit: Comm Program (Group),Y,N,ADULT,48,_DUK,GRP,,420,SPUCHTA,4/3/2025 13:10:20:17647,N,,0,_DK,,,503
 _DL,Deposit: BD Tickets (Non-Int),Deposit: BD Tickets (Non-Int),Deposit: BD Tickets (Non-Int),Deposit: BD Tickets (Non-Int),Y,N,ADULT,49,_DUL,FP,,421,SPUCHTA,4/3/2025 13:10:20:190864,N,,0,_DL,,,504
 _DM,Deposit: BD Suite (Suites),Deposit: BD Suite (Suites),Deposit: BD Suite (Suites),Deposit: BD Suite (Suites),Y,N,ADULT,50,_DUM,ST,,422,SPUCHTA,4/3/2025 13:10:20:205208,N,,0,_DM,,,505
-_DN,,,,,N,N,ADULT,51,_DUN,,,423,tm46,7/2/2007 14:37:43:245,N,,0,_DN,,,506
+_DN,Deposit: HCP Renewal,Deposit: HCP Renewal,Deposit: HCP Renewal,Deposit: HCP Renewal,Y,N,ADULT,51,_DUN,HPG,,423,SPUCHTA,8/6/2025 09:19:51:048994,N,,0,_DN,,,506
 _DO,,,,,N,N,ADULT,52,_DUO,,,424,tm46,7/2/2007 14:37:43:245,N,,0,_DO,,,507
 _DP,,,,,N,N,ADULT,53,_DUP,,,425,tm46,7/2/2007 14:37:43:245,N,,0,_DP,,,508
 _DQ,,,,,N,N,ADULT,54,_DUQ,,,426,tm46,7/2/2007 14:37:43:245,N,,0,_DQ,,,509
@@ -555,7 +555,7 @@ _EX,,,,,N,N,J-TYPE,61,_DUX,,,470,tm46,7/2/2007 14:37:43:261,N,,0,_EX,,,553
 _EY,,,,,N,N,J-TYPE,62,_DUY,,,471,tm46,7/2/2007 14:37:43:261,N,,0,_EY,,,554
 _EZ,,,,,N,N,J-TYPE,63,_DUZ,,,472,tm46,7/2/2007 14:37:43:261,N,,0,_EZ,,,555
 _F,Family Pack Ticket,Family Pack Ticket,Family Pack Ticket,Family Pack Ticket,Y,N,G-TYPE,37,_DU_,GRP,,483,KMYERS,5/22/2023 08:51:51:151853,N,,0,_F,,,556
-_F0,Food Voucher,,Food Voucher,,Y,N,G-TYPE,64,_DU0,CMP,,510,SPUCHTA,5/31/2025 11:16:49:444053,N,,0,_F0,,,557
+_F0,Food Voucher,Each voucher is good for 1 Main (Hot Dog or Burger or Brat or Chicken Tenders) with chips and a soft drink,Food Voucher,Each voucher is good for 1 Main (Hot Dog or Burger or Brat or Chicken Tenders) with chips and a soft drink,Y,N,G-TYPE,64,_DU0,FP,,510,SPUCHTA,8/19/2025 10:52:14:900248,N,,0,_F0,,,557
 _F1,FEVO 15% OFF,FEVO 15% OFF,FEVO 15% OFF,FEVO 15% OFF,Y,N,G-TYPE,65,_DU1,GRP,,511,SPUCHTA,6/4/2025 09:01:09:299427,N,,0,_F1,,,558
 _F2,FEVO 20% OFF,FEVO 20% OFF,FEVO 20% OFF,FEVO 20% OFF,Y,N,G-TYPE,66,_DU2,GRP,,512,SPUCHTA,6/10/2025 11:27:37:768032,N,,0,_F2,,,559
 _F3,FEVO 30% OFF,FEVO 30% OFF,FEVO 30% OFF,FEVO 30% OFF,Y,N,G-TYPE,67,_DU3,GRP,,513,KMYERS,2/11/2022 12:28:33:96,N,,0,_F3,,,560
@@ -960,7 +960,7 @@ _PV,Pocatello Fevo Discount,Pocatello Fevo Discount,Pocatello Fevo Discount,Poca
 _PW,,,,,N,N,COMP,60,_DUW,CMP,,654,tm46,7/2/2007 14:37:43:292,Y,,37,_PW,,,959
 _PX,,,,,N,N,COMP,61,_DUX,CMP,,655,tm46,7/2/2007 14:37:43:292,Y,,37,_PX,,,960
 _PY,PLL Play Paid Ticket,PLL Play Paid Ticket,PLL Play Paid Ticket,PLL Play Paid Ticket,Y,N,COMP,62,_DUY,GRP,,656,AKRALL,2/7/2025 13:30:46:780217,N,,37,_PY,,,961
-_PZ,,,,,N,N,COMP,63,_DUZ,CMP,,657,tm46,7/2/2007 14:37:43:292,Y,,37,_PZ,,,962
+_PZ,Partner Paid Ticker,,Partner Paid Ticker,,Y,N,COMP,63,_DUZ,CMP,,657,AKRALL,7/31/2025 21:25:05:060764,N,,37,_PZ,,,962
 _Q,,,,,N,N,B-TYPE,37,_DU_,,,668,tm46,7/2/2007 14:37:43:308,N,,0,_Q,,,963
 _Q0,Group Sales Meet and Greet,Group Sales Meet and Greet,Group Sales Meet and Greet,Group Sales Meet and Greet,Y,N,B-TYPE,64,_DU0,EXP,,695,KMYERS,2/21/2024 11:08:39:800579,N,,0,_Q0,,,964
 _Q1,Group Sales Netcuttuing,Group Sales Netcuttuing,Group Sales Netcuttuing,Group Sales Netcuttuing,Y,N,B-TYPE,65,_DU1,EXP,,696,AKRALL,5/20/2024 14:00:09:38006,N,,0,_Q1,,,965
@@ -1055,7 +1055,7 @@ _SF,Suite Ticket $100,Suite Ticket $100,Suite Ticket $100,Suite Ticket $100,N,N,
 _SG,Suite Ticket $150,Suite Ticket $150,Suite Ticket $150,Suite Ticket $150,N,N,T-TYPE,44,_DUG,FP,,749,SPUCHTA,7/30/2025 12:41:45:654629,N,,0,_SG,,,1054
 _SH,Suite Ticket $145,Suite Ticket $145,Suite Ticket $145,Suite Ticket $145,N,N,T-TYPE,45,_DUH,FP,,750,SPUCHTA,7/30/2025 12:41:45:691658,N,,0,_SH,,,1055
 _SI,Suite Individual,Suite Individual Ticket,Suite Individual,Suite Individual Ticket,Y,N,T-TYPE,46,_DUI,ST,,751,SPUCHTA,3/25/2025 09:24:38:541182,N,,0,_SI,,,1056
-_SJ,Special 20% Off,Special 20% Off,Special 20% Off,Special 20% Off,N,N,T-TYPE,47,_DUJ,FP,,752,SPUCHTA,7/30/2025 12:41:45:731457,N,,0,_SJ,,,1057
+_SJ,SI Midfield Suite,SI Midfield Suite,SI Midfield Suite,SI Midfield Suite,Y,N,T-TYPE,47,_DUJ,ST,,752,SPUCHTA,9/4/2025 12:29:55:53874,N,,0,_SJ,,,1057
 _SK,Speical 10% Off,Special 10% Off,Speical 10% Off,Special 10% Off,N,N,T-TYPE,48,_DUK,FP,,753,SPUCHTA,7/30/2025 12:41:45:768488,N,,0,_SK,,,1058
 _SL,Suite Ticket $187.50,Suite Ticket $187.50,Suite Ticket $187.50,Suite Ticket $187.50,N,N,T-TYPE,49,_DUL,FP,,754,SPUCHTA,7/30/2025 12:41:45:80379,N,,0,_SL,,,1059
 _SM,Suite Ticket 218.75,Suite Ticket $218.75,Suite Ticket 218.75,Suite Ticket $218.75,N,N,T-TYPE,50,_DUM,FP,,755,SPUCHTA,7/30/2025 12:41:45:838982,N,,0,_SM,,,1060
